@@ -1,11 +1,18 @@
-{"name":"STAR TV", 
-"author":"¡¡ lista libre y gratis recopilada con enlaces de Internet ¡¡",
+
+{"name":"   ðŸ‡ªðŸ‡¦ STAR TV ðŸ‡ªðŸ‡¦   "  , 
+"author":"Â¡Â¡ lista libre y gratis recopilada con enlaces de Internet Â¡Â¡ ",
 "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
 "imageScale": "",
+"contact":"",
+"info":"",
 "groups": [
+
+
+
+
   
-{"name": "Tv ESPAÑA op-1",
+{"name": "Tv ESPAÑA op1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
 "stations":[
 
@@ -290,15 +297,14 @@
 
 ]},
 
-{"name": "Tv ESPAÑA op-2 VL",
+{"name": "Tv ESPAÑA op2 VL",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
 "stations":[
 
 { "name": "Tv OPVL", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
 "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u", 
-"userAgent": "Lavf/57.83.100", "isHost": "true"
-},
+"userAgent": "Lavf/57.83.100", "isHost": true },
 
 ]},
 
@@ -984,8 +990,8 @@
 "isHost": "true" },
 {"name": "Real Madridtv",
 "image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
-"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"
-},
+"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8",
+"userAgent": "http-reconnect=true"},
 
 ]},
 
@@ -1096,8 +1102,7 @@
 {"name": "Formula1 6",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://strims.world/f1/",
-"isHost": "true"
-},
+"isHost": "true"},
 
 ]},
 
@@ -1168,8 +1173,7 @@
 {"name":"dailysport C15",
 "image":"https://www.dropbox.com/s/nllx0vmexkj30an/DAILI.jpg?dl=1",
 "url": "https://dailysport.pw/c15.php",
-"isHost": "true"
-},
+"isHost": "true"},
 
 ]},
 
@@ -1186,8 +1190,7 @@
 "image": "https://i.imgur.com/99gUA0f.png",
 "url": "https://live-sports-stream.net/video.php",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0",
-"embed": "true"
-},
+"embed": "true"},
 
 ]},
 
@@ -1254,7 +1257,8 @@
 },
 
 ]},
-{"name": "PLUTO TV-CINE ONLINE",
+
+{"name": "PLUTO TV CINE ONLINE",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/cine%20online%20swrs.gif",
 "stations": [
 
@@ -1283,18 +1287,18 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/pluto.jpg",  
 "url": "https://www.pluto.tv/live-tv/pluto-tv-sci-fi-es", 
 "isHost": "true" },
-{ "name": "pluto tv kids-es", 
+{ "name": "pluto tv kids es", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/pluto.jpg",  
 "url": "https://www.pluto.tv/live-tv/pluto-tv-kids-es", 
 "isHost": "true" },
-{ "name": "pluto tv animakids-es", 
+{ "name": "pluto tv animakids es", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/pluto.jpg",  
 "url": "https://www.pluto.tv/live-tv/pluto-tv-animakids-es", 
 "isHost": "true" },
-{ "name": "pluto tv junior-es", 
+{ "name": "pluto tv junior es", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/pluto.jpg",  
 "url": "https://www.pluto.tv/live-tv/pluto-tv-junior-es", 
-"isHost": "true" }
+"isHost": "true" },
 { "name": "pluto tv kids-halloween-es", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/pluto.jpg",  
 "url": "https://www.pluto.tv/live-tv/pluto-tv-kids-halloween-es", 
@@ -1334,8 +1338,7 @@
  {"name": "LATINO MOVIES", 
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/CINE%20LATINO.png",
 "url": "https://www.zonafilmstv.com/p/latinomovies.html",
-"isHost": "true" 
-},
+"isHost": "true"},
 
 ]},
 
@@ -1382,8 +1385,7 @@
 {"name": "PLEXEROS registro",
 "image":"https://www.dropbox.com/s/wrvzerkbs23lnt9/Screenshot_2020-05-17-14-20-29-954_com.android.chrome.jpg?dl=1",
 "url": "http://plexeros.com/",
-"embed": "true"
-},
+"embed": "true"},
 
 ]},
 
@@ -1505,7 +1507,7 @@
  {"name": "DJING HITS", 
  "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
 "url": "https://www.djing.com/tv/hits.m3u8",
-"userAgent": "http-reconnect=true"  },
+"userAgent": "http-reconnect=true" },
 {"name": "DJING hot", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
 "url": "http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8",
@@ -1532,8 +1534,7 @@
  {"name": "RUTV", 
  "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
 "url": "https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8",
-"userAgent": "http-reconnect=true"  
-},
+"userAgent": "http-reconnect=true"},
 
 ]},
 
@@ -1565,8 +1566,7 @@
 {"name": "COVID-19 info diaria 5",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/giphy.gif",
 "url": "https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html",
-"embed": "true"
-},
+"embed": "true"},
 
 ]},
 
@@ -1586,8 +1586,7 @@
 {"name": "GUIA formulatv",
 "image": "https://www.dropbox.com/s/xw097h0m28ilifl/xprogramacion-tv.png.pagespeed.ic.Ct_80HMG76.png?dl=1",
 "url": "https://www.formulatv.com/programacion/movistarplus/",
-"embed": "true"
-},
+"embed": "true"},
 
 ]},
 
@@ -1652,7 +1651,10 @@
 "url": "https://m.youtube.com/watch?v=KjDbmjROHHA",
 "embed": "true"},
 {"name": "Agradezco a GRUPO TDT CHANNEL por los TDT", "image":"https://www.dropbox.com/s/3w3ovahh5n86pp0/gracias-por-tu-compra.jpg?dl=1",
-"url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8"},
+"url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8",
+"userAgent": ""},
+
+
 
 ]},
 
