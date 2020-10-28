@@ -286,9 +286,9 @@
 "image":"https://www.dropbox.com/s/s1q7pfuviqsvns3/1_0_1_76CE_40E_1_C00000_0_0_0.png?dl=1",
 "url": "https://adictosalatele.com/TV/espana/canal-cocina/",
 "embed": "true"
-}]
-
 },
+
+]},
 
 {"name": "Tv ESPAÑA op-2 VL",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
@@ -297,7 +297,8 @@
 { "name": "Tv OPVL", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
 "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u", 
-"userAgent": "Lavf/57.83.100", "isHost": true },
+"userAgent": "Lavf/57.83.100", "isHost": "true"
+},
 
 ]},
 
@@ -623,9 +624,9 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg", 
 "url": "https://www.dailymotion.com/embed/video/x3lkeab", 
 "embed": "true"
-}]
-
 },
+
+]},
 
 {"name": "Tv DEPORTES",
 "image": "https://www.dropbox.com/s/96rqichndzxs973/balls%20sport%201.gif?dl=1",
@@ -983,10 +984,10 @@
 "isHost": "true" },
 {"name": "Real Madridtv",
 "image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
-"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"}
-]
-
+"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"
 },
+
+]},
 
 {"name": "TV DAZN Y MOTOR",
 "image": "https://www.dropbox.com/s/78kwds961lryq1k/MOTOR1.jpg?dl=1",
@@ -1096,9 +1097,9 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://strims.world/f1/",
 "isHost": "true"
-}]
-
 },
+
+]},
 
 {"name": "daily sport TV",
 "image":"https://www.dropbox.com/s/nllx0vmexkj30an/DAILI.jpg?dl=1",
@@ -1168,9 +1169,10 @@
 "image":"https://www.dropbox.com/s/nllx0vmexkj30an/DAILI.jpg?dl=1",
 "url": "https://dailysport.pw/c15.php",
 "isHost": "true"
-}]
-
 },
+
+]},
+
 {"name": "LIVE SPORT-STRERAM",
 "image": "https://i.imgur.com/99gUA0f.png",
 "stations": [	
@@ -1185,10 +1187,9 @@
 "url": "https://live-sports-stream.net/video.php",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0",
 "embed": "true"
-
-}]
-
 },
+
+]},
 
 {"name": "Paginas de Deportes",
 "image": "https://www.dropbox.com/s/s8unfqk8gdotwch/bf15463024fb8d338a159a4d53f8eef0.gif?dl=1",
@@ -1250,10 +1251,9 @@
 "image":"https://www.dropbox.com/s/8xo49nyega3eih4/IMG_20200531_221901.jpg?dl=1",
 "url": "http://www.s365.live/es/home",
 "embed": "true"
-}]
-
 },
 
+]},
 {"name": "PLUTO TV-CINE ONLINE",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/cine%20online%20swrs.gif",
 "stations": [
@@ -1335,11 +1335,11 @@
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/CINE%20LATINO.png",
 "url": "https://www.zonafilmstv.com/p/latinomovies.html",
 "isHost": "true" 
-}]
-
 },
- 
- {"name": "PAGINAS DE PELICULAS",
+
+]},
+
+{"name": "PAGINAS DE PELICULAS",
 "image": "https://www.dropbox.com/s/8q9jcayz5zqxypd/unnamed.gif?dl=1",
 "stations": [
  
@@ -1383,10 +1383,9 @@
 "image":"https://www.dropbox.com/s/wrvzerkbs23lnt9/Screenshot_2020-05-17-14-20-29-954_com.android.chrome.jpg?dl=1",
 "url": "http://plexeros.com/",
 "embed": "true"
-
-}]
-
 },
+
+]},
 
 {"name": "RADIOS ONLINE",
 "image": "https://www.dropbox.com/s/hmtjymscccvv8j3/radio-imagen-animada-0065.gif?dl=1",
@@ -1430,9 +1429,9 @@
 "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
 "userAgent": "http-reconnect=true"
 
-}]
-
 },
+
+]},
 
 {"name": "TV Música",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/music%20gif.gif",
@@ -1534,10 +1533,9 @@
  "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
 "url": "https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8",
 "userAgent": "http-reconnect=true"  
-
-}]
-
 },
+
+]},
 
 {"name": "COVID-19 Pandemic WORLD",
 "imageScale": "",
@@ -1568,10 +1566,9 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/giphy.gif",
 "url": "https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html",
 "embed": "true"
-}]
-
 },
 
+]},
 
 {"name": "PROGRAMACION DE TV",
 "imageScale": "",
@@ -1590,9 +1587,9 @@
 "image": "https://www.dropbox.com/s/xw097h0m28ilifl/xprogramacion-tv.png.pagespeed.ic.Ct_80HMG76.png?dl=1",
 "url": "https://www.formulatv.com/programacion/movistarplus/",
 "embed": "true"
-}]
-
 },
+
+]},
 
 {"name": "Listas Wiseplay_com",
  "image": "https://www.dropbox.com/s/4vxb6ea8n63stfi/listas-wiseplay-portada.jpg?dl=1",
@@ -1606,10 +1603,9 @@
 "image":"https://www.dropbox.com/s/bwuz2rhzjjiczo4/IMG_20200615_101207.jpg?dl=1",
  "url": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://t.me/listaswiseplay&ved=2ahUKEwiq5rDzsYPqAhVS8uAKHVioCvEQFjAAegQIARAB&usg=AOvVaw1E4Z8oCjxV85IWS2QgaKrA",
 "embed": "true"
-}]
-
 },
 
+]},
 
 {"name": "Protectoras De Animales By Vargas",
  "image": "https://www.dropbox.com/s/suyicgchmcy6in5/huertodlc.jpeg?dl=1",
@@ -1624,9 +1620,9 @@
  "url": "https://telegra.ph/Ayuda-a-la-protectora-07-08",
 "embed": "true" 
  
-}]
-
 },
+
+]},
 
 {"name": "TEAM SPORT",
  "image": "https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
@@ -1640,9 +1636,9 @@
 "image":"https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
  "url": "https://appteamsports.github.io/#download",
 "embed": "true" 
-}]
-
 },
+
+]},
   
 {"name": "INFO",
 "image": "https://www.dropbox.com/s/plok5hcbkq09jxk/bien.png?dl=1",
@@ -1656,9 +1652,9 @@
 "url": "https://m.youtube.com/watch?v=KjDbmjROHHA",
 "embed": "true"},
 {"name": "Agradezco a GRUPO TDT CHANNEL por los TDT", "image":"https://www.dropbox.com/s/3w3ovahh5n86pp0/gracias-por-tu-compra.jpg?dl=1",
-"url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8",
-"userAgent": ""
+"url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8"},
 
-}]
-}]
-}
+]},
+
+
+]}
