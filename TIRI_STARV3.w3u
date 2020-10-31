@@ -296,8 +296,8 @@
 "image":"https://www.dropbox.com/s/s1q7pfuviqsvns3/1_0_1_76CE_40E_1_C00000_0_0_0.png?dl=1",
 "url": "https://adictosalatele.com/TV/espana/cocina/",
 "playInNatPlayer": "true",
-"crossorigin": "anonymous",
-"rel": "preload",
+"crossorigin=anonymous",
+"rel="preconnect"",
 "embed": "true"},
 
 
