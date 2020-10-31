@@ -9,8 +9,6 @@
 "groups": [
 
 
-
-
   
 {"name": "Tv ESPAÑA op1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
@@ -18,46 +16,37 @@
 
 {"name": "La 1",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7863_41A_1_C00000_0_0_0.png",
-"url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8",
-"userAgent": ""
-},
+"url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8"},
 {"name": "La 2",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77C2_40A_1_C00000_0_0_0.png",
-"url": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8",
-"userAgent": ""
-},
+"url": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8"},
 {"name": "Antena 3",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png",
-"url": "https://livestartover.atresmedia.com/antena3/master.m3u8",
-"userAgent": ""
-},
+"url": "https://livestartover.atresmedia.com/antena3/master.m3u8"},
 {"name": "Cuatro",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7535_426_1_C00000_0_0_0.png",
-"url": "https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8",
-"userAgent": ""
-},
+"url": "https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8"},
 {"name": "Telecinco",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7536_426_1_C00000_0_0_0.png",
-"url": "https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8",
-"userAgent": ""
-},
+"url": "https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8"},
 {"name": "La Sexta",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",
-"url": "https://livestartover.atresmedia.com/lasexta/master.m3u8",
-"userAgent": ""
-},
+"url": "https://adictosalatele.com/TV/espana/lasexta/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"},
 
 {"name": "Neox",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_75FE_408_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/neox/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "Nova",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7469_3F0_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/nova/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
@@ -84,7 +73,7 @@
 {"name": "Dmax",
 "image":"http://logo.ddnb.tn/logochanel/1256.png",
 "url": "https://adictosalatele.com/TV/espana/discovery-max/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
@@ -140,35 +129,33 @@
 {"name": "#0",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7478_3F0_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/canal-0-plus/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"}, 
 
 {"name": "M Estrenos",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_74D5_3F8_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/movistar-estrenos/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"}, 
  
  {"name": "M Accion",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7509_420_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/movistar-accion/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "M Drama",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_746E_3F0_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/movistar-drama/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "M Comedia",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7857_41A_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/movistar-comedia/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"}, 
 
@@ -182,30 +169,30 @@
 {"name": "M Series",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7882_414_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/movistar-series/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"},
+"embed": "true"}, 
 
 {"name": "M Seriesmania",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_78B6_3EC_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/movistar-series-mania/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"}, 
 
 {"name": "Xtrm",
 "image": "https://www.dropbox.com/s/xpbf895l9yp66vq/xtrm_form.png?dl=1",
 "url": "https://adictosalatele.com/TV/espana/xtrm/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"},
+"embed": "true"}, 
 
 {"name": "Dark",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/vodafone-canal-dark.jpg",
 "url": "https://adictosalatele.com/TV/espana/dark/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"},
+"embed": "true"}, 
 
 {"name": "Somos",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/SOMOS.jpg",
@@ -214,14 +201,14 @@
 {"name": "Hollywood",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77C1_40A_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/hollywood/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "Calle 13",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7790_424_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/calle13/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36", 
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
@@ -232,10 +219,11 @@
 "playInNatPlayer": "true",
 "embed": "true"},
 
+
 {"name": "Fox",
 "image":"https://www.dropbox.com/s/gge85zalq9n4llu/1_0_1_746F_3F0_1_C00000_0_0_0.png?dl=1",
 "url": "https://adictosalatele.com/TV/espana/fox",
-""userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
@@ -330,7 +318,6 @@
 "playInNatPlayer": "true",
 "embed": "true"},
 
-
 ]},
 
 {"name": "Tv ESPAÑA op2 VL",
@@ -408,7 +395,6 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
-
 {"name": "Super3",
 "image": "https://graph.facebook.com/clubsuper3/picture?width=320&height=320",
 "url": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8"},
@@ -704,7 +690,7 @@
 "url": "https://adictosalatele.com/TV/deportes/vamos/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"},	
+"embed": "true"},
 
 {"name": "La Liga",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
@@ -726,8 +712,6 @@
 {"name": "La Liga",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
 "url": "https://revolucionariostv.eu/elitegol/Repros/cope.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "La Liga opcion2", 
@@ -747,24 +731,24 @@
 {"name": "Liga tv Bar op2", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
 "url": "https://area51deportiva.com/tg.php?id=live8t?embed=true",
-"playInNatPlayer": "true",
-"embed": "true"},	
+"embed": "true"},
 
 {"name": "Liga tv Bar 1", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/deportes/movistar-laliga/live2.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
-"embed": "true"},	
+"embed": "true"},
 
 {"name": "Liga tv Bar op2", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
 "url": "https://wowtv.info/tv5.html",
-"embed": "true"},	
+"embed": "true"},
 
 {"name": "Liga de Campeones",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_757B_412_1_C00000_0_0_0.png",
-"url": "https://adictosaldeporte.com/ver-laliga-campeones-online-y-en-directo-gratis/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36"
+"url": "https://adictosaldeporte.com/TV/deportes/ligacampeones/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
@@ -774,6 +758,7 @@
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
+
 
 {"name": "M Deportes",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7532_426_1_C00000_0_0_0.png",
@@ -1087,8 +1072,7 @@
 "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
 "userAgent": "http-reconnect=true"},
 {"name": "Tenis TV 2", "image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
-"url": "http://203.154.243.89:11739",
-"userAgent": ""},
+"url": "http://203.154.243.89:11739"},
 
 {"name": "Toros",
 "image":"https://www.dropbox.com/s/kfsb6dkpdx5nysp/1_0_1_7570_412_1_C00000_0_0_0.png?dl=1",
@@ -1099,8 +1083,7 @@
 
 {"name": "Real Madridtv",
 "image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
-"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8",
-"userAgent": "http-reconnect=true"},
+"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"},
 
 ]},
 
@@ -1111,8 +1094,7 @@
 {"name": "MotoGP 1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "https://www.pirlotv.fr/movistar-motogp-en-vivo.php",
-"embed": "true"},	
-
+"embed": "true"},
 
 {"name": "MotoGP 2",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
@@ -1138,18 +1120,15 @@
 {"name": "MotoGP 4",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "https://sportzonline.co/channels/hd/hd8.php",
-"embed": "true"},	
-
+"embed": "true" },
 {"name": "MotoGP 5",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "https://sportzonline.co/channels/pt/sporttv1.php",
-"embed": "true"},	
-
+"embed": "true"},
 {"name": "MotoGP 6",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "http://www.tvporinternet.eshost.com.ar/p/movistar-moto-gp-en-vivo-por-internet.html",
-"embed": "true"},	
-
+"embed": "true"}, 
 {"name": "DAZN",
 "image":"https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/dazn1.png",
 "url": "https://adictosaldeporte.com//TV/deportes/dazn/",
@@ -1167,13 +1146,11 @@
 {"name": "DAZN op3", 
 "image":"https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/dazn1.png",
 "url": "https://area51deportiva.com/tg.php?id=live14t?embed=true",
-"embed": "true"},	
-
+"embed": "true"},
 {"name": "DAZN op4", 
 "image":"https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/dazn1.png",
 "url": "https://area51deportiva.com/tg.php?id=live7t?embed=true",
-"embed": "true"},	
-
+"embed": "true"},
 {"name": "F1 MOVISTAR",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://adictosalatele.com/TV/deportes/formula1/opcion2.php",
@@ -1199,47 +1176,38 @@
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://dailysport.pw/c20.php",
 "isHost": "true" },
-
 {"name": "Sky Spot F1",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://ustreamix.to/stream.php?id=sky-sports-f1?embed=true",
-"embed": "true"},	
-
+"embed": "true"},
  {"name": "Sky Spot F1",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://area51deportiva.com/tg.php?id=live3?embed=true",
-"embed": "true"},	
-
+"embed": "true"},
 {"name": "sky-sport-f1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://overtakefans.com/f1-live-stream/f1tv-pro-stream-web-player?embed=true",
-"embed": "true"},	
-
+"embed": "true"},
 {"name": "sky-sport-f1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://overtakefans.com/f1-live-stream/sky-sport-f1-live-stream-via-web-player/watch/index.php?id=skysportf1_hd&token=3rrw8923ik",
 "embed": "true"},
-
 {"name": "Formula1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://area51deportiva.com/tg.php?id=live0w?embed=true",
 "embed": "true"},
-
 {"name": "Formula1 2",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://area51deportiva.com/tg.php?id=live10?embed=true",
 "embed": "true"},
-
 {"name": "Formula1 3",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://deportesenvivoparatodos001.blogspot.com/p/f1-en-directo-opcion-4.html",
 "embed": "true"},
-
 {"name": "Formula1 4",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://strims.world/f1/?source=8?embed=true",
 "embed": "true"},
-
 {"name": "Formula1 5",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://strims.world/f1/?source=10?embed=true",
@@ -1248,7 +1216,6 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://strims.world/f1?embed=true",
 "embed": "true"},
-
 ]},
 
 {"name": "daily sport TV",
