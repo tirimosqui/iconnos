@@ -14,6 +14,9 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
 "stations":[
 
+{"name": "USAR VPN",
+"image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
+"url": "https://adictosala/"},
 {"name": "La 1",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7863_41A_1_C00000_0_0_0.png",
 "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8"},
@@ -687,6 +690,10 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "stations":[
 
+{"name": "USAR VPN",
+"image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
+"url": "https://adictosala/"},
+
 {"name": "Vamos",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_760C_408_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/deportes/vamos/",
@@ -1067,10 +1074,11 @@
 
 {"name": "Toros",
 "image":"https://www.dropbox.com/s/kfsb6dkpdx5nysp/1_0_1_7570_412_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/canal-toros-en-directo-online-gratis/",
+"url": "https://adictosalatele.com/TV/espana/toros/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
+
 
 {"name": "Real Madridtv",
 "image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
@@ -1082,6 +1090,11 @@
 {"name": "TV DAZN Y MOTOR",
 "image": "https://i.imgur.com/upRkY9j.jpg",
 "stations": [
+
+
+{"name": "USAR VPN",
+"image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
+"url": "https://adictosala/"},
 
 {"name": "MotoGP esp",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
@@ -1305,20 +1318,73 @@
 
 ]},
 
-{"name": "LIVE SPORT-STRERAM",
-"image": "https://i.imgur.com/99gUA0f.png",
-"stations": [	
 
-{"name": "live sport programacion",
-"image": "https://i.imgur.com/99gUA0f.png",
-"url": "https://live-sports-stream.net/schedule/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0",
-"embed":true},
-{"name": "live-sports-stream channels",
-"image": "https://i.imgur.com/99gUA0f.png",
-"url": "https://live-sports-stream.net/video.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; rv:70.0) Gecko/20100101 Firefox/70.0",
-"embed": "true"},
+{"name": "Sportzonline TV",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"stations": [
+
+
+{"name": "Sportzonline Programacion",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/prog.txt",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "Sportzonline HD1",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/channels/hd/hd1.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "Sportzonline HD2",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/channels/hd/hd2.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "Sportzonline HD3",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/channels/hd/hd3.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "Sportzonline HD4",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/channels/hd/hd4.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "Sportzonline HD5",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/channels/hd/hd5.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "Sportzonline HD6",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/channels/hd/hd6.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
+{"name": "Sportzonline HD7",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/channels/hd/hd7.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "Sportzonline HD8",
+"image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
+"url": "https://sportzonline.to/channels/hd/hd8.php",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true" },
 
 ]},
 
