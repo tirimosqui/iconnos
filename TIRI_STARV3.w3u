@@ -236,7 +236,6 @@
 "image":"https://www.dropbox.com/s/gge85zalq9n4llu/1_0_1_746F_3F0_1_C00000_0_0_0.png?dl=1",
 "url": "https://adictosalatele.com/TV/espana/fox",
 ""userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"verify": "False",
 "playInNatPlayer": "true",
 "embed": "true"},
 
@@ -760,7 +759,6 @@
 {"name": "Liga tv Bar op2", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
 "url": "https://wowtv.info/tv5.html",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 {"name": "Liga de Campeones",
@@ -1113,8 +1111,6 @@
 {"name": "MotoGP 1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "https://www.pirlotv.fr/movistar-motogp-en-vivo.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 
@@ -1142,22 +1138,16 @@
 {"name": "MotoGP 4",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "https://sportzonline.co/channels/hd/hd8.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 {"name": "MotoGP 5",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "https://sportzonline.co/channels/pt/sporttv1.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 {"name": "MotoGP 6",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "http://www.tvporinternet.eshost.com.ar/p/movistar-moto-gp-en-vivo-por-internet.html",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 {"name": "DAZN",
@@ -1177,15 +1167,11 @@
 {"name": "DAZN op3", 
 "image":"https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/dazn1.png",
 "url": "https://area51deportiva.com/tg.php?id=live14t?embed=true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 {"name": "DAZN op4", 
 "image":"https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/dazn1.png",
 "url": "https://area51deportiva.com/tg.php?id=live7t?embed=true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 {"name": "F1 MOVISTAR",
@@ -1217,22 +1203,16 @@
 {"name": "Sky Spot F1",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://ustreamix.to/stream.php?id=sky-sports-f1?embed=true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
  {"name": "Sky Spot F1",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://area51deportiva.com/tg.php?id=live3?embed=true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 {"name": "sky-sport-f1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://overtakefans.com/f1-live-stream/f1tv-pro-stream-web-player?embed=true",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
 "embed": "true"},	
 
 {"name": "sky-sport-f1",
@@ -1249,6 +1229,7 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://area51deportiva.com/tg.php?id=live10?embed=true",
 "embed": "true"},
+
 {"name": "Formula1 3",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://deportesenvivoparatodos001.blogspot.com/p/f1-en-directo-opcion-4.html",
