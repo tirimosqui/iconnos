@@ -818,6 +818,17 @@
 "playInNatPlayer": "true",
 "embed": "true"},
 
+{"name": "Toros",
+"image":"https://www.dropbox.com/s/kfsb6dkpdx5nysp/1_0_1_7570_412_1_C00000_0_0_0.png?dl=1",
+"url": "https://adictosalatele.com/TV/espana/toros/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name": "Real Madridtv",
+"image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
+"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"},
+
 {"name": "ESPN",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"https://ustream.to/stream.php?id=espn?embed=true",
@@ -874,12 +885,12 @@
 "image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
 "url": "https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8",
 "userAgent": "http-reconnect=true"},
-{"name": "FOX Sport 3",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
+{"name": "FOX Sport 2",
+"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=29",
 "isHost": true},
 {"name": "FOX Sport 3",
-"image": "https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",
+"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
 "url": "https://www.doomovie-hd.com/?r=tv_view&id=30",
 "isHost": true},
 {"name": "Eleven sport 1 poland",
@@ -1072,17 +1083,6 @@
 {"name": "Tenis TV 2", "image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
 "url": "http://203.154.243.89:11739"},
 
-{"name": "Toros",
-"image":"https://www.dropbox.com/s/kfsb6dkpdx5nysp/1_0_1_7570_412_1_C00000_0_0_0.png?dl=1",
-"url": "https://adictosalatele.com/TV/espana/toros/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-
-{"name": "Real Madridtv",
-"image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
-"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"},
 
 ]},
 
