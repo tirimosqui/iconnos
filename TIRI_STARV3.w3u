@@ -1628,7 +1628,7 @@
 "url": "https://www.pluto.tv/live-tv/pluto-tv-cine-romantico-es", 
 "isHost": "true" },
 { "name": "pluto tv cine comedia es", 
-"image": https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png",  
+"image": "https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png",  
 "url": "https://www.pluto.tv/live-tv/pluto-tv-cine-comedia-es", 
 "isHost": "true" },
 { "name": "pluto tv cine drama es", 
