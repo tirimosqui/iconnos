@@ -686,12 +686,6 @@
 
 ]},
 
-{ "name": "TODO DEPORTES",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
-"imageScale": "centerCrop",
-"groups": [
-
-
 {"name": "MOVISTAR DEP",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "stations":[
@@ -833,8 +827,7 @@
 
 {"name": "Real Madridtv",
 "image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
-"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"
-},
+"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"},
 
 ]},
 
