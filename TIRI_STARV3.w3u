@@ -833,8 +833,7 @@
 
 {"name": "Real Madridtv",
 "image":"https://www.dropbox.com/s/go5qeckgyi1amw0/1_0_1_7601_408_1_C00000_0_0_0.png?dl=1",
-"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"
-    }
+"url": "http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8"}
   ]
 
 },
@@ -1096,11 +1095,10 @@
 "userAgent": "http-reconnect=true"},
 {"name": "Tenis TV", "image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
 "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8",
-"userAgent": "http-reconnect=true"
-    }
+"userAgent": "http-reconnect=true" }
   ]
 
-}
+},
 
 {"name": "TV DAZN Y MOTOR",
 "image": "https://i.imgur.com/upRkY9j.jpg",
@@ -1258,8 +1256,7 @@
 {"name": "Formula1 6",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://strims.world/f1?embed=true",
-"embed": "true"
-    }
+"embed": "true" }
   ]
 
 },
@@ -1331,8 +1328,7 @@
 {"name":"dailysport C15",
 "image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
 "url": "https://dailysport.pw/c15.php",
-"isHost": "true"
-    }
+"isHost": "true" }
   ]
 
 },
@@ -1355,11 +1351,10 @@
 "image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
 "url": "https://sportscart.xyz/ch/",
 "referrer": "https://wstream.to/embed/kf236",
-"embed": "true" 
-    }
+"embed": "true"  }
   ]
 
-},,
+},
 
 {"name": "Paginas de Deportes",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
@@ -1423,8 +1418,7 @@
 {"name": "S365",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "url": "http://www.s365.live/es/home",
-"embed": "true"
-         }
+"embed": "true" }
       ]
     }
    ]
