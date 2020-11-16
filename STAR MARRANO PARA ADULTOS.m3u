@@ -1,5 +1,4 @@
-#EXTM3U  url="" 
-
+#EXTM3U  url="https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u" 
 #EXTINF:-1 tvg-id="" tvg-name="LISTA STAR-MARRANO SOLO MAY18" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif" group-title="",##LISTA STAR-MARRANO SOLO MAY18 ##
 http://hlsliveamdgl1-lh.akamaihd.net//hlsdvrlive_1@584096/master
 #EXTINF:-1 tvg-id=""  tvg-logo="" group-title="",lista gratis y libre
