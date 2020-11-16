@@ -1,14 +1,12 @@
 #EXTM3U  url="https://raw.githubusercontent.com/tirimosqui/iconnos/main/STAR%20MARRANO%20PARA%20ADULTOS.m3u" 
 
-#EXTINF:-1 tvg-id="" tvg-name="LISTA STAR-MARRANO SOLO MAY18" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif" group-title="",##LISTA STAR-MARRANO SOLO MAY18 ##
+#EXTINF:-1 tvg-id="" tvg-name="LISTA STAR-MARRANO SOLO MAY18" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif" group-title="",##LISTA STAR-MARRANO SOLO MAY18 ## lista gratis y libre
 http://hlsliveamdgl1-lh.akamaihd.net//hlsdvrlive_1@584096/master
 
-#EXTINF:-1 tvg-id=""  tvg-logo="" group-title="",lista gratis y libre
-http://hlsliveamdgl1-lh.akamaihd.net//hlsdvrlive_1@584096/master
 
 #EXTINF:-1 tvg-id="Midnight Secrets.sp" tvg-name="Midnight Secrets" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="star XXX",Midnight Secrets  
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
-#EXTINF:-1 tvg-id="Jasmin TV.sp" tvg-name="Jasmin TV" tvg-logo="https://www.nibbletv.info/img/ch/jasmintv.png" group-title="star XXX",Jasmin TV
+#EXTINF:-1 tvg-id="Jasmin TV.sp" tvg-name="Jasmin TV" tvg-logo="https://www.dropbox.com/s/dbnmvy2it5k5l0y/images.jpeg?dl=1" group-title="star XXX",Jasmin TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Miami TV Live.sp" tvg-name="Miami TV Live" tvg-logo="https://terapiasexo.com/wp-content/uploads/2016/09/logo-miami-tv.png" group-title="star XXX",Miami TV Live
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8
