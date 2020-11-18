@@ -328,16 +328,12 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
 "stations":[
 
-{ "name": "Tv OPVL", 
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
- "url": "https://pastebin.com/raw/SBdVz9LL#.m3u",
- "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4 exoplayer_video VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git", "isHost": true },
 
-
-{ "name": "Tv OPVL 2", 
+{ "name": "Tv OP VL", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
 "url": "https://pastebin.com/raw/m5LahCYD#.m3u", 
-"userAgent": "LuPlayer exoplayer_video VLPLAYER/8.5 LIBVLC/3.0.0 LibVLC/3.0.0-git", "isHost": true },
+"userAgent": "franz14", "isHost": true },
+
 
 
 ]},
