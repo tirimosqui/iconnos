@@ -34,24 +34,14 @@
 "url": "https://linear01-i.akamaihd.net/hls/live/837810/telecinco/01.m3u8"},
 {"name": "La Sexta",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/lasexta/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"},
-
+"url": "https://livestartover.atresmedia.com/lasexta/master.m3u8"},
 {"name": "Neox",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_75FE_408_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/neox/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"},
+"url": "https://livestartover.atresmedia.com/geoneox/master.m3u8"},
 
 {"name": "Nova",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7469_3F0_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/espana/nova/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"},
+"url": "https://livestartover.atresmedia.com/geonova/master.m3u8"},
 
 {"name": "Canal Sur Andalucia",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7729_416_1_C00000_0_0_0.png",
@@ -72,14 +62,6 @@
 {"name": "Paramount Network",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_75F9_408_1_C00000_0_0_0.png",
 "url": "http://paramount.live.flumotion.com/live/playlist.m3u8?OPT:adaptive=1"},
-
-{"name": "Dmax",
-"image":"http://logo.ddnb.tn/logochanel/1256.png",
-"url": "https://adictosalatele.com/TV/espana/discovery-max/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true",
-"embed": "true"},
-
 {"name": "Mega",
 "image":"http://logo.ddnb.tn/logochanel/1260.png",
 "url": "http://cdn2.interlibre.net/hls/155/index.m3u8"},
@@ -329,9 +311,9 @@
 "stations":[
 
 
-{ "name": "Tv OP VL", 
+{ "name": "Tv mantenimiento", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
-"url": "https://pastebin.com/raw/m5LahCYD#.m3u", 
+"url": "m", 
 "userAgent": "franz14", "isHost": true },
 
 
