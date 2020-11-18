@@ -330,8 +330,16 @@
 
 { "name": "Tv OPVL", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
-"url": "https://pastebin.com/raw/SBdVz9LL#.m3u", 
-"userAgent": "Lavf/57.83.100", "isHost": true },
+ "url": "https://pastebin.com/raw/HpBX8Z7h#.m3u",
+ "userAgent": "exoplayer_video",
+ "isHost": true },
+
+
+{ "name": "Tv OPVL 2", 
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
+"url": "https://pastebin.com/raw/m5LahCYD#.m3u", 
+"userAgent": "nwe_user1", "isHost": true },
+
 
 ]},
 
