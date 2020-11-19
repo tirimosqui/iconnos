@@ -311,11 +311,11 @@
 "stations":[
 
 
-{ "name": "Tv mantenimiento", 
+{ "name": "Tv vl", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
-"url": "m", 
-"userAgent": "franz14", "isHost": true },
-
+"url": "https://pastebin.com/raw/m5LahCYD#.m3u",
+"userAgent": "Lavf/57.83.100",
+"isHost": true },
 
 
 ]},
@@ -682,7 +682,21 @@
 {"name": "Vamos",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_760C_408_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/deportes/vamos/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name": "Bein la Liga",
+"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
+"url": "https://embed.latino-web-tv.com/beinlaliga",
+"userAgent": "exoplayer_video",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name": "M La Liga",
+"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
+"url": "https://embed.latino-web-tv.com/movistarlaliga",
+"userAgent": "exoplayer_video",
 "playInNatPlayer": "true",
 "embed": "true"},
 
@@ -696,42 +710,44 @@
 {"name": "La Liga op1",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
 "url": "https://www.stream2watch.is/streaming-television/movistar-la-liga",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"userAgent": "exoplayer_video",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "La Liga op2",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
 "url": "https://revolucionariostv.eu/elitegol/Repros/cope.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "La Liga op3", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/deportes/movistar-laliga/live1.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name": "M Liga tv Bar", 
+"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
+"url": "https://embed.latino-web-tv.com/laligatv",
+"userAgent": "exoplayer_video",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "Liga tv Bar", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/deportes/movistar-laliga/bar.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "Liga tv Bar op2", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
 "url": "https://area51deportiva.com/tg.php?id=live8t",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 {"name": "Liga tv Bar op3", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/deportes/movistar-laliga/live2.php",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
 "playInNatPlayer": "true",
 "embed": "true"},
 
@@ -747,10 +763,11 @@
 "playInNatPlayer": "true",
 "embed": "true"},
 
+
 {"name": "M Deportes",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7532_426_1_C00000_0_0_0.png",
-"url": "https://adictosalatele.com/TV/deportes/movistar-deportes/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+"url": "https://embed.latino-web-tv.com/movistardeporte",
+"userAgent": "exoplayer_video",
 "playInNatPlayer": "true",
 "embed": "true"},
 
