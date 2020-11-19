@@ -1308,7 +1308,8 @@
 {"name":"dailysport C5",
 "image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
 "url":"https://dailysport.live/c5.php",
-"isHost": true },
+"playInNatPlayer": "true",
+"embed": "true"},
 
  {"name":"dailysport C6",
 "image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
@@ -1369,6 +1370,55 @@
 "url": "https://dailysport.live/c15.php",
 "playInNatPlayer": "true",
 "embed": "true"},
+
+{"name":"dailysport C16",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.live/c16.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name":"dailysport C17",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.live/c17.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name":"dailysport C18",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.live/c18.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name":"dailysport C19",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.live/c19.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name":"dailysport C20",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.live/c20.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name":"dailysport C21",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.live/c21.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name":"dailysport C22",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.live/c22.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name":"dailysport C23",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.live/c23.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
 
 ]},
 
