@@ -399,6 +399,24 @@
  "url": "https://seodiv.com/",
 "embed": "true" },
 
+{"name": "bob esponja",
+"image": "https://image.flaticon.com/icons/png/512/1045/1045642.png",
+"url": "http://directostv.teleame.com/bobesponjaendirecto/",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "dib warner",
+"image": "https://image.flaticon.com/icons/png/512/1045/1045642.png",
+"url": "http://directostv.teleame.com/wbkidsendirecto/",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "pocoyo",
+"image": "https://image.flaticon.com/icons/png/512/1045/1045642.png",
+"url": "http://directostv.teleame.com/pocoyoendirecto/",
+"playInNatPlayer": "true",
+"embed": "true" },
+
  {"name": "Erase una Vez Cuerpo H", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",  
 "url": "https://www.youtube.com/embed?v=zAvKlfXE4S8&list=PLlE4Xc7KvdwwqfwJjQxClEwOFuL6fSJ37",
