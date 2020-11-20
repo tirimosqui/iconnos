@@ -1383,7 +1383,7 @@
 
 
 {"name": "tarjetaroja TV",
-"image": "https://image.winudf.com/v2/image/Y29tLmx1Y3lzZWxlem5ldmEucm9qYWRpcmVjdGFmdXRib2xfaWNvbl8wXzdmODNhZTFl/icon.png",
+"image": "http://www.rojadirecta.me/static/roja.jpg",
 "stations": [
 
 {"name": "USAR VPN",
@@ -1391,13 +1391,13 @@
 "url": "https://adictosala/"},
 
  {"name": "tarjetarojatvonline",
-"image":"https://image.winudf.com/v2/image/Y29tLmx1Y3lzZWxlem5ldmEucm9qYWRpcmVjdGFmdXRib2xfaWNvbl8wXzdmODNhZTFl/icon.png",
+"image":"http://www.rojadirecta.me/static/roja.jpg",
 "url": "https://www.tarjetarojatvonline.com/programacion.php",
 "playInNatPlayer": "true",
 "embed": "true"},
 
 { "name": "tarjetarojaonlinetv",
-"image": "https://image.winudf.com/v2/image/Y29tLmx1Y3lzZWxlem5ldmEucm9qYWRpcmVjdGFmdXRib2xfaWNvbl8wXzdmODNhZTFl/icon.png",
+"image": "http://www.rojadirecta.me/static/roja.jpg",
 "url": "http://www.tarjetarojaonlinetv.com/programacion-de-hoy/",
 "playInNatPlayer": "true",
 "embed": "true"},
