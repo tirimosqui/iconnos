@@ -38,75 +38,61 @@
 {"name": "Neox",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_75FE_408_1_C00000_0_0_0.png",
 "url": "https://livestartover.atresmedia.com/geoneox/master.m3u8"},
-
 {"name": "Nova",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7469_3F0_1_C00000_0_0_0.png",
 "url": "https://livestartover.atresmedia.com/geonova/master.m3u8"},
-
 {"name": "Canal Sur Andalucia",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7729_416_1_C00000_0_0_0.png",
 "url": "http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000_DVR.m3u8"},
-
 {"name": "Divinity",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_749A_41C_1_C00000_0_0_0.png",
 "url": "https://linear01-i.akamaihd.net/hls/live/837812/divinity/01.m3u8"},
-
 {"name": "Be Mad",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7600_408_1_C00000_0_0_0.png",
 "url": "https://linear02-i.akamaihd.net/hls/live/837815/bemad/03.m3u8"},
-
 {"name": "Energy",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_749F_41C_1_C00000_0_0_0.png",
 "url": "https://linear02-i.akamaihd.net/hls/live/837816/energy/01.m3u8"},
-
 {"name": "Paramount Network",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_75F9_408_1_C00000_0_0_0.png",
 "url": "http://paramount.live.flumotion.com/live/playlist.m3u8?OPT:adaptive=1"},
+{"name": "DMAX",
+"image": "https://www.dropbox.com/s/wud0ojmo3ac8r6p/dmax.png?dl=1",
+"url": "http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1"},
 {"name": "Mega",
 "image":"http://logo.ddnb.tn/logochanel/1260.png",
 "url": "http://cdn2.interlibre.net/hls/155/index.m3u8"},
-
 {"name": "Mtmad",
 "image": "http://graph.facebook.com/mtmad.es/picture?width=320&height=320",
 "url": "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8"},
-
 {"name": "TV3",
 "image": "http://graph.facebook.com/tv3/picture?width=320&height=320",
 "url": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8"},
-
 {"name": "33",
 "image": "http://graph.facebook.com/Canal33/picture?width=320&height=320",
 "url": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8"},
-
 {"name": "Fashion TV",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/fasion.jpeg",
 "url": "http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8"},
-
 {"name": "Fasion Dior",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/fasion.jpeg",
 "url": "https://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8"},
-
 {"name": "Canal Blau",
 "image": "https://graph.facebook.com/CanalBlau/picture?width=320&height=320",
 "url": "https://liveingesta119.cdnmedia.tv/blautvlive/smil:blautv.smil/playlist.m3u8",
 "userAgent": "TDTChannels#CrKeyTDT#"},
-
 {"name": "3-24",
 "image": "https://graph.facebook.com/324cat/picture?width=320&height=320",
 "url": "https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist_DVR.m3u8"},
-
 {"name": "TVG",
 "image": "https://graph.facebook.com/CRTVG/picture?width=320&height=320",
 "url": "http://europa-crtvg.flumotion.com/playlist.m3u8"},
-
 {"name": "Telemadrid",
 "image": "https://graph.facebook.com/telemadrid/picture?width=200&height=200",
 "url": "http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8"},
-
 {"name": "LaOtra",
 "image": "https://graph.facebook.com/telemadrid/picture?width=200&height=200",
 "url": "http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/master.m3u8"},
-
 {"name": "Canarias",
 "image": "https://assets.streamtest.in/logo/96/25_canaria-sat.jpg?v=1541384656",
 "url": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8"},
@@ -1394,6 +1380,30 @@
 },
 
 ]},
+
+
+{"name": "tarjetaroja TV",
+"image": "https://image.winudf.com/v2/image/Y29tLmx1Y3lzZWxlem5ldmEucm9qYWRpcmVjdGFmdXRib2xfaWNvbl8wXzdmODNhZTFl/icon.png",
+"stations": [
+
+{"name": "USAR VPN",
+"image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
+"url": "https://adictosala/"},
+
+ {"name": "tarjetarojatvonline",
+"image":"https://image.winudf.com/v2/image/Y29tLmx1Y3lzZWxlem5ldmEucm9qYWRpcmVjdGFmdXRib2xfaWNvbl8wXzdmODNhZTFl/icon.png",
+"url": "https://www.tarjetarojatvonline.com/programacion.php",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{ "name": "tarjetarojaonlinetv",
+"image": "https://image.winudf.com/v2/image/Y29tLmx1Y3lzZWxlem5ldmEucm9qYWRpcmVjdGFmdXRib2xfaWNvbl8wXzdmODNhZTFl/icon.png",
+"url": "http://www.tarjetarojaonlinetv.com/programacion-de-hoy/",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+]},
+
 
 {"name": "Paginas de Deportes",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
