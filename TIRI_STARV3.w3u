@@ -1394,12 +1394,14 @@
 "image":"http://www.rojadirecta.me/static/roja.jpg",
 "url": "https://www.tarjetarojatvonline.com/programacion.php",
 "playInNatPlayer": "true",
+ "removeads": "true",
 "embed": "true"},
 
 { "name": "tarjetarojaonlinetv",
 "image": "http://www.rojadirecta.me/static/roja.jpg",
 "url": "http://www.tarjetarojaonlinetv.com/programacion-de-hoy/",
 "playInNatPlayer": "true",
+ "removeads": "true",
 "embed": "true"},
 
 ]},
