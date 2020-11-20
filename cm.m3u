@@ -1,0 +1,101 @@
+#EXTM3U
+
+ 
+#EXTINF:-1,Antena 3
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts|User-Agent=jimenl
+#EXTINF:-1,EUROSPORT 2
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts|User-Agent=jimenl
+#EXTINF:-1,CRIME&INVESTIGATION
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts|User-Agent=jimenl
+#EXTINF:-1,COMEDY CENTRAL
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/45.ts|User-Agent=jimenl
+#EXTINF:-1,AMC
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts|User-Agent=jimenl
+#EXTINF:-1,TOROS HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/29.ts|User-Agent=jimenl
+#EXTINF:-1,TNT
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts|User-Agent=jimenl
+#EXTINF:-1,TAQ 6
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/8.ts|User-Agent=jimenl
+#EXTINF:-1,TAQ 5
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/9.ts|User-Agent=jimenl
+#EXTINF:-1,TAQ 4
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/10.ts|User-Agent=jimenl
+#EXTINF:-1,TAQ 3
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/11.ts|User-Agent=jimenl
+#EXTINF:-1,TAQ 2
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/12.ts|User-Agent=jimenl
+#EXTINF:-1,TAQ 1
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/13.ts|User-Agent=jimenl
+#EXTINF:-1,SYFY HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts|User-Agent=jimenl
+#EXTINF:-1,SERIES HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/21.ts|User-Agent=jimenl
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/26.ts|User-Agent=jimenl
+#EXTINF:-1,NAT GEO WILD HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/25.ts|User-Agent=jimenl
+#EXTINF:-1,MTV
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts|User-Agent=jimenl
+#EXTINF:-1,MOTOGP
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/31.ts|User-Agent=jimenl
+#EXTINF:-1,LIGA CAMPEONES
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts|User-Agent=jimenl
+#EXTINF:-1,LA LIGA TV HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts|User-Agent=jimenl
+#EXTINF:-1,HISTORIA HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/23.ts|User-Agent=jimenl
+#EXTINF:-1,GOLTV
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts|User-Agent=jimenl
+#EXTINF:-1,GOLF HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts|User-Agent=jimenl
+#EXTINF:-1,FOX HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/20.ts|User-Agent=jimenl
+#EXTINF:-1,FORMULA 1
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts|User-Agent=jimenl
+#EXTINF:-1,EUROSPORT HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts|User-Agent=jimenl
+#EXTINF:-1,ESTRENOS HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts|User-Agent=jimenl
+#EXTINF:-1,DRAMA
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts|User-Agent=jimenl
+#EXTINF:-1,DMAX
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/24.ts|User-Agent=jimenl
+#EXTINF:-1,DEPORTES HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts|User-Agent=jimenl
+#EXTINF:-1,COMEDIA HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/40.ts|User-Agent=jimenl
+#EXTINF:-1,COCINA
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts|User-Agent=jimenl
+#EXTINF:-1,CAZA Y PESCA
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts|User-Agent=jimenl
+#EXTINF:-1,CALLE 13
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts|User-Agent=jimenl
+#EXTINF:-1,BEIN SPORT HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts|User-Agent=jimenl
+#EXTINF:-1,BEIN LA LIGA HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts|User-Agent=jimenl
+#EXTINF:-1,AXN WHITE HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts|User-Agent=jimenl
+#EXTINF:-1,AXN HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts|User-Agent=jimenl
+#EXTINF:-1,ACCION HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts|User-Agent=jimenl
+#EXTINF:-1,#V
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts|User-Agent=jimenl
+#EXTINF:-1,#0 HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts|User-Agent=jimenl
+#EXTINF:-1,VIAJAR HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts|User-Agent=jimenl
+#EXTINF:-1,TCM HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts|User-Agent=jimenl
+#EXTINF:-1,DOC&ROLL HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts|User-Agent=jimenl
+#EXTINF:-1,A&E
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts|User-Agent=jimenl
+#EXTINF:-1,HOLLYWOOD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3.ts|User-Agent=jimenl
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts|User-Agent=jimenl
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/2.ts|User-Agent=jimenl
