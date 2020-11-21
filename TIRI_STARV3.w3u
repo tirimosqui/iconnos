@@ -106,6 +106,7 @@
 {"name": "M Estrenos",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_74D5_3F8_1_C00000_0_0_0.png",
 "url": "https://adictosalatele.com/TV/espana/movistar-estrenos/",
+"script defer" "src":"https://javascript.info/article/script-async-defer/long.js?speed=1",
 "playInNatPlayer": "true",
 "embed": "true"}, 
  
