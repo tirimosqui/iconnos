@@ -1220,17 +1220,7 @@
 },
 
 ]},
-{"name": "daily sport TV",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"stations": [	
-         
-{"name": "GUIA Y CANALES",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.space/",
-"embed": "true" },  
 
-
-]},
 
 {"name": "Sportscart TV",
 "image": "https://steemitimages.com/DQmPKELHCecnA2eTbWTQygTMpsYtL7WsbBbHpjuVqmNWuiR/deportes.jpg",
@@ -1256,14 +1246,32 @@
 ]},
 
 
-{"name": "tarjetaroja TV",
-"image": "http://www.rojadirecta.me/static/roja.jpg",
-"stations": [
+{"name": "DEPORTES WEB",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
+"stations":[
 
 {"name": "USAR VPN",
 "image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
 "url": "https://adictosala/"},
 
+{"name": "daily sport TV GUIA Y CANALES",
+"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
+"url": "https://dailysport.space/",
+"embed": "true" },  
+
+{"name": "iraffletv", 
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
+"url": "http://iraffletv.com/",
+"userAgent": "",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name": "onlyfoot", 
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
+"url": "https://onlyfoot.net/",
+"userAgent": "",
+"playInNatPlayer": "true",
+"embed": "true"},
  {"name": "tarjetarojatvonline",
 "image":"http://www.rojadirecta.me/static/roja.jpg",
 "url": "https://www.tarjetarojatvonline.com/programacion.php",
@@ -1277,17 +1285,6 @@
 "playInNatPlayer": "true",
  "removeads": "true",
 "embed": "true"},
-
-]},
-
-
-{"name": "Paginas de Deportes",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
-"stations":[
-
-{"name": "USAR VPN",
-"image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
-"url": "https://adictosala/"},
 
 {"name": "maxdeportv", 
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
@@ -1306,13 +1303,6 @@
 {"name": "polysportstv", 
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "url": "http://polysportstv.info/",
-"userAgent": "",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name": "onlyfoot", 
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
-"url": "https://onlyfoot.net/",
 "userAgent": "",
 "playInNatPlayer": "true",
 "embed": "true"},
