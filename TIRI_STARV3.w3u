@@ -1104,15 +1104,27 @@
 "playInNatPlayer": "true",
 "embed": "true"},
 
-{"name": "MotoGPcom solo evento",
+{"name": "MotoGP BT Sport 2",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
-"url": "https://www.motogp.com/es/live",
+"url": "http://www.liveonlinetv247.info/embed/btsport2.php",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "MotoGP BT Sport 2",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
+"url": "https://ustreamix.to/stream.php?id=bt-sport-2?embed=true",
 "playInNatPlayer": "true",
 "embed": "true" },
 
 {"name": "MotoGP 433 live evento",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "http://433live.tv/13357.html",
+"playInNatPlayer": "true",
+"embed": "true" },
+
+{"name": "MotoGP evento",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
+"url": "https://www.jokerlivestream.net/joker-motor-sports-live-streaming-10.html",
 "playInNatPlayer": "true",
 "embed": "true" },
 
@@ -1150,6 +1162,21 @@
 "url": "http://433live.tv/13356.html",
 "playInNatPlayer": "true",
 "embed": "true"},
+
+{"name": "FORMULA1 EVENTOS",
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
+"url": "https://mamahd.best/formula-1-live-streams/",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+{"name": "FORMULA1 EVENTOS 2",
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
+"url": "https://www.jokerlivestream.net/formula-2-vs-bahrain-grand-prix-live-stream-838919.html",
+"playInNatPlayer": "true",
+"embed": "true"},
+
+
+
 {"name": "Sky Spot F1",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://ustreamix.to/stream.php?id=sky-sports-f1?embed=true",
