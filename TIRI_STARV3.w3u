@@ -1110,27 +1110,11 @@
 "playInNatPlayer": "true",
 "embed": "true" },
 
-{"name": "MotoGP 433live evento",
+{"name": "MotoGP 433 live evento",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "http://433live.tv/13357.html",
 "playInNatPlayer": "true",
 "embed": "true" },
-
-{"name": "MotoGP eventos",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
-"url": "http://s9.streamfb.online/hls/c26ccf802cd49ef12ac5236dcd74da05/index.m3u8",
-"userAgent": "http-reconnect=true" },
-
-{"name": "MotoGP eventos",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
-"url": "http://s9.streamfb.online/hls/5c9c06df8bbe2054d576a9dd572ee46c/index.m3u8",
-"userAgent": "http-reconnect=true" },
-
-{"name": "MotoGP eventos",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
-"url": "http://s9.streamfb.online/hls/1b36480eec10be2fb0168b81fe15bfc7/index.m3u8",
-"userAgent": "http-reconnect=true" },
-
 
 {"name": "F1 MOVISTAR",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
@@ -1158,7 +1142,7 @@
 
  {"name": "F1 MOVISTAR opcDaily",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
-"url": "hhttps://dailysport.live/c20.php",
+"url": "https://dailysport.space/c20.php",
 "isHost": "true" },
 
 {"name": "F1 MOVISTAR",
@@ -1213,149 +1197,10 @@
 "image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
 "stations": [	
          
-{"name": "GUIA",
+{"name": "GUIA Y CANALES",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/programacion-.png",
-"url": "https://dailysport.live/",
+"url": "https://dailysport.space/",
 "embed": "true" },  
-
-{"name":"dailysport C1",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c1.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
- {"name":"dailysport C2",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c2.php",
-"playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"embed": "true"},
-
- {"name":"dailysport C3",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c3.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C4",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c4.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C5",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c5.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
- {"name":"dailysport C6",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c6.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C7",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c7.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C8",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c8.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
- {"name":"dailysport C9",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c9.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C10",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c10.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C11",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c11.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C12",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c12.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C13",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url":"https://dailysport.live/c13.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C14",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c14.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C15",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c15.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C16",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c16.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C17",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c17.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C18",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c18.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C19",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c19.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C20",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c20.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C21",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c21.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C22",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c22.php",
-"playInNatPlayer": "true",
-"embed": "true"},
-
-{"name":"dailysport C23",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.live/c23.php",
-"playInNatPlayer": "true",
-"embed": "true"},
 
 
 ]},
