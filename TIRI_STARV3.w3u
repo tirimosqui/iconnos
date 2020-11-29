@@ -793,30 +793,47 @@
  {"name": "USAR VPN",
 "image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
 "url": "https://adictosala/"},
+
+{"name": evento Tyson vs. Roy Jones boxing ",
+"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
+"url":"http://yoursports.stream/ing/boxing",
+"embed": "true"},
+
 {"name": "ESPN",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"https://ustream.to/stream.php?id=espn?embed=true",
 "embed": "true"},
+
 {"name": "ESPN op2",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
-"url": "http://strims.world/tv/espn.php",
-"isHost": "true" },
+"url": "http://yoursports.stream/ing/espn",
+"embed": "true"},
+
 {"name": "ESPN 2",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url": "https://ustream.to/stream.php?id=espn2?embed=true",
 "embed": "true"},
+
 {"name": "ESPN 2 op2",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
-"url": "http://strims.world/tv/espn2.php",
-"isHost": "true" },
+"url": "http://yoursports.stream/ing/espn2",
+"embed": "true"},
+
 {"name": "ESPN 3",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url": "https://ustream.to/stream.php?id=espn3?embed=true",
 "embed": "true"},
+
 {"name": "ESPN U",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url": "http://strims.world/tv/espnu.php",
-"isHost": "true" },
+"embed": "true"},
+
+{"name": "ESPN deportes",
+"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
+"url":"http://yoursports.stream/ing/espndep",
+"embed": "true"},
+
 {"name": "NFL TV",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/nba-tv-logo.png",
 "url": "http://crackstreams.ga/nfl-streams/nfltv/",
