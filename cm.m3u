@@ -104,6 +104,16 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts|User-Age
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A2_41C_1_C00000_0_0_0.png",MTV ESPAÑA
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts|User-Agent=jimenl
+#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",Clan
+https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
+#EXTINF:-1 tvg-id="BOING" tvg-logo="https://www.dropbox.com/s/o130xw1fydu0f9l/1_0_1_749E_41C_1_C00000_0_0_0.png?dl=1",BOING 
+https://www.mitele.es/directo/boing/
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",Disney Channel HD
+https://tv.disney.es/fan-jam/
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Locomotion_logo.svg",locomocion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D6_3F8_1_C00000_0_0_0.png",#VAMOSHD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD
@@ -202,32 +212,34 @@ https://dailysport.space/c22.php?OPT:adaptive=1
 https://dailysport.space/c23.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 24
 https://dailysport.space/c24.php?OPT:adaptive=1
-#EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",Clan
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
-#EXTINF:-1 tvg-id="BOING" tvg-logo="https://www.dropbox.com/s/o130xw1fydu0f9l/1_0_1_749E_41C_1_C00000_0_0_0.png?dl=1",BOING 
-https://www.mitele.es/directo/boing/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",Disney Channel HD
-https://tv.disney.es/fan-jam/
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Locomotion_logo.svg",locomocion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",La Maldicion de las brujas 
-https://uqload.com/embed-itam0w0tzpes.html 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",El retorno de las brujas  
-https://uqload.com/embed-ncsyn77j6ndr.html 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",Dragones y Mazmorras  
-https://ok.ru/video/254086089350/
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",espias con disfraz
-https://feurl.com/v/5d8nrfdwww47zpe/ 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",Atlantis-2-El-regreso-de-Milo   
-https://feurl.com/v/3qo1eyj-29y/
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",Mi Mascota Es Un Leon  
-https://streampelis.club/v/mrkpja57ee0xnpz/
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",Un Amigo Abominable 
-https://streampelis.club/v/l0krjanzy5532gz/
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",Dora-y-la-ciudad-perdida-2019
-https://streampelis.club/v/2eml6b2qw31jmkx/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo
+https://revolucionariostv.eu/directo.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 1
+https://revolucionariostv.eu/directo1.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 2
+https://revolucionariostv.eu/directo2.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 3
+https://revolucionariostv.eu/directo3.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 4
+https://revolucionariostv.eu/directo4.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 5
+https://revolucionariostv.eu/directo5.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 6
+https://revolucionariostv.eu/directo6.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c1 
+https://revolucionariostv.eu/elitegol/Repros/c1.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c2
+https://revolucionariostv.eu/elitegol/Repros/c2.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c3
+https://revolucionariostv.eu/elitegol/Repros/c3.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c4
+https://revolucionariostv.eu/elitegol/Repros/c4.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c5
+https://revolucionariostv.eu/elitegol/Repros/c5.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c6
+https://revolucionariostv.eu/elitegol/Repros/c6.php
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c7
+https://revolucionariostv.eu/elitegol/Repros/c7.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILER 1
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/13.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768F_41E_1_C00000_0_0_0.png",ALQUILER 2
@@ -240,3 +252,20 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/10.ts|User-Ag
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/9.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7566_412_1_C00000_0_0_0.png",ALQUILER 6
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/8.ts|User-Agent=jimenl
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILERLa Maldicion de las brujas 
+https://uqload.com/embed-itam0w0tzpes.html 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILEREl retorno de las brujas  
+https://uqload.com/embed-ncsyn77j6ndr.html 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILERDragones y Mazmorras  
+https://ok.ru/video/254086089350/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILERespias con disfraz
+https://feurl.com/v/5d8nrfdwww47zpe/ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILERAtlantis-2-El-regreso-de-Milo   
+https://feurl.com/v/3qo1eyj-29y/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILERMi Mascota Es Un Leon  
+https://streampelis.club/v/mrkpja57ee0xnpz/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILERUn Amigo Abominable 
+https://streampelis.club/v/l0krjanzy5532gz/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILERDora-y-la-ciudad-perdida-2019
+https://streampelis.club/v/2eml6b2qw31jmkx/
+
