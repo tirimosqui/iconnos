@@ -52,7 +52,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 https://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_788C_414_1_C00000_0_0_0.png",#0 HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts|User-Agent=jimenl
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D5_3F8_1_C00000_0_0_0.png",M.ESTRENOSHD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xrgaqkv2o220xb4/1_0_1_76C0_40E_1_C00000_0_0_0.png?dl=1",M.ESTRENOSHD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/43.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750B_420_1_C00000_0_0_0.png",M. DRAMA HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/42.ts|User-Agent=jimenl
@@ -205,10 +205,12 @@ https://dailysport.space/c24.php?OPT:adaptive=1
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-id="BOING" tvg-logo="https://www.dropbox.com/s/o130xw1fydu0f9l/1_0_1_749E_41C_1_C00000_0_0_0.png?dl=1",BOING 
-https://linear01-i.akamaihd.net/hls/live/837814/boing/02.m3u8
+https://www.mitele.es/directo/boing/
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",Disney Channel HD
+https://tv.disney.es/fan-jam/
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/hbcl3jdmuxrh7xl/locomotion-television-channel-cable-television-pay-television-aquatic-locomotion.jpg",locomocion
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Locomotion_logo.svg",locomocion
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",La Maldicion de las brujas 
 https://uqload.com/embed-itam0w0tzpes.html 
