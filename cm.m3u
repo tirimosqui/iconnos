@@ -212,33 +212,19 @@ https://dailysport.space/c22.php?OPT:adaptive=1
 https://dailysport.space/c23.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 24
 https://dailysport.space/c24.php?OPT:adaptive=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo
-https://revolucionariostv.eu/directo.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 1
-https://revolucionariostv.eu/directo1.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 2
-https://revolucionariostv.eu/directo2.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 3
-https://revolucionariostv.eu/directo3.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 4
-https://revolucionariostv.eu/directo4.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 5
-https://revolucionariostv.eu/directo5.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",directo 6
-https://revolucionariostv.eu/directo6.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c1 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c1 
 https://revolucionariostv.eu/elitegol/Repros/c1.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c2
 https://revolucionariostv.eu/elitegol/Repros/c2.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c3
 https://revolucionariostv.eu/elitegol/Repros/c3.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c4
 https://revolucionariostv.eu/elitegol/Repros/c4.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c5
 https://revolucionariostv.eu/elitegol/Repros/c5.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c6
 https://revolucionariostv.eu/elitegol/Repros/c6.php
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",Repros c7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c7
 https://revolucionariostv.eu/elitegol/Repros/c7.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILER 1
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/13.ts|User-Agent=jimenl
