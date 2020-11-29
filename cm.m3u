@@ -64,7 +64,7 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts|User-Ag
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts|User-Agent=jimenl
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74DB_3F8_1_C00000_0_0_0.png",AXN WHITE HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/eqa0acwukqd04ki/1_0_19_74DB_3F8_1_C00000_0_0_0.png?dl=1",AXN WHITE HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/18.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7824_428_1_C00000_0_0_0.png",CALLE 13 HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/39.ts|User-Agent=jimenl
@@ -76,7 +76,7 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/6.ts|User-Age
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/47.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750C_420_1_C00000_0_0_0.png",HOLLYWOODHD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/3.ts|User-Agent=jimenl
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74CD_3F8_1_C00000_0_0_0.png",SYFY HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/m5p78kefahm8v3a/1_0_1_7796_424_1_C00000_0_0_0.png?dl=1",SYFY HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/17.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7888_414_1_C00000_0_0_0.png",TNT HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/16.ts|User-Agent=jimenl
@@ -100,24 +100,20 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts|User-Ag
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_772D_416_1_C00000_0_0_0.png",A&E
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts|User-Agent=jimenl
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D3_3F8_1_C00000_0_0_0.png",VIAJAR HD
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/y1x373ovecgwq3s/1_0_19_74D3_3F8_1_C00000_0_0_0.png?dl=1",VIAJAR HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/7.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A2_41C_1_C00000_0_0_0.png",MTV ESPAÑA
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
-#EXTINF:-1 tvg-id="BOING" tvg-logo="https://www.dropbox.com/s/o130xw1fydu0f9l/1_0_1_749E_41C_1_C00000_0_0_0.png?dl=1",BOING 
-https://www.mitele.es/directo/boing/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",Disney Channel HD
-https://tv.disney.es/fan-jam/
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Locomotion_logo.svg",locomocion
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kF29z8z.jpg",Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png",Fail Army
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D6_3F8_1_C00000_0_0_0.png",#VAMOSHD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts|User-Agent=jimenl
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD
-http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",BEIN LA LIGA HD
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7859_41A_1_C00000_0_0_0.png",LALIGATV BAR
@@ -132,6 +128,8 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts|User-Ag
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B4_3EC_1_C00000_0_0_0.png",M.LCAMPEONES
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts|User-Agent=jimenl
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B4_3EC_1_C00000_0_0_0.png",BEIN LCAMPEONES HD
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/32.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A3_41C_1_C00000_0_0_0.png",GOL
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/35.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78B7_3EC_1_C00000_0_0_0.png",M. GOLF HD
@@ -148,10 +146,12 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?OPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",FOX Sport HD 2
-http://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-FoxSports2-mp4a_98800_eng=3.m3u8?OPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",FOX Sport HD 3
-http://anevia115.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-FoxSports3-mp4a_98800_eng=5.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png",Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-logo="https://stluciatimes.com/wp-content/uploads/2015/11/Flow_Sports_logo-770x470.jpg",FLOW SPORTS
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300",Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ibr436rej9iumpj/kisspng-kickboxing.jpg?dl=1",Sport BOXING HD
 https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ibr436rej9iumpj/kisspng-kickboxing.jpg?dl=1",CombatGo HD
@@ -162,6 +162,12 @@ http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/
 http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/chunklist_w984445701_b664000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wB9CkPG.jpg",FightBox
 http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png",UFC TV
+https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Xd7JVc0.jpg",MotorTrend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TYfGTX9.png",MS Motor TV
+https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
 #EXTINF:-1 tvg-id="Olimpic.sp"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="Olimpic.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel 2
@@ -226,6 +232,70 @@ https://revolucionariostv.eu/elitegol/Repros/c5.php
 https://revolucionariostv.eu/elitegol/Repros/c6.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c7
 https://revolucionariostv.eu/elitegol/Repros/c7.php
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Telemusica
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MUSICA TV LATINA
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",EuroLatina TV
+https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",TOP Latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Music Top esp
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Music Top Arg
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MTV Mix
+http://root:@81.30.182.82:18092/hls/live.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",V2Beat TV EN
+https://abr.de1se01.v2beat.live/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",M6 Music
+http://cdnv.cdn-for-all.com/iptv/ch1471?code=460130355728146&key=24155
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MOOZ
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/167.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/167.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/167.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1 tvg-id="RUTV" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",RUTV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",SONG TV HD (Russia)
+http://songtvru.ru:8060/hd/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",М1
+http://91.234.24.5:8080/m1/mono.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",М2
+http://live.m2.tv/hls3/stream.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",DJing Live
+https://www.djing.com/tv/live.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",DJing Hits
+https://www.djing.com/tv/hits.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg"",DJing Dancefloor
+https://www.djing.com/tv/dancefloor.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",DJing Underground
+https://www.djing.com/tv/underground.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",30A Music
+http://30a-tv.com/music.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Gospel Music 4U
+https://ch.iptvmate.net/5e9338a3b3bdf92f6965c645.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",1 Music Channel
+https://ch.iptvmate.net/5e9331579e40b826c37faf32.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",DanceStar TV
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Ditty TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MUSIC TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8?OPT:http-reconnect=true
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Remember The '80s
+http://ott-linear-channels.stingray.com/hls/index/128.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Greatest Hits
+http://ott-linear-channels.stingray.com/hls/index/133.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",RETRO 80
+https://eurodance.catcast.tv/content/38204/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Retro Plus TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILER 1
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/13.ts|User-Agent=jimenl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768F_41E_1_C00000_0_0_0.png",ALQUILER 2
