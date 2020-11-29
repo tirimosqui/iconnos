@@ -790,13 +790,14 @@
  "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
  "stations": [
 
- {"name": "USAR VPN",
-"image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
-"url": "https://adictosala/"},
-
-{"name": evento Tyson vs. Roy Jones boxing ",
-"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
+{"name": evento Tyson vs. Roy Jones boxing",
+"image":"http://cdn.720pstream.tv/img/co/boxing.png",
 "url":"http://yoursports.stream/ing/boxing",
+"embed": "true"},
+
+{"name": evento Tyson vs. Roy Jones boxing po2",
+"image":"http://cdn.720pstream.tv/img/co/boxing.png",
+"url":"http://720pstream.tv/mike-tyson-vs-roy-jones-jr-live-stream/",
 "embed": "true"},
 
 {"name": "ESPN",
