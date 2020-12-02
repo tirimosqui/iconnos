@@ -8,10 +8,6 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
 https://livestartover.atresmedia.com/antena3/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7535_426_1_C00000_0_0_0.png",CUATRO HD
-https://linear02-i.akamaihd.net/hls/live/837811/cuatro/01.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7536_426_1_C00000_0_0_0.png",TELECINCO HD
-http://152.89.35.254:8000/play/a03x/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",LA SEXTA HD
 https://livestartover.atresmedia.com/lasexta/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7469_3F0_1_C00000_0_0_0.png",NOVA
@@ -68,8 +64,6 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D8_3F8_1_C00000_0_0_0.png",M.CineDoc&Roll
 #EXTVLCOPT:http-user-agent=jimenl
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
-#EXTINF:-1 tvg-id="XTRM" tvg-logo="https://www.dropbox.com/s/xpbf895l9yp66vq/xtrm_form.png?dl=1",XTRM
-http://152.89.35.254:8000/play/a015/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
 #EXTVLCOPT:http-user-agent=jimenl
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts
@@ -124,8 +118,6 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/15.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_788D_414_1_C00000_0_0_0.png",CAZAyPESCA HD
 #EXTVLCOPT:http-user-agent=jimenl
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/22.ts
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-logo="https://www.dropbox.com/s/ekvjt0i975pikej/1_0_1_746A_3F0_1_C00000_0_0_0.png?dl=1",IBERALIA TV
-http://152.89.35.254:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_772D_416_1_C00000_0_0_0.png",A&E
 #EXTVLCOPT:http-user-agent=jimenl
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/4.ts
@@ -138,7 +130,7 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/14.ts
 #EXTINF:-1 tvg-id="Clan.TV" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200",Clan
 https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",DISNEY CH HD
-http://152.89.35.254:8000/play/a00u/index.m3u8
+http://mitv.televall.online/disneych.php
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",boomerang
@@ -159,10 +151,6 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA HD
 #EXTVLCOPT:http-user-agent=jimenl
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",M. LaLiga HD
-http://152.89.35.254:8000/play/a01h/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",M. LaLiga 1 HD
-http://152.89.35.254:8000/play/a01i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7859_41A_1_C00000_0_0_0.png",LALIGATV BAR
 #EXTVLCOPT:http-user-agent=jimenl
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts
@@ -208,44 +196,60 @@ http://kineskop.tv/?page=watch&ch=513
 http://kineskop.tv/?page=watch&ch=885
 #EXTINF:-1 tvg-id="Sky Sport1" tvg-logo="https://www.dropbox.com/s/pb40wpcepx9f097/sky%20sport%20hd.png?dl=1",Sky Sport 1 HD DE
 http://kineskop.tv/?page=watch&ch=793
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia
+https://www.mytivu.it/Application/Channels/SI.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia 24 LIVE
+https://www.mytivu.it/Application/Channels/SILive24.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia CALCIO
+https://www.mytivu.it/Application/Channels/SISoloCalcio.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia MOTORI
+https://www.mytivu.it/Application/Channels/SIMotori.php
+#EXTINF:0 tvg-id="ESPN.uk" tvg-logo="https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",ESPN
+http://digitalxpress2.gcdn.co/live1/espn/index.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" tvg-logo="https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",ESPN EXTRA
+http://digitalxpress.gcdn.co/live1/SP-ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
-https://www.doomovie-hd.com/?r=tv_view&id=156
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/1829.png",BT Sport 2 (eventos MOTOGP)
-https://www.doomovie-hd.com/?r=tv_view&id=157
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD  1
-https://www.doomovie-hd.com/?r=tv_view&id=18
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD  2
-https://www.doomovie-hd.com/?r=tv_view&id=19
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD  3
-https://www.doomovie-hd.com/?r=tv_view&id=20
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD  4
-https://www.doomovie-hd.com/?r=tv_view&id=21
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV
-https://www.doomovie-hd.com/?r=tv_view&id=25
+https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?OPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",FOX SPORT HD1
-https://www.doomovie-hd.com/?r=tv_view&id=28
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT 2
-https://www.doomovie-hd.com/?r=tv_view&id=29
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",FOX SPORT 3
-https://www.doomovie-hd.com/?r=tv_view&id=30
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",FOX SPORT HD 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT HD 2
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",FOX SPORT HD 3
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png",Fox Sport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/250px-Fox_Sports_Logo.svg.png",Fox Sports Racing
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",Premier Football HD 1
-https://www.doomovie-hd.com/?r=tv_view&id=151
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",Premier Football HD 2
-https://www.doomovie-hd.com/?r=tv_view&id=152
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",Premier Football HD 3
-https://www.doomovie-hd.com/?r=tv_view&id=153
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",Premier Football HD 4
-https://www.doomovie-hd.com/?r=tv_view&id=154
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",Premier Football HD 5
-https://www.doomovie-hd.com/?r=tv_view&id=155
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-edge.png",EDGE HD
-https://www.doomovie-hd.com/?r=tv_view&id=115
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",Premiere Football HD 1
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl2.png",Premiere Football HD 2
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl3.png",Premiere Football HD 3
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl4.png",Premiere Football HD 4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl5.png",Premiere Football HD 5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-edge.png",EDGE SPORT HD
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6l5eci6zzlcikz2/Eleven-Sports-1.png?dl=1",Eleven Sport 1 
+http://77.54.145.209:81/play/a00a 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6l5eci6zzlcikz2/Eleven-Sports-1.png?dl=1",Eleven Sport 2 
+http://77.54.145.209:81/play/a03d 
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6l5eci6zzlcikz2/Eleven-Sports-1.png?dl=1",Eleven Sports 3
+http://77.54.145.209:81/play/a00m
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/6l5eci6zzlcikz2/Eleven-Sports-1.png?dl=1",Eleven Sports 4
+http://77.54.145.209:81/play/a01a
 #EXTINF:-1 tvg-logo="https://stluciatimes.com/wp-content/uploads/2015/11/Flow_Sports_logo-770x470.jpg",FLOW SPORTS
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300",Bolivia Deportes
@@ -273,51 +277,67 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="Olimpic.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8?OPT:http-reconnect=true
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 1
-https://dailysport.space/c1.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/1/1.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 2
-https://dailysport.space/c2.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/2/2.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 3 
-https://dailysport.space/c3.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/3/3.m3u8OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 4
-https://dailysport.space/c4.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/4/4.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 5
-https://dailysport.space/c5.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/5/5.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 6
-https://dailysport.space/c6.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/6/6.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 7
-https://dailysport.space/c7.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/7/7.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 8 
-https://dailysport.space/c8.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/8/8.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 9
-https://dailysport.space/c9.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/9/9.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 10
-https://dailysport.space/c10.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/10/10.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 11
-https://dailysport.space/c11.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/11/11.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 12
-https://dailysport.space/c12.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/12/12.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 13 
-https://dailysport.space/c13.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/13/13.m3u8OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 14
-https://dailysport.space/c14.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/14/14.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 15
-https://dailysport.space/c15.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/15/15.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 16
-https://dailysport.space/c16.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/16/16.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 17
-https://dailysport.space/c17.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/17/17.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 18 
-https://dailysport.space/c18.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/18/18.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 19
-https://dailysport.space/c19.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/19/19.m3u8?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 20
+https://cdnx.dailysportlist.xyz/20/20.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 21
-https://dailysport.space/c21.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/21/21.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 22
-https://dailysport.space/c22.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/22/22.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 23 
-https://dailysport.space/c23.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/23/23.m3u8?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 24
-https://dailysport.space/c24.php?OPT:adaptive=1
+https://cdnx.dailysportlist.xyz/24/24.m3u8?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 25
+https://cdnx.dailysportlist.xyz/25/25.m3u8?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 26
+https://cdnx.dailysportlist.xyz/26/26.m3u8?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 27 
+https://cdnx.dailysportlist.xyz/27/27.m3u8?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 28
+https://cdnx.dailysportlist.xyz/28/28.m3u8?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 29
+https://cdnx.dailysportlist.xyz/29/29.m3u8?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 30
+https://cdnx.dailysportlist.xyz/30/30.m3u8?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 31 
+https://cdnx.dailysportlist.xyz/31/31.m3u8?OPT:adaptive=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c1 
 https://revolucionariostv.eu/elitegol/Repros/c1.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c2
