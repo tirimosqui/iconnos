@@ -277,67 +277,71 @@ http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="Olimpic.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8?OPT:http-reconnect=true
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 1
-https://cdnx.dailysportlist.xyz/1/1.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c1.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 2
-https://cdnx.dailysportlist.xyz/2/2.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 3 
-https://cdnx.dailysportlist.xyz/3/3.m3u8OPT:adaptive=1
+https://dailysport.cloud/c2.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 3
+https://dailysport.cloud/c3.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 4
-https://cdnx.dailysportlist.xyz/4/4.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c4.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 5
-https://cdnx.dailysportlist.xyz/5/5.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c5.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 6
-https://cdnx.dailysportlist.xyz/6/6.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c6.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 7
-https://cdnx.dailysportlist.xyz/7/7.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 8 
-https://cdnx.dailysportlist.xyz/8/8.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c7.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 8
+https://dailysport.cloud/c8.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 9
-https://cdnx.dailysportlist.xyz/9/9.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c9.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 10
-https://cdnx.dailysportlist.xyz/10/10.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c10.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 11
-https://cdnx.dailysportlist.xyz/11/11.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c11.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 12
-https://cdnx.dailysportlist.xyz/12/12.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 13 
-https://cdnx.dailysportlist.xyz/13/13.m3u8OPT:adaptive=1
+https://dailysport.cloud/c12.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 13
+https://dailysport.cloud/c13.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 14
-https://cdnx.dailysportlist.xyz/14/14.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c14.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 15
-https://cdnx.dailysportlist.xyz/15/15.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c15.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 16
-https://cdnx.dailysportlist.xyz/16/16.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c16.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 17
-https://cdnx.dailysportlist.xyz/17/17.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 18 
-https://cdnx.dailysportlist.xyz/18/18.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c17.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 18
+https://dailysport.cloud/c18.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 19
-https://cdnx.dailysportlist.xyz/19/19.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 20
-https://cdnx.dailysportlist.xyz/20/20.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c19.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 21
-https://cdnx.dailysportlist.xyz/21/21.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c21.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 22
-https://cdnx.dailysportlist.xyz/22/22.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 23 
-https://cdnx.dailysportlist.xyz/23/23.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c22.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 23
+https://dailysport.cloud/c23.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 24
-https://cdnx.dailysportlist.xyz/24/24.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c24.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 25
-https://cdnx.dailysportlist.xyz/25/25.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c15.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 26
-https://cdnx.dailysportlist.xyz/26/26.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 27 
-https://cdnx.dailysportlist.xyz/27/27.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 28
-https://cdnx.dailysportlist.xyz/28/28.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c26.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 27
+https://dailysport.cloud/c27.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 28 
+https://dailysport.cloud/c28.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 29
-https://cdnx.dailysportlist.xyz/29/29.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c29.php?OPT:adaptive=1
 #EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 30
-https://cdnx.dailysportlist.xyz/30/30.m3u8?OPT:adaptive=1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 31 
-https://cdnx.dailysportlist.xyz/31/31.m3u8?OPT:adaptive=1
+https://dailysport.cloud/c30.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 31
+https://dailysport.cloud/c31.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 32
+https://dailysport.cloud/c32.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 33 
+https://dailysport.cloud/c33.php?OPT:adaptive=1
+#EXTINF:0 tvg-id="ext" tvg-logo="https://www.scamcard.com/images/Daily%20Sport%202011.png",DailySport 34
+https://dailysport.cloud/c34.php?OPT:adaptive=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c1 
 https://revolucionariostv.eu/elitegol/Repros/c1.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c2
@@ -352,6 +356,32 @@ https://revolucionariostv.eu/elitegol/Repros/c5.php
 https://revolucionariostv.eu/elitegol/Repros/c6.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZhRl36A.png",revolucionariostv c7
 https://revolucionariostv.eu/elitegol/Repros/c7.php
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Spanish
+https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Latin
+https://livelist01.yowi.tv/lista/9a4da7871ec57b4b63ed49597a13d09869172be0/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Rock
+https://livelist01.yowi.tv/lista/0d6c7ccfac89946bfd41ae34c527e8d94734065c/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Remember
+https://livelist01.yowi.tv/lista/57c98e2e295a0b69b52dc5f84edc4b1b68783ba2/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Relax
+https://livelist01.yowi.tv/lista/dc1b71c6fda2e687050facaa7242062cbf5a7f2a/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Pop
+https://livelist01.yowi.tv/lista/eb2fa68a058a701fa5bd2c80f6c8a6075896f71d/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Kids
+https://livelist01.yowi.tv/lista/e4bc12dafe33c3ceb3e382e3acc0ec2c012cf7fd/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Hip Hop
+https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Dance
+https://livelist01.yowi.tv/lista/57cf2f51b07ff21988a7a6f0270a66d41086d4a4/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Classic
+https://livelist01.yowi.tv/lista/f04129475945936b248aa723de56519ea2ff10fc/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Chill Out
+https://livelist01.yowi.tv/lista/183a351ddb0e57af6d735256226e6033c32219ab/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Blues
+https://livelist01.yowi.tv/lista/81c601f370e44dc566113fd752204be5f5f53b61/master.m3u8
+#EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Baladas
+https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",Telemusica
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",MUSICA TV LATINA
