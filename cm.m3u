@@ -7,11 +7,14 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77C2_40A_1_C00000_0_0_0.png",LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
-https://livestartover.atresmedia.com/antena3/master.m3u8
+#EXTVLCOPT:http-user-agent=ackecj34
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/50.ts
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7o3snxyfaunxpe2/1_0_19_7535_426_1_C00000_0_0_0.png?dl=1",CUATRO
-http://miralobien.lookplay.ml/look/cuatro/index.m3u8
+#EXTVLCOPT:http-user-agent=ackecj34
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/53.ts
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/esrav87u43rcl58/1_0_19_7536_426_1_C00000_0_0_0.png?dl=1",TELECINCO
-http://miralobien.lookplay.ml/look/telecinco/index.m3u8
+#EXTVLCOPT:http-user-agent=ackecj34
+http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/52.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",LA SEXTA HD
 https://livestartover-i.akamaized.net/geolasexta/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7469_3F0_1_C00000_0_0_0.png",NOVA
