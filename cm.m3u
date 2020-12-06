@@ -153,17 +153,17 @@ http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Pantera Rosa 80s
 #EXTVLCOPT:http-user-agent=siplayer
 http://dominiopersonal.xyz:25464/live/siplayer/Upc7ljjJny/245.m3u8
-#EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Correcaminos
-#EXTVLCOPT:http-user-agent=siplayer
-http://dominiopersonal.xyz:25464/live/live/siplayer/Upc7ljjJny/246.m3u8
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Super campeones
 #EXTVLCOPT:http-user-agent=siplayer
 http://dominiopersonal.xyz:25464/live/siplayer/Upc7ljjJny/258.m3u8
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Sounth Park
+#EXTVLCOPT:http-user-agent=siplayer
 http://dominiopersonal.xyz:25464/live/siplayer/Upc7ljjJny/261.m3u8
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Pokemon
+#EXTVLCOPT:http-user-agent=siplayer
 http://dominiopersonal.xyz:25464/live/siplayer/Upc7ljjJny/266.m3u8
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Pinky y Cerebro
+#EXTVLCOPT:http-user-agent=siplayer
 http://dominiopersonal.xyz:25464/live/siplayer/Upc7ljjJny/267.m3u8
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Mazinger Z
 #EXTVLCOPT:http-user-agent=siplayer
