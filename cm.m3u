@@ -8,28 +8,12 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
 http://200.54.19.131:8500/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7o3snxyfaunxpe2/1_0_19_7535_426_1_C00000_0_0_0.png?dl=1",CUATRO web
-https://www.mitele.es/directo/cuatro/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/esrav87u43rcl58/1_0_19_7536_426_1_C00000_0_0_0.png?dl=1",TELECINCO web
-https://www.mitele.es/directo/telecinco/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",LA SEXTA HD web
-https://www.atresplayer.com/directos/lasexta/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF web
-https://www.mitele.es/directo/fdf
-#EXTINF:-1 tvg-id="BEMAD.es" tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7600_408_1_C00000_0_0_0.png",BE MAD web 
-https://www.mitele.es/directo/bemad
-#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.dropbox.com/s/2ximg4106kftjaq/1_0_1_749A_41C_1_C00000_0_0_0.png?dl=1",DIVINITY web
-https://www.mitele.es/directo/divinity
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7729_416_1_C00000_0_0_0.png",CANAL SUR A.
 https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://logo.ddnb.tn/logochanel/1260.png",MEGA
 http://cdn2.interlibre.net/hls/155/index.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="DMAX.es" tvg-logo="http://logo.ddnb.tn/logochanel/1256.png",DMax 
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
-#EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1",DKISS web
-https://es.dplay.com/dkiss/
-#EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1",TEN web
-https://tentv.es/
 #EXTINF:-1 tvg-id="TV3.es" tvg-logo="https://www.dropbox.com/s/040scez2b4yv60q/TV3.png?dl=1",TV3
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-name="MTmad.es" tvg-logo="https://i.imgur.com/I9QX555.png",MTmad 
