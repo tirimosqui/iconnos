@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",T STARTV OP 2 (listaswiseplay.com)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",T STARTV OP 2 (by Tiri listaswiseplay.com)
 https://rtvelivestream.aka.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7863_41A_1_C00000_0_0_0.png",LA 1 HD
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
@@ -8,18 +8,18 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
 http://200.54.19.131:8500/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7o3snxyfaunxpe2/1_0_19_7535_426_1_C00000_0_0_0.png?dl=1",CUATRO
-https://live.mitele.es/hls/live/2004102/cuatro/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/esrav87u43rcl58/1_0_19_7536_426_1_C00000_0_0_0.png?dl=1",TELECINCO
-https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",LA SEXTA HD
-https://livestartover-i.akamaized.net/geolasexta/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF
-https://live.mitele.es/hls/live/2005336/fdf/playlist.m3u8
-#EXTINF:-1 tvg-id="BEMAD.es" tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7600_408_1_C00000_0_0_0.png",BE MAD 
-https://live.mitele.es/hls/live/2005333/bemad/playlist.m3u8
-#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.dropbox.com/s/2ximg4106kftjaq/1_0_1_749A_41C_1_C00000_0_0_0.png?dl=1",DIVINITY
-https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7o3snxyfaunxpe2/1_0_19_7535_426_1_C00000_0_0_0.png?dl=1",CUATRO web
+https://www.mitele.es/directo/cuatro/
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/esrav87u43rcl58/1_0_19_7536_426_1_C00000_0_0_0.png?dl=1",TELECINCO web
+https://www.mitele.es/directo/telecinco/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",LA SEXTA HD web
+https://www.atresplayer.com/directos/lasexta/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF web
+https://www.mitele.es/directo/fdf
+#EXTINF:-1 tvg-id="BEMAD.es" tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7600_408_1_C00000_0_0_0.png",BE MAD web 
+https://www.mitele.es/directo/bemad
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.dropbox.com/s/2ximg4106kftjaq/1_0_1_749A_41C_1_C00000_0_0_0.png?dl=1",DIVINITY web
+https://www.mitele.es/directo/divinity
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7729_416_1_C00000_0_0_0.png",CANAL SUR A.
 https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://logo.ddnb.tn/logochanel/1260.png",MEGA
@@ -27,11 +27,9 @@ http://cdn2.interlibre.net/hls/155/index.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="DMAX.es" tvg-logo="http://logo.ddnb.tn/logochanel/1256.png",DMax 
 http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1",DKISS web
-http://photocall.tv/kS1w/l1?ch=dkiss
+https://es.dplay.com/dkiss/
 #EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1",TEN web
-http://photocall.tv/kS1w/l1?ch=ten
-#EXTINF:-1 tvg-id="cosmo.es" tvg-logo="https://www.dropbox.com/s/xiuhfqwuhok1krm/1_0_1_7730_416_1_C00000_0_0_0.png?dl=1",COSMO HD web
-http://photocall.tv/kS1w/l1?ch=cosmo
+https://tentv.es/
 #EXTINF:-1 tvg-id="TV3.es" tvg-logo="https://www.dropbox.com/s/040scez2b4yv60q/TV3.png?dl=1",TV3
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-name="MTmad.es" tvg-logo="https://i.imgur.com/I9QX555.png",MTmad 
@@ -41,7 +39,7 @@ http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/Playlist.m3u8?OPT:http-r
 #EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="http://cdn.teleon.tv/logo/canal-extremadura-tv-es.png",Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="13.TV.es" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200",TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8?OPT:http-reconnect=true
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemadrid.TV" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200",Telemadrid
 http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="Andorratv" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",Andorra
@@ -216,8 +214,10 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/2.ts
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200",RealMadrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_74A3_41C_1_C00000_0_0_0.png",GOL web
+https://www.goltelevision.com/live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/loznic89/EPGBiturbo/master/1_0_19_1332_3EF_1_C00000_0_0_0.png",ServusTV HD (MOTOGP)
-http://photocall.tv/kS1w/l1?ch=servustv
+http://mail.ebert.in/webapps/joshdick-miniProxy/miniProxy.php?https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 1 DE
 http://kineskop.tv/?page=watch&ch=1111
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 2 DE
