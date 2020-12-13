@@ -9,17 +9,17 @@ https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
 http://200.54.19.131:8500/play/a0i8/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7o3snxyfaunxpe2/1_0_19_7535_426_1_C00000_0_0_0.png?dl=1",CUATRO
-https://live.mitele.es/hls/live/2004102/cuatro/playlist.m3u8?hdnts
+https://live.mitele.es/hls/live/2004102/cuatro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/esrav87u43rcl58/1_0_19_7536_426_1_C00000_0_0_0.png?dl=1",TELECINCO
-https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8?hdnts
+https://live.mitele.es/hls/live/2004101/telecinco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",LA SEXTA HD
 https://livestartover-i.akamaized.net/geolasexta/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF
-https://live.mitele.es/hls/live/2005336/fdf/playlist.m3u8?hdnts
+https://live.mitele.es/hls/live/2005336/fdf/playlist.m3u8
 #EXTINF:-1 tvg-id="BEMAD.es" tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7600_408_1_C00000_0_0_0.png",BE MAD 
-https://live.mitele.es/hls/live/2005333/bemad/playlist.m3u8?hdnts
+https://live.mitele.es/hls/live/2005333/bemad/playlist.m3u8
 #EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.dropbox.com/s/2ximg4106kftjaq/1_0_1_749A_41C_1_C00000_0_0_0.png?dl=1",DIVINITY
-https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8?hdnts
+https://live.mitele.es/hls/live/2005335/divinity/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7729_416_1_C00000_0_0_0.png",CANAL SUR A.
 https://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://logo.ddnb.tn/logochanel/1260.png",MEGA
