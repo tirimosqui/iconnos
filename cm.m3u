@@ -302,6 +302,62 @@ https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TYfGTX9.png",MS Motor TV
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pggeczF.jpg",Free Sports TV
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2msWdzQ.jpg",Horizon Sports
+https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nus9e8M.jpg",World Poker Tour
+https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+#EXTINF:-1 tvg-id="FC BAYERN" tvg-logo="https://i.imgur.com/b6tcf2i.jpg",FC Bayern Munchen TV
+https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K4H2zNk.jpg",Atlanta United Fan TV
+https://nrpus.bozztv.com/36bay2/gusa-auftv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xVgXmS2.jpg",Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dIzAmT0.png",Rugby Men's Sevens
+https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HZp8PAw.png",Rugby Women's Sevens
+https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/0757/brand.gif",SPORTS MAX
+https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/861px-Claro_Sports_logo.svg.png",Claro Sports
+http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-1  tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300",Bolivia Deportes
+http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png",Viasat Sport
+http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-logo="https://i.imgur.com/oDOpMph.png",MLB Network
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 tvg-id="MLS" tvg-logo="https://i.imgur.com/6t7x61s.png",MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oDOpMph.png",NFL Now Live
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2020/05/01/nascar.jpeg",NASCAR Live Event
+http://nascar_prhd-f.akamaihd.net/i/nascarliveevent_01@81650/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/12/cbs-sports-app-logo.png",CBS SPORTS HD
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/12/cbs-sports-app-logo.png",CBS Sports HQ
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/12/cbs-sports-app-logo.png",Basketball on CBS
+http://cbssportsliveios-i.akamaihd.net/hls/live/200603/cbklive2/desktop.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hd-report.com/wp-content/uploads/2013/12/cbs-sports-app-logo.png",PGA Tour on CBS
+http://cbssportsliveios-i.akamaihd.net/hls/live/207523/pgatour_simulcast/desktop.m3u8
+#EXTINF:-1 tvg-id="UK EDGE Sport" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg",EDGE Sport
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Abu Dabi Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Abu Dabi Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Abu Dabi Sports 4
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2 
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil%3Adubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ZFQ93Z.png",ATG TV
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYtT7usokX0l3HD3SBW0qR7nLjFa1JPmsXhQI2K4-dw-xm5T5a&usqp=CAU",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="Olimpic.sp"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel
