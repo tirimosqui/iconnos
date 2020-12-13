@@ -434,9 +434,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d90009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-id="5de802659167b10009e7deba" tvg-name="Pluto TV Series Retro Latino" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png",Pluto TV Series Retro (Latino)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1 tvg-id="5f984b18dfe75800070e8645" tvg-name="pluto tv Navidad" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Pluto TV",pluto tv navidad
+#EXTINF:-1 tvg-id="5f984b18dfe75800070e8645" tvg-name="pluto tv Navidad" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png",pluto tv navidad
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984b18dfe75800070e8645/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
-#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="Pluto TV",mtv Originals
+#EXTINF:-1 tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png",mtv Originals
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-id="5f1aae8c65727d0007d15a17" tvg-name="TROL" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png",trol
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
