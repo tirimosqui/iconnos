@@ -171,11 +171,15 @@ http://mitv.televall.online/tooncast.php
 http://mitv.televall.online/nick.php
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",DISNEY CH HD web
 http://mitv.televall.online/disneych.php
+#EXTINF:-1 tvg-logo="https://revolucionariostv.eu/Botones/MultiTV/Nacionales+tdt/Disney+.png",DISNEY+ web
+https://revolucionariostv.eu/MultiTV/disney+.php
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png",Fail Army
 https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D6_3F8_1_C00000_0_0_0.png",#VAMOSHD
 #EXTVLCOPT:http-user-agent=ester345
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA web
+https://revolucionariostv.eu/MultiTV/canalcocina.php 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA HD
 #EXTVLCOPT:http-user-agent=ester345
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts
