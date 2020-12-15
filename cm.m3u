@@ -163,7 +163,11 @@ https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTVLCOPT:http-user-agent=ester345
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA web
-https://revolucionariostv.eu/MultiTV/canalcocina.php 
+https://revolucionariostv.eu/MultiTV/canalcocina.php?OPT:adaptive=1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA web
+https://v3.sportzonline.to/channels/hd/hd6.php?OPT:adaptive=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA web
+http://sportzonline.to/channels/hd/hd6.html?OPT:adaptive=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA HD
 #EXTVLCOPT:http-user-agent=ester345
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts
