@@ -59,7 +59,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/fasion.jpeg",Moda Fasion Dior
 https://fash1043.cloudycdn.services/vod/_definst_/43/00/11/102218/1o2_dm_x3oqree.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_788C_414_1_C00000_0_0_0.png",#0 HD
-#EXTVLCOPT:http-user-agent=ester345
+#EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/44.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_788C_414_1_C00000_0_0_0.png",#0 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
@@ -154,7 +154,7 @@ http://miralobien.lookplay.ml/look/tnt/index.m3u8
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/21.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_7732_416_1_C00000_0_0_0.png",CRIMEN+INVES
-#EXTVLCOPT:http-user-agent=ester345
+#EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/48.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_78C0_3EC_1_C00000_0_0_0.png",COMEDYCENTRALHD
 #EXTVLCOPT:http-user-agent=gannbv46
