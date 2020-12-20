@@ -1,11 +1,9 @@
-
-{
-"name": "T STAR TV"",
+{"name": "T STAR TV"",
 "author":  "lista libre y gratis recopilada con enlaces de Internet",
 "url":   "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
-	"info": "Lista gratis",
-	"groups": [
+"info": "by tiri",
+"groups": [
 
 
 {"name": "TV ESPAÑA",
@@ -271,31 +269,26 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "https://overtakefans.com/f1-live-stream/f1tv-pro-stream-web-player",
 "embed": "true"},
-
 {"name": "sky-sport-f1",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://overtakefans.com/f1-live-stream/sky-sport-f1-live-stream-via-web-player/watch/index.php?id=skysportf1_hd&token=3rrw8923ik",
 "embed": "true"},
-
 {"name": "BT Sport 2 MotoGP eventos",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8"},
-
 {"name": "BT Sport 2 MotoGP eventos",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "http://www.liveonlinetv247.info/embed/btsport2.php",
 "playInNatPlayer": "true", "embed": "true" },
-
 {"name": "BT Sport 2 MotoGP eventos",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
-"url": "https://ustreamix.to/stream.php?id=bt-sport-2?embed=true",
+"url": "https://ustreamix.to/stream.php?id=bt-sport-2",
 "playInNatPlayer": "true", "embed": "true" },
 
 {"name": "Dazn esp",
 "image" :"http://kineskop.tv/icon_cache/dazn-de.png",
 "url": "http://miralobien.lookplay.ml/look/dazn_1/index.m3u8",
-"userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4",
-"isHost": "true" },
+"userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4"},
 {"name": "Dazn 1 DE",
 "image":"http://kineskop.tv/icon_cache/dazn-de.png",
 "url": "http://kineskop.tv/?page=watch&ch=1111",
@@ -322,7 +315,6 @@
 {"name": "Sevilla FC TV", 
 "image":"https://i.imgur.com/yujGVbm.png",
 "url": "https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8"},
-
 {"name": "ESPN",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"https://ustream.to/stream.php?id=espn",
@@ -522,6 +514,7 @@
 "image":"https://www.dropbox.com/s/ibr436rej9iumpj/kisspng-kickboxing.jpg?dl=1",
 "url": "https://web-tv.netlify.app/1999",
 "isHost": "true" },
+
 {"name": "RacingCom", 
 "image":"https://www.dropbox.com/s/twxvstlv003ze50/racing.png?dl=1",
 "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8"},
