@@ -1,14 +1,16 @@
-{"name": "T STAR TV"",
-"author":  "lista libre y gratis recopilada con enlaces de Internet",
-"url":   "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
+{"name": "T STAR TV"  ,
+"author":"lista libre y gratis recopilada con enlaces de Internet",
+"url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
-"info": "by tiri",
+"imageScale": "",
+"contact":"",
+"info":"",
 "groups": [
 
-
-{"name": "TV ESPAÑA",
+{"name": "Tv ESPAÑA",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
 "stations":[
+
 
 {"name": "La 1",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7863_41A_1_C00000_0_0_0.png",
@@ -846,7 +848,10 @@
 {"name": "S365",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "url": "http://www.s365.live/es/home",
-"playInNatPlayer": "true","embed": "true"},
+"playInNatPlayer": "true",
+"embed": "true"},
+]},
+
 
 ]},
 
@@ -866,7 +871,7 @@
 "image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
 "url": "http://mitv.televall.online/nick.php",
 "isHost": "true" },
-{"name": "Boomerang ", 
+{"name": "Boomerang", 
 "image": "https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg", 
 "url": "http://200.54.19.131:8500/play/a0h9/index.m3u8"},
 {"name": "Cartoon Network", 
@@ -895,9 +900,11 @@
 {"name": "Pequeradio TV", 
 "image":"https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
 "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"}, 
+
 {"name": "Locomocion tv", 
 "image":"https://i.imgur.com/kF29z8z.jpg",
 "url": "http://locomotiontv.com/envivo/loco_ch/stream.m3u8"}, 
+
 {"name": "LOS SIMPSON LAT", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",  
 "url": "https://www.zonafilmstv.com/p/simpsonmania.html", 
@@ -909,10 +916,12 @@
 {"name": "Super3",
 "image": "https://graph.facebook.com/clubsuper3/picture?width=320&height=320",
 "url": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8"},
+
 {"name": "Danimados online",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/510EZNFsh5L._AC_SY450_.jpg",
 "url": "https://danimados.com/genero/series-clasicas/",
 "embed": "true" },
+
 {"name": "seodiv online",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/510EZNFsh5L._AC_SY450_.jpg",
 "url": "https://seodiv.com/",
@@ -1199,8 +1208,8 @@
 {"name": "Serie Barbie", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg", 
 "url": "https://www.dailymotion.com/embed/video/x3lkeab", 
-"embed": "true"},
-
+"embed": "true"
+},
 ]},
 
 
@@ -1211,6 +1220,7 @@
 {"name": "USAR VPN",
 "image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
 "url": "https://adictosala/"},
+
 {"name": "HBO LATINO",
 "image": "https://adictosalatele.com/logos/hbo.png",
 "url": "https://adictosalatele.com/TV/latinos/hbo/",
@@ -1340,8 +1350,8 @@
 "image": "https://adictosalatele.com/logos/fxm.png",
 "url": "https://adictosalatele.com/TV/latinos/fxm/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-"playInNatPlayer": "true","embed": "true"},
-
+"playInNatPlayer": "true",
+"embed": "true"},
 ]},
 
 {"name": "PLUTO TV CINE ONLINE",
@@ -1476,7 +1486,6 @@
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/CINE%20LATINO.png",
 "url": "https://www.zonafilmstv.com/p/latinomovies.html", 
 "isHost": "true"},
-
 ]},
 
 {"name": "PAGINAS DE PELICULAS",
@@ -1511,11 +1520,7 @@
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
 "url": "http://plexeros.com/", 
 "embed": "true"},
-
 ]},
-
-
-
 
 {"name": "RADIOS ONLINE",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
@@ -1678,7 +1683,7 @@
 {"name": "COVID-19 INFO24H PANDEMIC-WORLD",
 "imageScale": "",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/giphy.gif",
-"stations": [	
+"stations": [
 
 {"name": "COVID-19 tv",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/giphy.gif",
@@ -1789,9 +1794,5 @@
 {"name": "Agradezco a GRUPO TDT CHANNEL por los TDT", "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/informacion-tursitica.png",
 "url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8",
 "userAgent": ""},
-
-
 ]},
-
-
 ]}
