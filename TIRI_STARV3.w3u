@@ -1,5 +1,5 @@
 
-{"name": "T STAR TV"  , 
+{"name": "T STAR TV", 
 "author":"lista libre y gratis recopilada con enlaces de Internet",
 "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
@@ -7,6 +7,7 @@
 "contact":"",
 "info":"",
 "groups": [
+
 
 {"name": "TV ESPAÑA",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
@@ -278,9 +279,7 @@
 "isHost": "true"},
 {"name": "Liga tv Bar",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
-"url": "https://revolucionariostv.eu/directo1.php",
-"userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4",
-"isHost": "true"},
+"url": "https://revolucionariostv.eu/directo1.php", "isHost": "true"},
 {"name": "F1 MOVISTAR",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "url": "http://miralobien.lookplay.ml/look/movistar_formula_1/index.m3u8",
