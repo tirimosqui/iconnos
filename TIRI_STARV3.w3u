@@ -1,14 +1,12 @@
-{"name": "T STAR TV", 
+{
+"name":"T STAR TV"",
 "author":"lista libre y gratis recopilada con enlaces de Internet",
 "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
-"imageScale": "",
-"contact":"",
-"info":"",
-"groups": [
+"stations":[
 
 
-  
+ 
 {"name": "TV ESPAÑA",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
 "stations":[
