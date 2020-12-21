@@ -152,7 +152,7 @@
 "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4",
 "url": "http://miralobien.lookplay.ml/look/movistar_comedia/index.m3u8"
 },
-{"name": "M.CineDoc&Roll",
+{"name": "M CineDoc&Roll",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7736_416_1_C00000_0_0_0.png",
 "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4",
 "url": "http://miralobien.lookplay.ml/look/movistar_cinedocroll/index.m3u8"
@@ -270,7 +270,7 @@
 {"name": "MOVSTAR DEPORTES",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "stations":[
-{"name": "Movistar Deportes",
+{"name": "M Deportes",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7532_426_1_C00000_0_0_0.png",
 "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4",
 "url": "http://miralobien.lookplay.ml/look/movistar_deportes/index.m3u8"
@@ -295,7 +295,7 @@
 "url": "https://revolucionariostv.eu/directo1.php",
 "isHost": "true"
 },
-{"name": "F1 MOVISTAR",
+{"name": "F1 MOVSTAR",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/infiniti-formula-1.png",
 "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4",
 "url": "http://miralobien.lookplay.ml/look/movistar_formula_1/index.m3u8"
