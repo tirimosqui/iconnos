@@ -1,15 +1,13 @@
 {
 "name": "T STAR TV",
-"author":"lista libre y gratis recopilada con enlaces de Internet",
+"author": "lista libre y gratis recopilada con enlaces de Internet",
 "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
 "imageScale": "",
-"telegram":"listaswiseplay",
-"info":"lista libre",
-"groups":[
-
-{
-"name": "Tv ESPAÑA",
+"telegram": "listaswiseplay",
+"info": "lista libre",
+"groups": [
+{"name": "Tv ESPAÑA",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
 "stations":[
 
@@ -272,8 +270,7 @@
 "url": "http://miralobien.lookplay.ml/look/iberalia/index.m3u8"
 },
 
-]
-},
+]},
 
 {
 "name": "MOVSTAR DEPORTES",
@@ -630,8 +627,7 @@
 "url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
 },
 
-]
-},
+]},
 
 {
 "name": "DEPORTES PAG WEB",
@@ -766,8 +762,7 @@
 "playInNatPlayer": "true",
 "embed": "true"
 },
-]
-},
+]},
 
 {
 "name": "Tv INFANTIL",
@@ -1139,9 +1134,9 @@
 {"name": "Serie Barbie", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg", 
 "url": "https://www.dailymotion.com/embed/video/x3lkeab", 
-"embed": "true"},
-]
+"embed": "true"
 },
+]},
 
 {
 "name": "Tv LATINO",
@@ -1309,8 +1304,7 @@
 "playInNatPlayer": "true",
 "embed": "true"
 },
-]
-},
+]},
 
 {
 "name": "PLUTO TV CINE ONLINE",
@@ -1444,10 +1438,10 @@
 {"name": "LATINO MOVIES", 
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/CINE%20LATINO.png",
 "url": "https://www.zonafilmstv.com/p/latinomovies.html", 
-"isHost": "true"},
-
-]
+"isHost": "true"
 },
+
+]},
 
 {
 "name": "PAGINAS DE PELICULAS",
@@ -1481,9 +1475,9 @@
 {"name": "PLEXEROS registro",
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
 "url": "http://plexeros.com/", 
-"embed": "true"},
-]
+"embed": "true"
 },
+]},
 
 {
 "name": "RADIOS ONLINE",
@@ -1530,8 +1524,7 @@
 "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3"
 },
 
-]
-},
+]},
 
 {
 "name": "TV Música",
@@ -1625,8 +1618,7 @@
 "url": "https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8"
 },
 
-]
-},
+]},
 
 {
 "name": "COVID-19 INFO24H PANDEMIC WORLD",
@@ -1664,9 +1656,7 @@
 "embed": "true"
 },
 
-
-]
-},
+]},
 
 {
 "name": "PROGRAMACION DE TV",
@@ -1688,8 +1678,7 @@
 "embed": "true"
 },
 
-]
-},
+]},
 
 {
 "name": "Listas Wiseplay_com",
@@ -1706,8 +1695,7 @@
 "embed": "true"
 },
 
-]
-},
+]},
 
 {
 "name": "Protectoras De Animales By Vargas",
@@ -1723,8 +1711,7 @@
 "embed": "true" 
 },
 
-]
-},
+]},
 
 {
 "name": "TEAM SPORT",
@@ -1741,8 +1728,7 @@
 "embed": "true"
 },
 
- ]
-},
+]},
 
 { 
 "name": "INFO",
@@ -1763,7 +1749,5 @@
 "url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8"
 },
 
-]
-},
-]
-}
+]},
+]}
