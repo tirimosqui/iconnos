@@ -1,5 +1,4 @@
-{
-"name": "T STAR TV",
+{"name": "T STAR TV",
 "author": "lista libre y gratis recopilada con enlaces de Internet",
 "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",
@@ -10,7 +9,6 @@
 {"name": "Tv ESPAÑA",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/Tv%20(1).gif",
 "stations":[
-
 {"name": "La 1",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7863_41A_1_C00000_0_0_0.png",
 "url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8"
@@ -267,16 +265,11 @@
 {"name": "Iberalia",
 "image":"https://www.dropbox.com/s/ekvjt0i975pikej/1_0_1_746A_3F0_1_C00000_0_0_0.png?dl=1",
 "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4",
-"url": "http://miralobien.lookplay.ml/look/iberalia/index.m3u8"
-},
-
+"url": "http://miralobien.lookplay.ml/look/iberalia/index.m3u8"},
 ]},
-
-{
-"name": "MOVSTAR DEPORTES",
+{"name": "MOVSTAR DEPORTES",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "stations":[
-
 {"name": "Movistar Deportes",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7532_426_1_C00000_0_0_0.png",
 "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4",
@@ -624,16 +617,11 @@
 },
 {"name": "Tenis TV", 
 "image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
-"url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
-},
-
+"url": "https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"},
 ]},
-
-{
-"name": "DEPORTES PAG WEB",
+{"name": "DEPORTES PAG WEB",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
 "stations":[
-
 {"name": "DAILY SPORT -TV-Y-GUIA",
 "image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
 "url": "https://dailysport.website/", 
@@ -760,15 +748,11 @@
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "url": "http://www.s365.live/es/home",
 "playInNatPlayer": "true",
-"embed": "true"
-},
+"embed": "true"},
 ]},
-
-{
-"name": "Tv INFANTIL",
+{"name": "Tv INFANTIL",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/mickeybechito.gif",
 "stations":[
- 
 {"name": "Disney Channel", 
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_788B_414_1_C00000_0_0_0.png",
 "url": "https://revolucionariostv.eu/MultiTV/disney+.php",
@@ -1134,19 +1118,14 @@
 {"name": "Serie Barbie", 
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg", 
 "url": "https://www.dailymotion.com/embed/video/x3lkeab", 
-"embed": "true"
-},
+"embed": "true"},
 ]},
-
-{
-"name": "Tv LATINO",
+{"name": "Tv LATINO",
 "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg",
 "stations":[
-
 {"name": "USAR VPN",
 "image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
 "url": "https://adictosala/"},
-
 {"name": "HBO LATINO",
 "image": "https://adictosalatele.com/logos/hbo.png",
 "url": "https://adictosalatele.com/TV/latinos/hbo/",
@@ -1438,100 +1417,109 @@
 {"name": "LATINO MOVIES", 
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/CINE%20LATINO.png",
 "url": "https://www.zonafilmstv.com/p/latinomovies.html", 
-"isHost": "true"
-},
-
+"isHost": "true"},
 ]},
-
-{
-"name": "PAGINAS DE PELICULAS",
+{"name": "PAGINAS DE PELICULAS",
 "image": "https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
 "stations": [
- 
 {"name": "Dilo nu online",
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
-"url": "https://www.dilo.nu/catalogue?genre%5B%5D=animacion&genre%5B%5D=kids&genre%5B%5D=infantil", 
+"url": "https://www.dilo.nu/catalogue?genre%5B%5D=animacion&genre%5B%5D=kids&genre%5B%5D=infantil",
+"userAgent": "",
+"playInNatPlayer": "true",
 "embed": "true"},
 {"name": "CUEVANA ONLINE",
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
- "url": "https://cuevana2espanol.com/ver-pelicula-online/", 
+"url": "https://cuevana2espanol.com/ver-pelicula-online/",
+"userAgent": "",
+"playInNatPlayer": "true",
 "embed": "true"},
 {"name": "PELISVIP ONLINE",
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
 "url": "https://pelisvips.com/",
+"userAgent": "",
+"playInNatPlayer": "true",
 "embed": "true"},
 {"name": "VERPELISONLINE TV",
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
- "url": "https://verpelisonline.tv/",
+"url": "https://verpelisonline.tv/",
+"userAgent": "",
+"playInNatPlayer": "true",
 "embed": "true"},
 {"name": "PELISPEDIA ONLINE",
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
-"url": "https://www.pelispedia.biz/",  
+"url": "https://www.pelispedia.biz/",
+"userAgent": "",
+"playInNatPlayer": "true",
 "embed": "true"},
 {"name": "GNULA ONLINE",
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
 "url": "https://gnula.blog/",
+"userAgent": "",
+"playInNatPlayer": "true",
 "embed": "true"},
 {"name": "PLEXEROS registro",
 "image":"https://newesc.com/wp-content/uploads/P%C3%A1ginas-para-ver-Pel%C3%ADculas-Online-585x400.jpg",
-"url": "http://plexeros.com/", 
-"embed": "true"
-},
+"url": "http://plexeros.com/",
+"embed": "true"},
 ]},
-
-{
-"name": "RADIOS ONLINE",
+{"name": "RADIOS ONLINE",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
 "stations":[
-
-{"name": "Europa Fm", 
+{"name": "Europa Fm",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "https://www.europafm.com/directo/"},
-{"name": "Los 40", 
+"url": "https://www.europafm.com/directo/",
+"userAgent": "http-reconnect=true"},
+{"name": "Los 40",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
 "url": "https://play.los40.com/",
 "embed": "true"},
-{"name": "Radiolé", 
+{"name": "Radiolé",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3"},
-{"name": "Rock Fm", 
+"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE.mp3",
+"userAgent": "http-reconnect=true"},
+{"name": "Rock Fm",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "https://rockfm-cope.flumotion.com/playlist.m3u8"},
-{"name": "Rock Fm 2", 
+"url": "https://rockfm-cope.flumotion.com/playlist.m3u8",
+"userAgent": "http-reconnect=true"},
+{"name": "Rock Fm 2",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
 "url": "https://emisora.org.es/rock-fm/",
 "embed": "true"},
-{"name": "Kis Fm", 
+{"name": "Kis Fm",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "http://kissfm.kissfmradio.cires21.com/kissfm.mp3"},
-{"name": "Canal Sur Radio", 
+"url": "http://kissfm.kissfmradio.cires21.com/kissfm.mp3",
+"userAgent": "http-reconnect=true"},
+{"name": "Canal Sur Radio",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/chunklist_b250000.m3u8"},
-{"name": "Canal Fiesta Radio", 
+"url": "https://cdnlive.shooowit.net/rtvalive/smil:channel9.smil/chunklist_b250000.m3u8",
+"userAgent": "http-reconnect=true"},
+{"name": "Canal Fiesta Radio",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/chunklist_b250000.m3u8"},
-{"name": "Cadena Cope", 
+"url": "https://cdnlive.shooowit.net/rtvalive/smil:channel4.smil/chunklist_b250000.m3u8",
+"userAgent": "http-reconnect=true"},
+{"name": "Cadena Cope",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "https://flucast-m04-06.flumotion.com/cope/net1.mp3"},
-{"name": "Cadena 100", 
+"url": "https://flucast-m04-06.flumotion.com/cope/net1.mp3",
+"userAgent": "http-reconnect=true"},
+{"name": "Cadena 100",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "http://195.55.74.203/cope/cadena100.mp3"},
-{"name": "Cadena Dial", 
+"url": "http://195.55.74.203/cope/cadena100.mp3",
+"userAgent": "http-reconnect=true"},
+{"name": "Cadena Dial",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3"},
-{"name": "Cadena Ser", 
+"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3",
+"userAgent": "http-reconnect=true"},
+{"name": "Cadena Ser",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/radio-imagen-animada-0065.gif",
-"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3"
+"url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3",
+"userAgent": "http-reconnect=true"
 },
-
 ]},
-
-{
-"name": "TV Música",
+{"name": "TV Música",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/music%20gif.gif",
 "imageScale": "",
 "stations":[
-
 {"name": "urban-essex",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
 "url": "https://www.smashcast.tv/embed/urban-essex?autoplay=true/",
@@ -1582,51 +1570,57 @@
 "embed": "true"},
 {"name": "Life Music",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "http://media.profesionalhosting.com:1935/8441/8441/playlist.m3u8"},
+"url": "http://media.profesionalhosting.com:1935/8441/8441/playlist.m3u8",
+"userAgent": "http-reconnect=true"},
 {"name": "carolinatv",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
 "url": "https://www.carolina.cl/tv/",
 "isHost": "true"},
-{"name": "Mooz Dance", 
+{"name": "Mooz Dance",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END"},
-{"name": "Mooz Hits", 
+"url": "http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END",
+"userAgent": "http-reconnect=true" },
+{"name": "Mooz Hits",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END"},
- {"name": "DJING HITS", 
- "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "https://www.djing.com/tv/hits.m3u8"},
-{"name": "DJING hot", 
+"url": "http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END",
+"userAgent": "http-reconnect=true" },
+{"name": "DJING HITS",
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
+"url": "https://www.djing.com/tv/hits.m3u8",
+"userAgent": "http-reconnect=true" },
+{"name": "DJING hot",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8"},
-{"name": "DJING summer", 
+"url": "http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8",
+"userAgent": "http-reconnect=true" },
+{"name": "DJING summer",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "http://www.djing.com/tv/session_summer-vibes.m3u8" },
+"url": "http://www.djing.com/tv/session_summer-vibes.m3u8",
+"userAgent": "http-reconnect=true" },
 {"name": "Music Top", "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w265474821_b2028000_sleng.m3u8"},
-{"name": "Music Box Ru", 
+"url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w265474821_b2028000_sleng.m3u8",
+"userAgent": "http-reconnect=true" },
+{"name": "Music Box Ru",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8"},
-{"name": "Hit Tv", 
+"url": "https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8",
+"userAgent": "http-reconnect=true"  },
+{"name": "Hit Tv",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "https://rosshow.gcdn.co/streams/1410_287/720n/index.m3u8"},
-{"name": "M2OTV", 
+"url": "https://rosshow.gcdn.co/streams/1410_287/720n/index.m3u8",
+"userAgent": "http-reconnect=true" },
+{"name": "M2OTV",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8"}, 
- {"name": "RUTV", 
- "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
-"url": "https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8"
-},
-
+"url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8",
+"userAgent": "http-reconnect=true"  },
+{"name": "RUTV",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",
+"url": "https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8",
+"userAgent": "http-reconnect=true"},
 ]},
-
-{
-"name": "COVID-19 INFO24H PANDEMIC WORLD",
+{"name": "COVID-19 Pandemic WORLD",
 "imageScale": "",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/giphy.gif",
 "stations": [
-
-{"name": "COVID-19 tv",
+{"name": "COVID-19 directo tv",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/giphy.gif",
 "url": "https://www.youtube.com/embed/NMre6IAAAiU",
 "embed": "true"},
@@ -1653,17 +1647,12 @@
 {"name": "COVID-19 info diaria 5",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/giphy.gif",
 "url": "https://graphics.reuters.com/CHINA-HEALTH-MAP/0100B59S39E/index.html",
-"embed": "true"
-},
-
+"embed": "true"},
 ]},
-
-{
-"name": "PROGRAMACION DE TV",
+{"name": "PROGRAMACION DE TV",
 "imageScale": "",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/programacion-.png",
-"stations": [	
-
+"stations": [
 {"name": "GUIA tvguia es",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/programacion-.png",
 "url": "http://www.tvguia.es/programacion-tv/programacion-tv-ahora",
@@ -1671,83 +1660,63 @@
 {"name": "GUIA movistarplus",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/programacion-.png",
 "url": "http://www.movistarplus.es/programacion-tv",
-"embed": "true"},
+"embed": "true" },
 {"name": "GUIA formulatv",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/programacion-.png",
 "url": "https://www.formulatv.com/programacion/movistarplus/",
-"embed": "true"
-},
-
+"embed": "true"},
 ]},
-
-{
-"name": "Listas Wiseplay_com",
- "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/listas-wiseplay-portada.jpg",
+{"name": "Listas Wiseplay_com",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/listas-wiseplay-portada.jpg",
 "stations": [
-
 {"name": "Listas Wiseplay_com Web oficial",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/listas-wiseplay-portada.jpg",
 "url": "https://listaswiseplay.com/",
-"embed": "true" }, 
+"embed": "true" },
 {"name": "Listas Wiseplay_com Telegram ",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/listas-wiseplay-portada.jpg",
 "url": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://t.me/listaswiseplay&ved=2ahUKEwiq5rDzsYPqAhVS8uAKHVioCvEQFjAAegQIARAB&usg=AOvVaw1E4Z8oCjxV85IWS2QgaKrA",
 "embed": "true"
 },
-
 ]},
-
-{
-"name": "Protectoras De Animales By Vargas",
+{"name": "Protectoras De Animales By Vargas",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/huertodlc.jpeg",
 "stations": [
 {"name": "Protectora Gatetes by Vargas",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/huertodlc.jpeg",
 "url": "https://telegra.ph/Ayuda-a-la-protectora-gatetes-07-08",
-"embed": "true" }, 
+"embed": "true" },
 {"name": "Protectora Maginaanimal by Vargas",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/huertodlc.jpeg",
 "url": "https://telegra.ph/Ayuda-a-la-protectora-07-08",
-"embed": "true" 
+"embed": "true"
 },
-
 ]},
-
-{
-"name": "TEAM SPORT",
-"image": "https://appteamsports.github.io/images/icon.jpg",
+{"name": "TEAM SPORT",
+"image": "https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
 "stations": [
-
 {"name": "Team Sport",
-"image":"https://appteamsports.github.io/images/icon.jpg",
+"image":"https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
 "url": "https://appteamsports.github.io/",
-"embed": "true" }, 
+"embed": "true" },
 {"name": "App team Sport",
-"image":"https://appteamsports.github.io/images/icon.jpg",
+"image":"https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
 "url": "https://appteamsports.github.io/#download",
 "embed": "true"
 },
-
 ]},
-
-{ 
-"name": "INFO",
+{"name": "INFO",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/informacion-tursitica.png",
 "stations":[
-
-{
-"name": "#QUEDATEENCASA", "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/informacion-tursitica.png",
+{"name": "#QUEDATEENCASA", "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/informacion-tursitica.png",
 "url": "https://m.youtube.com/watch?v=Q1WMc6XRizw",
-"embed": "true"
-},
-{"name": "el contenido es libre y recopilado de internet yo no soy responsable de tu mal uso no doy soporte a pirateria o si tu pais no permite el contenido", 
+"embed": "true"},
+{"name": "el contenido es libre y recopilado de internet yo no soy responsable de tu mal uso no doy soporte a pirateria o si tu pais no permite el contenido",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/informacion-tursitica.png",
 "url": "https://m.youtube.com/watch?v=KjDbmjROHHA",
-"embed": "true"
-},
-{"name": "Agradezco a GRUPO TDT CHANNEL por los TDT", "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/informacion-tursitica.png"
-"url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8"
-},
-
+"embed": "true"},
+{"name": "Agradezco a GRUPO TDT CHANNEL por los TDT", "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/informacion-tursitica.png",
+"url": "http://ultimaeiptv.me:8081//NzGm4354.m3u8",
+"userAgent": ""},
 ]},
 ]}
