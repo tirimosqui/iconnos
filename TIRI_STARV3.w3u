@@ -1422,6 +1422,7 @@
 "embed": "true"},
 {"name": "Agradezco a GRUPO TDT CHANNEL por los TDT", 
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/informacion-tursitica.png",
-"url": "http://ultimaiptv.me:8081//NzG4354.m3u8"},
+"url": "http://ultimaiptv.me:8081//NzG4354.m3u8",
+"userAgent": ""},
 ]},
 ]}
