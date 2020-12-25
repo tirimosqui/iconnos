@@ -317,19 +317,31 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sport MotoGP Italia
 http://freestreams-live1.com/sky-sport-motogp-italias/
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sports MotoGP
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sports MOTO GP 
 http://freestreams-live1.com/sky-spomotogpz/ 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",BT Sport 2 MotoGP eventos
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",BT Sport 2 (MOTO GP eventos)
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",BT Sport 2 MotoGP eventos
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",BT Sport 2 (MOTO GP eventos)
 http://freestreams-live1.com/btspo-2-uk/ 
-#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",DAZN esp
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",FOX SPORTS 2 (MOTO GP eventos)
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",FOX SPORTS 2 (MOTO GP eventos)
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",DAZN ESPAÑA
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4 
 http://miralobien.lookplay.ml/look/dazn_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 1 DE
 http://kineskop.tv/?page=watch&ch=1111
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 2 DE
 http://kineskop.tv/?page=watch&ch=1112
+#EXTINF:-1 tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",Sport TV 1
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1 tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",Sport TV 2
+http://77.54.145.209:81/play/a02j 
+#EXTINF:-1 tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",Sport TV 3
+http://77.54.145.209:81/play/a02n 
+#EXTINF:-1 tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",Sport TV 4
+http://77.54.145.209:81/play/a02o 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",SETANTA
 http://kineskop.tv/?page=watch&ch=513
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",SETANTA PLUS
@@ -362,18 +374,40 @@ http://200.54.19.131:8500/play/a0gi/index.m3u8
 http://digitalxpress.gcdn.co/live1/SP-ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT Sport 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD  1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD  2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",Bein Sports 1 HD
+http://chof-kora-online.blogspot.com/2020/10/bein-sports-1-hd-online.html
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png",Bein Sports 2 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-2-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png",Bein Sports 3 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-3-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png",Bein Sports 4 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-4-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png",Bein Sports 5 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-5-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png",Bein Sports 6 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-6-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png",Bein Sports 7 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-7-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_08_hd.png",Bein Sports 8 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-8-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_09_hd.png",Bein Sports 9 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-9-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_10_hd.png",Bein Sports 10 HD
+http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-10-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",Bein Sports extra HD
+http://chof-kora-online.blogspot.com/2020/11/bein-sportsxtra-hd-tv-live.html
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",Bein Sports Special extra
+https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",FOX SPORT HD 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT HD 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png",FOX SPORT HD 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6554.1489225299.png",Fox Sport News
@@ -440,6 +474,8 @@ https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 http://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 #EXTINF:-1  tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/bolivia-deportes.png?fit=500%2C300",Bolivia Deportes
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",BAYERN MUNICH TV
+http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wPWuj7PJbQj6MbHjb-7PzA/index-s32.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/Viasatsport.png",Viasat Sport
 http://persik.by/stream/2944/263250/10249.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-logo="https://i.imgur.com/oDOpMph.png",MLB Network
