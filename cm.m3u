@@ -456,6 +456,14 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png",UFC 4
 http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png",DIGI Sport 1 HD
+http://zigfreed.ru/2xD/1596.m3u8
+#EXTINF:-1 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png",DIGI Sport 2 HD
+http://zigfreed.ru/2xD/1597.m3u8
+#EXTINF:-1 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png",DIGI Sport 3 HD
+http://zigfreed.ru/2xD/1598.m3u8
+#EXTINF:-1 tvg-logo="https://www.digisport.ro/static/theme-repo/bin/images/logo-digisport.png",DIGI Sport 4 HD
+http://zigfreed.ru/2xD/1599.m3u8
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/gallery/ARD-Sportschau/ncs_ARD-Sportschau_0001.JPG",Sportschau HD
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/gallery/ARD-Sportschau/ncs_ARD-Sportschau_0001.JPG",Sportschau HD2
