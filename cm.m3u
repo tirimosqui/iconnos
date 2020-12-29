@@ -8,14 +8,24 @@ https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7534_426_1_C00000_0_0_0.png",ANTENA 3 HD
 http://200.54.19.131:8500/play/a0i8/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7o3snxyfaunxpe2/1_0_19_7535_426_1_C00000_0_0_0.png?dl=1",CUATRO (solo wiseplay)
-http://www.mitele.es/directo/cuatro/
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/esrav87u43rcl58/1_0_19_7536_426_1_C00000_0_0_0.png?dl=1",TELECINCO (solo wiseplay)
-https://www.mitele.es/directo/telecinco/
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF (solo wiseplay)
-http://www.mitele.es/directo/fdf/
-#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.dropbox.com/s/2ximg4106kftjaq/1_0_1_749A_41C_1_C00000_0_0_0.png?dl=1",DIVINITY  (solo wiseplay)
-http://www.mitele.es/directo/divinity/
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7o3snxyfaunxpe2/1_0_19_7535_426_1_C00000_0_0_0.png?dl=1",CUATRO
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/cuatro/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/esrav87u43rcl58/1_0_19_7536_426_1_C00000_0_0_0.png?dl=1",TELECINCO 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/telecinco/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/fdf/index.m3u8
+#EXTINF:-1 tvg-id="Divinity.es" tvg-logo="https://www.dropbox.com/s/2ximg4106kftjaq/1_0_1_749A_41C_1_C00000_0_0_0.png?dl=1",DIVINITY 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/divinity/index.m3u8
+#EXTINF:-1 tvg-id="BEMAD.es" tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7600_408_1_C00000_0_0_0.png",BE MAD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/be_mad/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_749F_41C_1_C00000_0_0_0.png",ENERGY
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/energy/index.m3u8
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1",DKISS
 http://91.126.141.201:1935/live/kiss/chunklist_w951039339.m3u8
 #EXTINF:-1 tvg-id="TEN" tvg-logo="https://www.dropbox.com/s/javwy3r01h5p4dp/Ten.png?dl=1",TEN
@@ -67,8 +77,8 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
 #EXTINF:-1 tvg-id="DARK" tvg-logo="https://www.dropbox.com/s/xrj6y7s6cufurdr/dark2.jpg?dl=1",DARK
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0
-http://miralobien.lookplay.ml/look/dark/index.m3u8 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/dark/index.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts 
@@ -149,33 +159,33 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kF29z8z.jpg",Locomotion TV
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Baby TV
-http://200.54.19.131:8500/play/a0kf/index.m3u8
+http://200.54.19.131:8500/play/a0kf
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Boomerang 
-http://200.54.19.131:8500/play/a0h9/index.m3u8
+http://200.54.19.131:8500/play/a0h9
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Cartoon Network
-http://200.54.19.131:8500/play/a0m1/index.m3u8
+http://200.54.19.131:8500/play/a0m1
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Cartoon Network 2
 http://200.54.51.206:3000/play/a02d
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Discovery Kids
-http://200.54.19.131:8500/play/a0j1/index.m3u8
+http://200.54.19.131:8500/play/a0j1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/up1wbkffc9t13sr/1_0_1_746B_3F0_1_C00000_0_0_0.png?dl=1",Disney Junior
-http://200.54.19.131:8500/play/a0g5/index.m3u8
+http://200.54.19.131:8500/play/a0g5
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/zokmvk8pqdpryb2/1_0_1_772A_416_1_C00000_0_0_0.png?dl=1",Disney Xd
-http://200.54.19.131:8500/play/a0js/index.m3u8
+http://200.54.19.131:8500/play/a0js
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Tooncast
-http://200.54.19.131:8500/play/a0l2/index.m3u8
+http://200.54.19.131:8500/play/a0l2
 #EXTINF:-1 tvg-logo="https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",Nat Geo Kids
-http://200.54.19.131:8500/play/a0j3/index.m3u8
+http://200.54.19.131:8500/play/a0j3
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dahup8chsedyg21/1_0_1_7697_41E_1_C00000_0_0_0.png?dl=1",Nick Jr
-http://200.54.19.131:8500/play/a0ea/index.m3u8
+http://200.54.19.131:8500/play/a0ea
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/dahup8chsedyg21/1_0_1_7697_41E_1_C00000_0_0_0.png?dl=1",Nick Jr 2
 http://200.54.51.206:3000/play/a02k
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/l4k8pf7k89mfrvy/1_0_1_772E_416_1_C00000_0_0_0.png?dl=1",Nickelodeon
-http://200.54.19.131:8500/play/a0h8/index.m3u8
+http://200.54.19.131:8500/play/a0h8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/l4k8pf7k89mfrvy/1_0_1_772E_416_1_C00000_0_0_0.png?dl=1",Nickelodeon 2
 http://200.54.51.206:3000/play/a02l
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",Disney Channel
-http://200.54.19.131:8500/play/a0jr/index.m3u8
+http://200.54.19.131:8500/play/a0jr
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",Disney Channel 2
 http://200.54.51.206:3000/play/a02f
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/f6krjak1vkd0u6u/1_0_1_76C3_40E_1_C00000_0_0_0.png?dl=1",Disney
@@ -226,11 +236,11 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts
 #EXTINF:-1 tvg-id="RMTV.TV" tvg-logo="https://graph.facebook.com/RealMadridTV7/picture?width=200&height=200",RealMadrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7828_428_1_C00000_0_0_0.png",Movistar Deportes
-http://200.54.19.131:8500/play/a0do/index.m3u8
+http://200.54.19.131:8500/play/a0do
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GOL.png",Gol TV
-http://200.54.19.131:8500/play/a0kr/index.m3u8
+http://200.54.19.131:8500/play/a0kr
 #EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GOL.png",GOLPERU
-http://200.54.19.131:8500/play/a0k9/index.m3u8
+http://200.54.19.131:8500/play/a0k9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sport MotoGP Italia
 http://freestreams-live1.com/sky-sport-motogp-italias/
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sports MOTO GP 
@@ -241,10 +251,6 @@ https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",FOX SPORTS 2 (MOTO GP eventos)
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",DAZN ESPAÑA
-https://dailywebsite.scdn6.secure.raxcdn.com/1/1.m3u8
-#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",DAZN ESPAÑA
-https://dailywebsite.scdn6.secure.raxcdn.com/e1/1.m3u8
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn Sports Box Office (solo wiseplay)
 http://freestreams-live1.com/sky-sports-box-office0/
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 1 DE (solo wiseplay)
@@ -265,9 +271,9 @@ http://45.92.69.211:8001/play/a0c9
 http://45.92.69.211:8001/play/a0bo
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pb40wpcepx9f097/sky%20sport%20hd.png?dl=1",Sky Sport Austria 2 HD
 http://45.92.69.211:8001/play/a0bs
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png",Sky Sports F1
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pb40wpcepx9f097/sky%20sport%20hd.png?dl=1",Sky Sports F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/Qj6tmDG/SKYFOOTBALL-BEARTV.png",Sky Sports Football
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pb40wpcepx9f097/sky%20sport%20hd.png?dl=1",Sky Sports Football
 http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/us/ESPN.us.png",ESPN
 http://45.182.127.235:8000/play/a0e2
