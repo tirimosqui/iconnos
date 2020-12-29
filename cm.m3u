@@ -247,6 +247,8 @@ https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://dailywebsite.scdn6.secure.raxcdn.com/1/1.m3u8
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",DAZN ESPAÑA
 https://dailywebsite.scdn6.secure.raxcdn.com/e1/1.m3u8
+#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn Sports Box Office (solo wiseplay)
+http://freestreams-live1.com/sky-sports-box-office0/
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 1 DE (solo wiseplay)
 http://kineskop.tv/?page=watch&ch=1111
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 2 DE (solo wiseplay)
