@@ -78,7 +78,7 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
 #EXTINF:-1 tvg-id="DARK" tvg-logo="https://www.dropbox.com/s/xrj6y7s6cufurdr/dark2.jpg?dl=1",DARK
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml:80/look/dark/index.m3u8 
+http://95.217.69.61:80/look/dark/index.m3u8 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts 
