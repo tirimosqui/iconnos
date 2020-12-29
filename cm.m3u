@@ -227,19 +227,19 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/1.ts
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7828_428_1_C00000_0_0_0.png",Movistar Deportes
 http://200.54.19.131:8500/play/a0do/index.m3u8
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GOL.png"Gol TV
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GOL.png",Gol TV
 http://200.54.19.131:8500/play/a0kr/index.m3u8
-#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GOL.png"GOLPERU
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GOL.png",GOLPERU
 http://200.54.19.131:8500/play/a0k9/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sport MotoGP Italia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sport MotoGP Italia
 http://freestreams-live1.com/sky-sport-motogp-italias/
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sports MOTO GP 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",Sky Sports MOTO GP 
 http://freestreams-live1.com/sky-spomotogpz/ 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",BT Sport 2 (MOTO GP eventos)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",BT Sport 2 (MOTO GP eventos)
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",FOX SPORTS 2 (MOTO GP eventos)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",FOX SPORTS 2 (MOTO GP eventos)
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",FOX SPORTS 2 (MOTO GP eventos)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",FOX SPORTS 2 (MOTO GP eventos)
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",DAZN ESPAÑA
 https://dailywebsite.scdn6.secure.raxcdn.com/1/1.m3u8
@@ -265,8 +265,6 @@ http://45.92.69.211:8001/play/a0c9
 http://45.92.69.211:8001/play/a0bo
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/pb40wpcepx9f097/sky%20sport%20hd.png?dl=1",Sky Sport Austria 2 HD
 http://45.92.69.211:8001/play/a0bs
-#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TR0gwRh/SKYEPL-BEARTV.png",Sky Sports Premier League
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png",Sky Sports F1
 http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/Qj6tmDG/SKYFOOTBALL-BEARTV.png",Sky Sports Football
@@ -301,32 +299,34 @@ https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png",True Premier Football 2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png",BT SPORT 1
+#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT SPORT 1
 http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png",BT SPORT 2
+#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="http://logo.ddnb.tn/logochanel/1828.png",BT SPORT 2
 http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://i.ibb.co/MgRkvX2/SPORTTV1-BEARTV.png",SPORT TV1
+#EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://i.ibb.co/nwRLMqG/SPORTTV2-BEARTV.png",SPORT TV2 
+#EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV2 
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://i.ibb.co/QXDnf3N/SPORTTV3-BEARTV.png",SPORT TV3
+#EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV3
 http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://i.ibb.co/vh7nD9S/SPORTTV4-BEARTV.png",SPORT TV4
+#EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV4
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://i.ibb.co/vh7nD9S/SPORTTV4-BEARTV.png",SPORT TV6
+#EXTINF:-1 tvg-id="SPORTTV 5" tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",SPORT TV6
 http://77.83.117.60:8888/05_SPORTTV_2_720p/chunklist.m3u8 
-#EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD1
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD1
 http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD2
+#EXTINF:-1 t tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD2
 http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD3
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD5
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV op2
@@ -335,8 +335,6 @@ http://45.92.69.230:8002/play/a01m
 http://elixx.me/lazio.html
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV eventos 2 (solo wiseplay)
 https://elixx.me/boavista.html
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png",Premier HD5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",BeinSport1 
 http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",BeinSport EPL 1
