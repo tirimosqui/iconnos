@@ -190,9 +190,13 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA HD
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA web
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LaLiga (solo wiseplay)
+https://wigilive.com/embed.php?id=live1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",Bein LaLiga (solo wiseplay)
+https://wigilive.com/embed.php?id=live4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA (solo wiseplay)
 https://revolucionariostv.eu/MultiTV/canalcocina.php 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA web op2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA (solo wiseplay)
 https://revolucionariostv.eu/directo1.php
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7859_41A_1_C00000_0_0_0.png",LALIGATV BAR
 #EXTVLCOPT:http-user-agent=gannbv46
@@ -243,9 +247,9 @@ https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 https://dailywebsite.scdn6.secure.raxcdn.com/1/1.m3u8
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",DAZN ESPAÑA
 https://dailywebsite.scdn6.secure.raxcdn.com/e1/1.m3u8
-#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 1 DE
+#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 1 DE (solo wiseplay)
 http://kineskop.tv/?page=watch&ch=1111
-#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 2 DE
+#EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn 2 DE (solo wiseplay)
 http://kineskop.tv/?page=watch&ch=1112
 #EXTINF:-1 tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",Sport TV 1
 http://77.54.145.209:81/play/a02v
@@ -255,11 +259,11 @@ http://77.54.145.209:81/play/a02j
 http://77.54.145.209:81/play/a02n 
 #EXTINF:-1 tvg-logo="https://www.futbolenvivo.com.co/wp-content/uploads/2020/06/Sport-TV-en-vivo-696x391.jpg",Sport TV 4
 http://77.54.145.209:81/play/a02o 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",SETANTA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",SETANTA (solo wiseplay)
 http://kineskop.tv/?page=watch&ch=513
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",SETANTA PLUS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",SETANTA PLUS (solo wiseplay)
 http://kineskop.tv/?page=watch&ch=885
-#EXTINF:-1 tvg-id="Sky Sport1" tvg-logo="https://www.dropbox.com/s/pb40wpcepx9f097/sky%20sport%20hd.png?dl=1",Sky Sport 1 HD DE
+#EXTINF:-1 tvg-id="Sky Sport1" tvg-logo="https://www.dropbox.com/s/pb40wpcepx9f097/sky%20sport%20hd.png?dl=1",Sky Sport 1 HD DE (solo wiseplay)
 http://kineskop.tv/?page=watch&ch=793
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",ESPN
 http://200.54.19.131:8500/play/a0m5/index.m3u8
@@ -283,29 +287,29 @@ https://cdn1.mobiletv.bg/T3/eurosport2/eurosport2_794613_850k.m3u8
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",Bein Sports 1 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",Bein Sports 1 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/10/bein-sports-1-hd-online.html
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ljtaqal4orgj7x1/1_0_C9_21AF_448_1_C00000_0_0_0.png?dl=1",BEIN SPORT HD 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png",Bein Sports 2 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_02_hk.png",Bein Sports 2 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-2-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png",Bein Sports 3 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_03_hd.png",Bein Sports 3 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-3-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png",Bein Sports 4 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_04_hd.png",Bein Sports 4 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-4-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png",Bein Sports 5 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_05_hd.png",Bein Sports 5 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-5-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png",Bein Sports 6 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_06_hd.png",Bein Sports 6 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-6-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png",Bein Sports 7 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_07_hd.png",Bein Sports 7 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-7-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_08_hd.png",Bein Sports 8 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_08_hd.png",Bein Sports 8 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-8-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_09_hd.png",Bein Sports 9 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_09_hd.png",Bein Sports 9 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-9-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_10_hd.png",Bein Sports 10 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_10_hd.png",Bein Sports 10 HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/12/bein-sports-hd-10-live.html
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",Bein Sports extra HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",Bein Sports extra HD (solo wiseplay)
 http://chof-kora-online.blogspot.com/2020/11/bein-sportsxtra-hd-tv-live.html
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/be_in_mena_sports_01_hk.png",Bein Sports Special extra
 https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
@@ -313,9 +317,9 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV op2
 http://45.92.69.230:8002/play/a01m
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV eventos
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV eventos (solo wiseplay)
 http://elixx.me/lazio.html
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV eventos 2
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-nba.png",NBA TV eventos 2 (solo wiseplay)
 https://elixx.me/boavista.html
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",FOX Sport HD 1
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?OPT:http-reconnect=true
@@ -383,13 +387,13 @@ http://zigfreed.ru/2xD/1599.m3u8
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.newscaststudio.com/wp-content/gallery/ARD-Sportschau/ncs_ARD-Sportschau_0001.JPG",Sportschau HD2
 http://wdrardevent2-lh.akamaihd.net/i/wdrardevent2_geo@100869/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia (solo wiseplay)
 https://www.mytivu.it/Application/Channels/SI.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia 24 LIVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia 24 LIVE (solo wiseplay)
 https://www.mytivu.it/Application/Channels/SILive24.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia CALCIO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia CALCIO (solo wiseplay)
 https://www.mytivu.it/Application/Channels/SISoloCalcio.php
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia MOTORI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9c/Sportitalia_2.png",Sport Italia MOTORI (solo wiseplay)
 https://www.mytivu.it/Application/Channels/SIMotori.php
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xd7JVc0.jpg",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
@@ -445,19 +449,19 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?OPT:http-reconnect=true
 #EXTINF:-1 tvg-id="Olimpic.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8?OPT:http-reconnect=true
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c1 (solo wiseplay)
 https://revolucionariostv.eu/elitegol/Repros/c1.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c2 (solo wiseplay)
 https://revolucionariostv.eu/elitegol/Repros/c2.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c3 (solo wiseplay)
 https://revolucionariostv.eu/elitegol/Repros/c3.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c4 (solo wiseplay)
 https://revolucionariostv.eu/elitegol/Repros/c4.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c5 (solo wiseplay)
 https://revolucionariostv.eu/elitegol/Repros/c5.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c6 (solo wiseplay)
 https://revolucionariostv.eu/elitegol/Repros/c6.php
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",revolucionariostv c7 (solo wiseplay)
 https://revolucionariostv.eu/elitegol/Repros/c7.php
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="Pluto TV Cine" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",Pluto TV Cine
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
