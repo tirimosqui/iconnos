@@ -1013,40 +1013,6 @@
 "url":"https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
 },
 ]},
-{"name": "revolucionariostv",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
-"stations": [
-{"name": "Progamacion",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
-"url": "https://revolucionariostv.eu/",
-"embed": "true"
-},
-{ "name": "revolucionariostv c1",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
-"url": "https://revolucionariostv.eu/elitegol/Repros/c1.php",
-"embed": "true"
-},
-{ "name": "revolucionariostv c2",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
-"url": "https://revolucionariostv.eu/elitegol/Repros/c2.php",
-"embed": "true"
-},
-{ "name": "revolucionariostv c3",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
-"url": "https://revolucionariostv.eu/elitegol/Repros/c3.php",
-"embed": "true"
-},
-{ "name": "revolucionariostv c4",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
-"url": "https://revolucionariostv.eu/elitegol/Repros/c4.php",
-"embed": "true"
-},
-{ "name": "revolucionariostv c5",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
-"url": "https://revolucionariostv.eu/elitegol/Repros/c5.php",
-"embed": "true"
-},
-]},
 {"name": "DEPORTES WEB",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
 "stations":[
@@ -1054,6 +1020,11 @@
 "image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
 "url": "https://dailysport.website/",
 "embed": "true" 
+},
+{"name": "revolucionariostv",
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
+"url": "https://revolucionariostv.eu/",
+"embed": "true"
 },
 {"name": "iraffletv",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
