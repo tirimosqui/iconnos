@@ -267,11 +267,11 @@
 "url": "http://200.54.51.206:3000/play/a02k"
 },
 {"name": "Cartoon network",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/510EZNFsh5L._AC_SY450_.jpg",
+"image":"https://latamnoticias.com/wp-content/uploads/2018/02/descarga-1.jpg",
 "url": "http://200.54.19.131:8500/play/a0m1"
 },
 {"name": "Cartoon network",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/510EZNFsh5L._AC_SY450_.jpg",
+"image":"https://latamnoticias.com/wp-content/uploads/2018/02/descarga-1.jpg",
 "url": "http://200.54.51.206:3000/play/a02d"
 },
 {"name": "DISNEY JR",
@@ -307,21 +307,17 @@
 "image":"https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
 "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
 },
-{"name": "Boomerang ",
-"image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
-"url": "http://200.54.19.131:8500/play/a0h9"
-},
 {"name": "Super3",
 "image": "https://graph.facebook.com/clubsuper3/picture?width=320&height=320",
-"url": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8"},
-{"name": "Danimados online",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/510EZNFsh5L._AC_SY450_.jpg",
-"url": "https://danimados.com/genero/series-clasicas/",
-"embed": "true" 
+"url": "https://directes-tv-es.ccma.cat/es/ngrp:c33_web/playlist_DVR.m3u8"
 },
 {"name": "Disney Xd",
 "image":"https://www.dropbox.com/s/zokmvk8pqdpryb2/1_0_1_772A_416_1_C00000_0_0_0.png?dl=1",
 "url": "http://200.54.19.131:8500/play/a0js"
+},
+{"name": "Boomerang ",
+"image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
+"url": "http://200.54.19.131:8500/play/a0h9"
 },
 {"name": "Nat Geo Kids",
 "image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
