@@ -193,15 +193,19 @@ http://200.54.51.206:3000/play/a02h
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D6_3F8_1_C00000_0_0_0.png",#VAMOS HD
+#EXTVLCOPT:http-user-agent=shrink-to-fit=no
 http://storage.googleapis.com/dailyks/15/15.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA HD
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA HD
+#EXTVLCOPT:http-user-agent=shrink-to-fit=no
 http://storage.googleapis.com/dailyks/1/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LA LIGA HD
+#EXTVLCOPT:http-user-agent=shrink-to-fit=no
 http://storage.googleapis.com/dailyks/10/10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",BEIN LA LIGA hd
+#EXTVLCOPT:http-user-agent=shrink-to-fit=no
 http://storage.googleapis.com/dailyks/3/3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",LaLiga (solo wiseplay)
 https://wigilive.com/embed.php?id=live1
@@ -214,6 +218,7 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7828_428_1_C00000_0_0_0.png",M. DEPORTES HD
+#EXTVLCOPT:http-user-agent=shrink-to-fit=no
 http://storage.googleapis.com/dailyks/16/16.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7531_426_1_C00000_0_0_0.png",M.FORMULA1HD
 #EXTVLCOPT:http-user-agent=gannbv46
@@ -261,6 +266,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",FOX SPORTS 2 (MOTO GP eventos)
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn ESPAÑA
+#EXTVLCOPT:http-user-agent=shrink-to-fit=no
 http://storage.googleapis.com/dailyks/4/4.m3u8
 #EXTINF:-1 tvg-logo="http://kineskop.tv/icon_cache/dazn-de.png",Dazn Sports Box Office (solo wiseplay)
 http://freestreams-live1.com/sky-sports-box-office0/
