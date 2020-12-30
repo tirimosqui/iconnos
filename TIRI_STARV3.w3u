@@ -643,6 +643,10 @@
 "url": "http://freestreams-live1.com/bein-sports-la-liga1/",
 "isHost": "true"
 },
+{"name": "La Liga",
+"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
+"url": "https://storage.googleapis.com/dailyks/1/1.m3u8"
+},
 {"name": "Liga tv",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7793_424_1_C00000_0_0_0.png",
 "url": "http://freestreams-live1.com/laliga-tv/",
