@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",T STARTV OP 2 (by Tiri listaswiseplay.com)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/tiriTv2.gif",CM TIRI-STARTV lista libre y gratis (tiri_listaswiseplay.com)
 https://rtvelivestream.aka.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7863_41A_1_C00000_0_0_0.png",LA 1 HD
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
