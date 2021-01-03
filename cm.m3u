@@ -72,12 +72,6 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D8_3F8_1_C00000_0_0_0.png",M.CineDoc&Roll
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xpbf895l9yp66vq/xtrm_form.png?dl=1",XTRM
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml:80/look/xtrm/index.m3u8
-#EXTINF:-1 tvg-id="DARK" tvg-logo="https://www.dropbox.com/s/xrj6y7s6cufurdr/dark2.jpg?dl=1",DARK
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
-http://miralobien.lookplay.ml:80/look/dark/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts 
@@ -205,10 +199,18 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Spain/6dde2691a4fabbb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7859_41A_1_C00000_0_0_0.png",LALIGATV BAR
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7859_41A_1_C00000_0_0_0.png",LaLigatv (solo wiseplay)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7859_41A_1_C00000_0_0_0.png",La Ligatv (solo wiseplay)
 https://wigilive.com/embed.php?id=live1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",Bein LaLiga (solo wiseplay)
 https://wigilive.com/embed.php?id=live4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",Bein LaLiga (solo wiseplay)
+http://mifut.ligatv.online/beines.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",Bein LaLiga (solo wiseplay)
+https://primedeportes.es/live.php?id=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",Bein LaLiga (solo wiseplay)
+https://primedeportes.es/live.php?id=7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_750F_420_1_C00000_0_0_0.png",Bein LaLiga (solo wiseplay)
+https://primedeportes.es/live.php?id=3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7828_428_1_C00000_0_0_0.png",M. DEPORTES HD
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts
