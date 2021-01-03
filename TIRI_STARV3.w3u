@@ -96,13 +96,13 @@
 {"name": "Canarias",
 "image": "https://assets.streamtest.in/logo/96/25_canaria-sat.jpg?v=1541384656",
 "url": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8"
-},
-{"name": "Dark",
+},{
+"name": "Dark",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/vodafone-canal-dark.jpg",
 "url": "http://miralobien.lookplay.ml:80/look/dark/index.m3u8",
 "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4"
-},
-{"name": "XTRM",
+},{
+"name": "XTRM",
 "image": "https://www.dropbox.com/s/xpbf895l9yp66vq/xtrm_form.png?dl=1",
 "url": "http://miralobien.lookplay.ml:80/look/xtrm/index.m3u8",
 "userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4"
