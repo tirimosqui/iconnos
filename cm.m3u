@@ -72,8 +72,12 @@ http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/41.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_74D8_3F8_1_C00000_0_0_0.png",M.CineDoc&Roll
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/5.ts
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/xpbf895l9yp66vq/xtrm_form.png?dl=1",XTRM
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/xtrm/index.m3u8
 #EXTINF:-1 tvg-id="DARK" tvg-logo="https://www.dropbox.com/s/xrj6y7s6cufurdr/dark2.jpg?dl=1",DARK
-http://miralobien.lookplay.ml/look/dark/index.m3u8|User-Agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4
+http://miralobien.lookplay.ml:80/look/dark/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_19_7856_41A_1_C00000_0_0_0.png",AXN HD
 #EXTVLCOPT:http-user-agent=gannbv46
 http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/19.ts 
