@@ -99,14 +99,9 @@
 },{
 "name": "Dark",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/vodafone-canal-dark.jpg",
-"url": "http://miralobien.lookplay.ml:80/look/dark/index.m3u8",
-"userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4"
-},{
-"name": "XTRM",
-"image": "https://www.dropbox.com/s/xpbf895l9yp66vq/xtrm_form.png?dl=1",
-"url": "http://miralobien.lookplay.ml:80/look/xtrm/index.m3u8",
-"userAgent": "ExoPlayerDemo/1.0.0 (Linux;Android 10) ExoPlayerLib/2.8.4"
-},
+"url": "https://vergol.com/canales228/live1/dark.php",
+"referer": "http://vercanalestv1.com/tv/nacionales/",
+"embed":true},
 {"name": "USAR VPN",
 "image": "http://serraniadeguadalajara.com/wp-content/uploads/2014/11/gif-aviso.gif",
 "url": "https://adictosala/"
@@ -240,7 +235,7 @@
 { "name": "Tv op2",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
 "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/cm.m3u",
-"userAgent": "gannbv46",
+"userAgent": "",
 "isHost": true },
 ]},
 {"name": "TV INFANTIL",
