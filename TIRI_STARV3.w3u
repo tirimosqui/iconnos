@@ -235,7 +235,7 @@
 { "name": "Tv op2",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/tv(2).gif",
 "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/cm.m3u",
-"userAgent": "cp_21221",
+"userAgent": "cp_141198",
 "isHost": true },
 ]},
 {"name": "TV INFANTIL",
@@ -617,7 +617,7 @@
 {"name": "Vamos",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_760C_408_1_C00000_0_0_0.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts",
-"userAgent":"cp_21221"
+"userAgent":"cp_141198"
 },
 {"name": "La Liga",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_750F_420_1_C00000_0_0_0.png",
@@ -671,22 +671,22 @@
 {"name":"M+ Golf",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/640px-Movistar_Golf.svg.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts",
-"userAgent":"cp_21221"
+"userAgent":"cp_1411981"
 },
 {"name": "EuroSport 1",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_74A1_41C_1_C00000_0_0_0.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/27.ts",
-"userAgent":"cp_21221"
+"userAgent":"cp_141198"
 },
 {"name": "EuroSport 2",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_760E_408_1_C00000_0_0_0.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/49.ts",
-"userAgent":"cp_21221"
+"userAgent":"cp_141198"
 },
 {"name": "F1 MOVISTAR",
 "image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts",
-"userAgent":"cp_21221"
+"userAgent":"cp_141198"
 },
 {"name": "F1 MOVISTAR",
 "image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
