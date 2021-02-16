@@ -14,14 +14,10 @@ https://cdn2.interlibre.net/hls/190/index.m3u8
 http://91.126.141.13:1935/live/21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/img/308107b2b599fd4dd5ca2d4cb3c50d5f",DIVINITY
 https://cdn2.interlibre.net/hls/189/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7469_3F0_1_C00000_0_0_0.png",NOVA
-https://cdn2.interlibre.net/hls/154/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BC_40A_1_C00000_0_0_0.png",FDF
 https://cdn2.interlibre.net/hls/188/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/img/1d8fca31651b288e86a79c3cc11d89fb",NEOX
 https://cdn2.interlibre.net/hls/153/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_749F_41C_1_C00000_0_0_0.png",ENERGY
-https://cdn2.interlibre.net/hls/192/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7600_408_1_C00000_0_0_0.png",BE MAD
 https://cdn2.interlibre.net/hls/102/index.m3u8
 #EXTINF:-1 tvg-id="DKISS" tvg-logo="https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1",DKISS
@@ -670,6 +666,14 @@ https://uqload.com/embed-itam0w0tzpes.html
 https://uqload.com/embed-ncsyn77j6ndr.html 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-original/1_0_1_768E_41E_1_C00000_0_0_0.png",ALQUILER Dragones y Mazmorras  
 https://ok.ru/video/254086089350/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/MTV_MUSICA.png",MCM TOP
+http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/MTV_MUSICA.png",MTV DANCE
+http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/MTV_MUSICA.png",MTV HITS
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/MTV_MUSICA.png",MTV RUSSIA
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",HqM Spanish
 https://livelist01.yowi.tv/lista/8635ae40f8d1a32eccd63d1f58b55662c9c98f9f/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tirimosqui/iconnos/main/musictv.jpg",HqM Latin
