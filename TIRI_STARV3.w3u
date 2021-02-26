@@ -27,30 +27,6 @@
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_7537_426_1_C00000_0_0_0.png",
 "url": "http://91.126.141.13:1935/live/21/playlist.m3u8"
 },
-{"name": "Neox",
-"image": "http://134.255.234.197/logos/neox.png",
-"url": "https://cdn2.interlibre.net/hls/153/index.m3u8"
-},
-{"name": "Nova",
-"image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7469_3F0_1_C00000_0_0_0.png",
-"url": "https://cdn2.interlibre.net/hls/154/index.m3u8"
-},
-{"name": "Canal Sur Andalucia",
-"image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7729_416_1_C00000_0_0_0.png",
-"url": "http://cdnlive.shooowit.net/rtvalive/smil:channelDVR.smil/chunklist_b2200000_DVR.m3u8"
-},
-{"name": "Divinity",
-"image": "https://www.mundoplus.tv/img/308107b2b599fd4dd5ca2d4cb3c50d5f",
-"url": "https://cdn2.interlibre.net/hls/189/index.m3u8"
-},
-{"name": "Be Mad",
-"image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_7600_408_1_C00000_0_0_0.png",
-"url": "https://cdn2.interlibre.net/hls/102/index.m3u8"
-},
-{"name": "Energy",
-"image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_749F_41C_1_C00000_0_0_0.png",
-"url": "https://cdn2.interlibre.net/hls/192/index.m3u8"
-},
 {"name": "Paramount Network",
 "image": "https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_75F9_408_1_C00000_0_0_0.png",
 "url": "http://paramount.live.flumotion.com/live/playlist.m3u8?OPT:adaptive=1"},
@@ -96,8 +72,14 @@
 {"name": "Canarias",
 "image": "https://assets.streamtest.in/logo/96/25_canaria-sat.jpg?v=1541384656",
 "url": "http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.360plr.stream/playlist.m3u8"
-},{
+},
+{
 "name": "Dark",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/vodafone-canal-dark.jpg",
+"url": "https://latelegratis.com/canal-dark-en-directo-online-gratis/",
+"isHost": true },
+{
+"name": "Dark op2",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/vodafone-canal-dark.jpg",
 "url": "https://vergol.com/canales228/live1/dark.php",
 "referer": "http://vercanalestv1.com/tv/nacionales/",
