@@ -508,18 +508,20 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3
 http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png",CBC Sport
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match_HD
-http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match_Arena_HD
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match_Boec_SD
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match_Football_1_HD
-http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match_Football_2_HD
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
-#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match_Football_3_HD
-http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
+#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match! Аrеnа HD
+http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match! Football 1 HD
+https://77-247-178-24.livesports24.online/ntvmatchfoot1.m3u8
+#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match! Football 2 HD
+https://77-247-178-24.livesports24.online/mfootball2rus.m3u8
+#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Match! Football 3 HD
+https://77-247-178-24.livesports24.online/rumatchf3.m3u8
+#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Fútbol ua 1 HD
+https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Fútbol ua 2 HD
+https://46-21-250-207.livesports24.online/fooootball2.m3u8
+#EXTINF:-1 tvg-logo="https://corebet.com/wp-content/uploads/2018/09/How-to-predict-a-football-match-1000x500.jpg",Fútbol ua 3 HD
+https://46-21-250-207.livesports24.online/football3ua.m3u8
 #EXTINF:-1 tvg-ID="MLB.US" tvg-logo="https://static.epg.best/us/MLBNetwork.us.png",MLB Network
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyTEN1.in.png",Sony Ten 1
