@@ -544,17 +544,13 @@
 },
 {"name": "La Liga bein",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/liga.png",
-"url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts/",
+"url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts",
 "userAgent":"cp_525"
 },
-{"name": "La Liga",
+{"name": "Liga",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/liga.png",
-"url": "https://v3.sportzonline.to/channels/hd/hd6.php",
+"url": "https://wigilive.com/play.php?id=live7",
 "isHost": "true"
-},
-{"name": "La Liga",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/liga.png",
-"url": "https://storage.googleapis.com/dailyks/1/1.m3u8"
 },
 {"name": "Liga tv",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/laligatv.png",
@@ -564,11 +560,6 @@
 {"name": "Liga tv",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/laligatv.png",
 "url": "http://freestreams-live1.com/laliga-tv/",
-"isHost": "true"
-},
-{"name": "Liga",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/liga.png",
-"url": "https://wigilive.com/play.php?id=live7",
 "isHost": "true"
 },
 {"name":"M+ Liga.Campeones",
