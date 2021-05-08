@@ -165,19 +165,19 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/mickeybechito.gif",
 "stations":[
 {"name": "Nickelodeon",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_772E_416_1_C00000_0_0_0.png",
+"image":"https://latelegratis.com/logos/nick.png",
 "url": "http://200.54.19.131:8500/play/a0h8"
 },
 {"name": "Nickelodeon",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_772E_416_1_C00000_0_0_0.png",
+"image":"https://latelegratis.com/logos/nick.png",
 "url": "http://200.54.51.206:3000/play/a02l"
 },
 {"name": "Nick JR",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_772E_416_1_C00000_0_0_0.png",
+"image":"https://www.dropbox.com/s/dahup8chsedyg21/1_0_1_7697_41E_1_C00000_0_0_0.png?dl=1",
 "url": "http://200.54.19.131:8500/play/a0ea"
 },
 {"name": "Nick JR",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_772E_416_1_C00000_0_0_0.png",
+"image":"https://www.dropbox.com/s/dahup8chsedyg21/1_0_1_7697_41E_1_C00000_0_0_0.png?dl=1",
 "url": "http://200.54.51.206:3000/play/a02k"
 },
 {"name": "Cartoon network",
@@ -189,7 +189,7 @@
 "url": "http://200.54.51.206:3000/play/a02d"
 },
 {"name": "DISNEY JR",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_746B_3F0_1_C00000_0_0_0.png",
+"image":"https://latelegratis.com/logos/disneyjunior.png",
 "url": "http://200.54.19.131:8500/play/a0g5"
 },
 {"name": "Clan tv",
@@ -197,15 +197,15 @@
 "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8"
 },
 {"name": "BABY",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_749C_41C_1_C00000_0_0_0.png",
+"image":"https://latelegratis.com/logos/babyfirst.png",
 "url": "http://200.54.19.131:8500/play/a0kf"
 },
 {"name": "Disney Channel",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_788B_414_1_C00000_0_0_0.png",
+"image":"https://latelegratis.com/logos/disneychannel.png",
 "url": "http://200.54.19.131:8500/play/a0jr"
 },
 {"name": "Disney Channel",
-"image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_19_788B_414_1_C00000_0_0_0.png",
+"image":"https://latelegratis.com/logos/disneychannel.png",
 "url": "http://200.54.51.206:3000/play/a02f"
 },
 {"name": "Locomocion tv",
