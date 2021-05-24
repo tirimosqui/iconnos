@@ -555,7 +555,7 @@
 },
 ]},
 {"name": "DEPORTES",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
 "stations":[
 {"name": "Vamos",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/vamos.png",
@@ -958,34 +958,8 @@
 },
 ]},
 {"name": "DEPORTES WEB",
-"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/bf15463024fb8d338a159a4d53f8eef0.gif",
+"image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "stations":[
-{"name": "daily sport TV GUIA Y CANALES",
-"image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
-"url": "https://dailysport.website/",
-"userAgent": "shrink-to-fit=no",
-"embed": "true"
-},
-{"name": "revolucionariostv",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
-"url": "https://revolucionariostv.eu/",
-"embed": "true"
-},
-{"name": "iraffletv",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
-"url": "http://iraffletv.com/",
-"embed": "true"
-},
-{"name": "onlyfoot",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
-"url": "https://onlyfoot.net/",
-"embed": "true"
-},
-{"name": "polysportstv",
-"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
-"url": "http://polysportstv.info/",
-"embed": "true"
-},
 {"name": "totalsport",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/TVDEPORTES.jpeg",
 "url": "http://totalsport.me/",
