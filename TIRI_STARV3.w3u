@@ -20,7 +20,8 @@
 "url": "http://91.126.141.13:1935/live/11/playlist.m3u8"},
 {"name": "Telecinco",
 "image": "https://latelegratis.com/logos/la5.png",
-"url": "https://latelegratis.com/telecinco-en-directo-online-gratis/"},
+"url": "https://latelegratis.com/telecinco-en-directo-online-gratis/"
+"isHost": true },
 {"name": "La Sexta",
 "image": "https://latelegratis.com/logos/la6.png",
 "url": "http://91.126.141.13:1935/live/21/playlist.m3u8"},
@@ -593,7 +594,7 @@
 "userAgent":"cp_525"
 },
 {"name":"Barca tv",
-"image":"https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png",
+"image": "https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png",
 "url": "http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8"
 },
 {"name":"Goltv",
