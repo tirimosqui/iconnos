@@ -47,7 +47,7 @@
 "url": "http://91.126.141.201:1935/live/kiss/index.m3u8"
 },
 {"name": "Ten",
-"image":"http://www1.movistarplus.es/recorte/m-NEO/canal/TEN",
+"image": "http://www1.movistarplus.es/recorte/m-NEO/canal/TEN",
 "url": "http://91.126.141.201:1935/live/ten/index.m3u8"
 },
 {"name": "Cosmo",
@@ -604,31 +604,31 @@
 },
 {"name":"Barca tv",
 "image":"https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png",
-"url":http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8"
+"url": "http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8"
 },
 {"name":"Goltv",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
-"url":http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8"
+"url": "http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8"
 },
 {"name":"EUROSPORT 1",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",
-"url":http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",
+"url": "http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"
 },
 {"name":"EUROSPORT 1 op",
-"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",
-"url":http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8"
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",
+"url": "http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8"
 },
 {"name":"EUROSPORT 2",
-"image":""https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png",
-"url":http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8"
+"image":"https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png",
+"url": "http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8"
 },
 {"name":"EUROSPORT 2 op",
-"image":""https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png",
-"url":http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8"
+"image":"https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png",
+"url": "http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8"
 },
 {"name": "F1 MOVISTAR",
 "image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts",
+"url": http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts",
 "userAgent":"cp_525"
 },
 {"name": "F1 MOVISTAR",
