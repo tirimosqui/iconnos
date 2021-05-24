@@ -35,15 +35,15 @@
 "url": "http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1"
 },
 {"name": "FDF",
-"image":"",
+"image":"https://pngimage.net/wp-content/uploads/2018/05/fdf-png-8.png",
 "url": "http://91.126.141.201:1935/live/fdf/playlist.m3u8"
 },
 {"name": "Energy",
-"image":"",
+"image":"https://www.dropbox.com/s/7srzpom3s96zhcq/1_0_1_749F_41C_1_C00000_0_0_0.png?dl=1",
 "url": "http://91.126.138.142:1935/live/smil:energy-Stream.smil/playlist.m3u8"
 },
 {"name": "DKiss",
-"image":"",
+"image":"https://www.dropbox.com/s/jz9e66540y015p9/Kiss_FM.png?dl=1",
 "url": "http://91.126.141.201:1935/live/kiss/index.m3u8"
 },
 {"name": "Ten",
@@ -51,7 +51,7 @@
 "url": "http://91.126.141.201:1935/live/ten/index.m3u8"
 },
 {"name": "Cosmo",
-"image":"",
+"image":"https://www.dropbox.com/s/xiuhfqwuhok1krm/1_0_1_7730_416_1_C00000_0_0_0.png?dl=1",
 "url": "http://91.126.141.201:1935/live/cosmoHD.smil/playlist.m3u8"
 },
 {"name": "Mega",
@@ -1720,19 +1720,6 @@
 {"name": "Protectora Maginaanimal by Vargas",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/huertodlc.jpeg",
 "url": "https://telegra.ph/Ayuda-a-la-protectora-07-08",
-"embed": "true"
-},
-]},
-{"name": "TEAM SPORT",
-"image": "https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
-"stations": [
-{"name": "Team Sport",
-"image":"https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
-"url": "https://appteamsports.github.io/",
-"embed": "true" },
-{"name": "App team Sport",
-"image":"https://www.dropbox.com/s/1ofubxs9nlyp4vt/IMG_20200207_201630_437.jpg?dl=1",
-"url": "https://appteamsports.github.io/#download",
 "embed": "true"
 },
 ]},
