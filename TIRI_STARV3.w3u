@@ -11,31 +11,28 @@
 "stations":[
 {"name": "La 1",
 "image": "https://latelegratis.com/logos/la1.png",
-"url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8"
-},
+"url": "https://rtvelivestream.akamaized.net/la1_dvr.m3u8"},
 {"name": "La 2",
 "image": "https://latelegratis.com/logos/la2.png",
-"url": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8"
-},
+"url": "https://rtvelivestream.akamaized.net/la2_dvr.m3u8"},
 {"name": "Antena 3",
 "image": "https://latelegratis.com/logos/la3.png",
 "url": "http://91.126.141.13:1935/live/11/playlist.m3u8"
 },
 {"name": "Telecinco",
 "image": "https://latelegratis.com/logos/la5.png",
-"url": "https://latelegratis.com/telecinco-en-directo-online-gratis/",
-"isHost": "true" },
+"url": "http://91.126.141.13:1935/live/61/playlist.m3u8"
+},
 {"name": "La Sexta",
 "image": "https://latelegratis.com/logos/la6.png",
 "url": "http://91.126.141.13:1935/live/21/playlist.m3u8"
 },
 {"name": "Paramount Network",
 "image": "https://latelegratis.com/logos/paramountlatino.png",
-"url": "http://paramount.live.flumotion.com/live/playlist.m3u8"
-},
+"url": "http://paramount.live.flumotion.com/live/playlist.m3u8?OPT:adaptive=1"},
 {"name": "DMAX",
 "image": "https://www.dropbox.com/s/wud0ojmo3ac8r6p/dmax.png?dl=1",
-"url": "http://91.126.141.12:1935/live/discoverymax/playlist.m3u8"
+"url": "http://91.126.141.12:1935/live/discoverymax/playlist.m3u8?OPT:adaptive=1"
 },
 {"name": "FDF",
 "image":"https://pngimage.net/wp-content/uploads/2018/05/fdf-png-8.png",
@@ -51,8 +48,8 @@
 },
 {"name": "Ten",
 "image": "http://www1.movistarplus.es/recorte/m-NEO/canal/TEN",
-"url": "http://91.126.141.201:1935/live/ten/index.m3u8"
-},
+"url": "http://91.126.141.201:1935/live/ten/index.m3u8
+"},
 {"name": "Cosmo",
 "image":"https://www.dropbox.com/s/xiuhfqwuhok1krm/1_0_1_7730_416_1_C00000_0_0_0.png?dl=1",
 "url": "http://91.126.141.201:1935/live/cosmoHD.smil/playlist.m3u8"
@@ -63,8 +60,7 @@
 },
 {"name": "Mtmad",
 "image": "http://graph.facebook.com/mtmad.es/picture?width=320&height=320",
-"url": "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8"
-},
+"url": "https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8"},
 {"name": "TV3",
 "image": "http://graph.facebook.com/tv3/picture?width=320&height=320",
 "url": "https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8"},
@@ -99,91 +95,91 @@
 {"name": "Dark",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/vodafone-canal-dark.jpg",
 "url": "https://latelegratis.com/canal-dark-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "#0",
 "image": "https://latelegratis.com/logos/canal0.png",
 "url": "https://latelegratis.com/canal-0-plus-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "M Estrenos",
 "image": "https://latelegratis.com/logos/movistarestrenos.png",
 "url": "https://latelegratis.com/canal-estrenos-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "M Accion",
 "image": "https://latelegratis.com/logos/movistaraccion.png",
 "url": "https://latelegratis.com/canal-accion-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "M Drama",
 "image": "https://latelegratis.com/logos/movistardrama.png",
 "url": "https://latelegratis.com/canal-drama-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "M Comedia",
 "image": "https://latelegratis.com/logos/movistarcomedia.png",
 "url": "https://latelegratis.com/canal-comedia-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "M Cine ñ",
 "image": "https://latelegratis.com/logos/dcinen.png",
 "url": "https://latelegratis.com/canal-dcine-online-en-directo-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "M Series",
 "image": "https://latelegratis.com/logos/movistarseries.png",
 "url": "https://latelegratis.com/canal-series-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "syfy",
 "image": "https://latelegratis.com/logos/syfy.png",
 "url": "https://latelegratis.com/syfy-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "amc",
 "image": "https://latelegratis.com/logos/amc.png",
 "url": "https://latelegratis.com/amc-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Fox",
 "image":"https://www.dropbox.com/s/gge85zalq9n4llu/1_0_1_746F_3F0_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/fox-espana-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Fox family",
 "image":"https://www.dropbox.com/s/8tlheib4et0z2tb/1_0_1_7468_3F0_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/fox-family-en-vivo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Tnt",
 "image":"https://www.dropbox.com/s/k08aqsts0v7a0cb/1_0_19_7888_414_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/tnt-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "A&E",
 "image":"https://latelegratis.com/logos/ae.png",
 "url": "https://latelegratis.com/canal-ae-en-vivo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Axn",
 "image":"https://www.dropbox.com/s/gwqx9zkwnj7ltqi/1_0_1_7477_3F0_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/axn-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Discovery",
 "image":"https://www.dropbox.com/s/w0mf5pbk4lsgcyd/1_0_1_772F_416_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/discovery-channel-latino-en-vivo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Historia",
 "image":"https://www.dropbox.com/s/ffur65a50hx97sn/1_0_1_7731_416_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/history-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Nat Geografic",
 "image":"https://www.dropbox.com/s/1v0za3igk4n11n9/1_0_1_778D_424_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/national-geographic-latino-en-vivo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Nat Geo Will",
 "image":"https://www.dropbox.com/s/6u6ncxoss54xw1v/1_0_1_77D8_40A_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/national-geographic-will-latino-en-vivo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "caza-y-pesca",
 "image":"https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif",
 "url": "https://latelegratis.com/caza-y-pesca-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "cazavision",
 "image":"https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif",
 "url": "https://latelegratis.com/ver-cazavision-en-vivo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 {"name": "Cocina",
 "image":"https://www.dropbox.com/s/s1q7pfuviqsvns3/1_0_1_76CE_40E_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/canal-cocina-en-directo-online-gratis/",
-"isHost": "true" },
+"isHost": true },
 ]},
 {"name": "TV INFANTIL",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/mickeybechito.gif",
@@ -607,32 +603,32 @@
 "userAgent":"cp_525"
 },
 {"name":"Barca tv",
-"image": "https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png",
-"url": "http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8"
+"image":"https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png",
+"url":"http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8"
 },
 {"name":"Goltv",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
-"url": "http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8"
+"url":"http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8"
 },
 {"name":"EUROSPORT 1",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",
-"url": "http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/eurosport_hd.jpg",
+"url":"http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8"
 },
 {"name":"EUROSPORT 1 op",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png",
-"url": "http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8"
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/eurosport_hd.jpg",
+"url":"http://91.126.141.201:1935/live/eurosport1nntv/playlist.m3u8"
 },
 {"name":"EUROSPORT 2",
-"image":"https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png",
-"url": "http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8"
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/eurosport2hd.jpg",
+"url":"http://91.126.141.201:1935/live/eurosport2hdnntv/playlist.m3u8"
 },
 {"name":"EUROSPORT 2 op",
-"image":"https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png",
-"url": "http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8"
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/eurosport2hd.jpg",
+"url":"http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8"
 },
 {"name": "F1 MOVISTAR",
 "image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
-"url": http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts",
+"url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts",
 "userAgent":"cp_525"
 },
 {"name": "F1 MOVISTAR",
@@ -724,7 +720,7 @@
 {"name": "Betis TV",
 "image":"https://i.imgur.com/NC3rEUq.png",
 "url": "https://www.realbetisbalompie.es/rtvbetis/directo-tv/",
-"isHost": "true" 
+"isHost": "true"
 },
 {"name":"Premier Football HD 1",
 "image":"https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
@@ -766,15 +762,15 @@
 "url":"https://www.doomovie-hd.com/?r=tv_view&id=21",
 "isHost": "true"
 },
-{"name":"Fight time", 
+{"name":"Fight time",
 "image":"https://i.imgur.com/wB9CkPG.jpg",
 "url":"http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8"
 },
-{"name":"Fight Sports 1", 
+{"name":"Fight Sports 1",
 "image":"https://i.imgur.com/wB9CkPG.jpg",
 "url":"http://210.210.155.35/uq2663/h/h05/01.m3u8"
 },
-{"name":"Fight Sports 2", 
+{"name":"Fight Sports 2",
 "image":"https://i.imgur.com/wB9CkPG.jpg",
 "url":"http://210.210.155.35/uq2663/h/h05/02.m3u8"
 },
@@ -810,83 +806,83 @@
 {"name":"Eleven sport 2 poland",
 "image":"https://www.dropbox.com/s/6l5eci6zzlcikz2/Eleven-Sports-1.png?dl=1",
 "url":"https://ustream.to/stream.php?id=eleven-sports-2-poland",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports calcio", 
+{"name":"Sky Sports calcio",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustream.to/stream.php?id=sky-calcio-1-h?embed=true",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports sports action", 
+{"name":"Sky Sports sports action",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustream.to/stream.php?id=sky-sports-action",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports main event", 
+{"name":"Sky Sports main event",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"http://www.dubsstreamz.com/ta.php",
 "isHost": "true"
 },
-{"name":"Sky Sports mix", 
+{"name":"Sky Sports mix",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustream.to/stream.php?id=sky-sports-mix",
 "embed": "true"
- },
-{"name":"Sky Sports cricket", 
+},
+{"name":"Sky Sports cricket",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustream.to/stream.php?id=sky-sports-cricket",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports golf", 
+{"name":"Sky Sports golf",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustream.to/stream.php?id=sky-sports-golf",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky sport-24", 
+{"name":"Sky sport-24",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustream.to/stream.php?id=sky-sport-24",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports news", 
+{"name":"Sky Sports news",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustream.to/stream.php?id=sky-sports-news",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports bundesliga", 
+{"name":"Sky Sports bundesliga",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustream.to/stream.php?id=sky-bundesliga-1",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports Arena", 
+{"name":"Sky Sports Arena",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/sky-sport-arena.png",
 "url":"https://ustreamix.to/stream.php?id=sky-sports-arena",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky S Premier League", 
+{"name":"Sky S Premier League",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustreamix.to/stream.php?id=sky-sports-premier-league",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports football", 
+{"name":"Sky Sports football",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustreamix.to/stream.php?id=sky-sports-football",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports Racing", 
+{"name":"Sky Sports Racing",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustreamix.to/stream.php?id=sky-sports-racing",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports 1", 
+{"name":"Sky Sports 1",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url":"https://ustreamix.to/stream.php?id=sky-sport-1-de",
-"embed": "true" 
+"embed": "true"
 },
-{"name":"Sky Sports 2", 
+{"name":"Sky Sports 2",
 "image":"http://logo.ddnb.tn/logochanel/405.png",
 "url": "https://ustreamix.to/stream.php?id=sky-sport-2-de",
 "embed": "true"
- },
+},
 {"name":"BT SPORT HD1",
 "image":"https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",
 "url":"https://www.doomovie-hd.com/?r=tv_view&id=156",
@@ -897,37 +893,37 @@
 "url":"https://www.doomovie-hd.com/?r=tv_view&id=157",
 "isHost": "true"
 },
-{"name":"BT Sport ESPN", 
+{"name":"BT Sport ESPN",
 "image":"https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",
 "url":"https://ustreamix.to/stream.php?id=espn-gb-uk",
-"embed": "true" 
+"embed": "true"
 },
 {"name":"ESPN",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"https://ustream.to/stream.php?id=espn",
-"embed": "true" 
+"embed": "true"
 },
 {"name":"ESPN 2",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"https://ustream.to/stream.php?id=espn2",
-"embed":"true" 
+"embed":"true"
 },
 {"name":"ESPN 3",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"https://ustream.to/stream.php?id=espn3",
-"embed":"true" 
+"embed":"true"
 },
 {"name":"ESPN U",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"http://strims.world/tv/espnu.php",
-"embed":"true" 
+"embed":"true"
 },
 {"name":"ESPN deportes",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"http://yoursports.stream/ing/espndep",
-"embed":"true" 
+"embed":"true"
 },
-{"name":"RacingCom", 
+{"name":"RacingCom",
 "image":"https://www.dropbox.com/s/twxvstlv003ze50/racing.png?dl=1",
 "url":"https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8"
 },
@@ -936,7 +932,7 @@
 "url":"https://1.vecdn.pw/ch17.php",
 "isHost": "true"
 },
-{"name":"Olympic Channel 1", 
+{"name":"Olympic Channel 1",
 "image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",
 "url":"http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8"
 },
@@ -952,11 +948,11 @@
 "image":"https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png",
 "url":"https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8"
 },
-{"name":"Redbull TV", 
+{"name":"Redbull TV",
 "image":"http://graph.facebook.com/RedBull/picture?width=320&height=320",
 "url":"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8"
 },
-{"name":"Tenis TV", 
+{"name":"Tenis TV",
 "image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
 "url":"https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
 },
@@ -968,7 +964,7 @@
 "image":"https://www.scamcard.com/images/Daily%20Sport%202011.png",
 "url": "https://dailysport.website/",
 "userAgent": "shrink-to-fit=no",
-"embed": "true" 
+"embed": "true"
 },
 {"name": "revolucionariostv",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/revotv.jpg",
