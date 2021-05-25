@@ -680,7 +680,7 @@
 },
 {"name":"ESPN 2",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
-"url":"https://gma2.blab.email/espn2.m3u8",
+"url":"https://gma2.blab.email/espn2.m3u8"
 },
 {"name":"ESPN 3",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
@@ -710,15 +710,15 @@
 },
 {"name":"SPORTTV 2",
 "image":"http://logo.ddnb.tn/logochanel/2124.png",
-"url":"http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8"
+"url":"http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8"
 },
 {"name":"SPORTTV 3",
 "image":"http://logo.ddnb.tn/logochanel/2125.png",
-"url":"http://77.83.117.60:8888/03_SPORTTV_1_720p/chunklist.m3u8"
+"url":"http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8"
 },
 {"name":"SPORTTV 4",
 "image":"http://logo.ddnb.tn/logochanel/2126.png",
-"url":"http://77.83.117.60:8888/04_SPORTTV_1_720p/chunklist.m3u8"
+"url":"http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8"
 },
 {"name":"SPORTTV 5",
 "image":"http://logo.ddnb.tn/logochanel/2127.png",
@@ -935,9 +935,21 @@
 "url":"https://1.vecdn.pw/ch17.php",
 "isHost": "true"
 },
+{"name":"hockey Ru 1",
+"image":"https://www.sky.com.mx/sports/img/sports.png",
+"url":"http://stream-msk-08.ott.tricolor.tv/dtv/id731_MSKSG-PVR-1--Nash_khokkey1/01/plst.m3u8"
+},
+{"name":"hockey Ru 2",
+"image":"https://www.sky.com.mx/sports/img/sports.png",
+"url":"https://stream-msk-02.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1--Nash_khokkey2/04/plst.m3u8"
+},
 {"name":"Tenis TV",
 "image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
 "url":"https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8"
+},
+{"name":"Tenis TV 2",
+"image":"https://www.dropbox.com/s/uven8yj4zrwhckt/kisspng-logo-tennis-channel-hd-television-channel-tv-logos-5b56da929ec111.0013004015324187066503.jpg?dl=1",
+"url":"https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8"
 },
 ]},
 {"name": "DEPORTES WEB",
