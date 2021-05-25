@@ -665,10 +665,10 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/motogp.jpg",
 "url": "https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8"
 },
-{"name":"BT Sport ESPN",
-"image":"https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg",
-"url":"https://ustreamix.to/stream.php?id=espn-gb-uk",
-"embed": "true"
+{"name":"ESPN news",
+"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
+"url":"http://123tv.live/watch/espn-news/",
+"isHost": "true"
 },
 {"name":"ESPN",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
@@ -686,6 +686,11 @@
 {"name":"ESPN U",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
 "url":"https://gma2.blab.email/espnu.m3u8"
+},
+{"name":"ESPN U",
+"image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
+"url":"http://123tv.live/watch/espnu/",
+"isHost": "true"
 },
 {"name":"ESPN deportes",
 "image":"https://www.dropbox.com/s/npfdmu9tubgpzuk/espn.png?dl=1",
@@ -723,6 +728,11 @@
 {"name":"NBA HD",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/nba-tv-logo.png",
 "url":"http://77.83.117.60:8888/02_nbahd_720p/chunklist.m3u8"
+},
+{"name":"NBA HD",
+"image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/nba-tv-logo.png",
+"url":"http://123tv.live/watch/nba-tv-04192021/",
+"isHost": "true"
 },
 {"name":"Fox Spots 1",
 "image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
@@ -929,6 +939,11 @@
 {"name":"Ziggo Sport Select",
 "image":"https://i.imgur.com/3hUAGa6.jpg",
 "url":"https://1.vecdn.pw/ch17.php",
+"isHost": "true"
+},
+{"name":"nfl network",
+"image":"https://vivotvhd.com/img/cha/4411.gif",
+"url":"http://123tv.live/watch/nfl-network/",
 "isHost": "true"
 },
 {"name":"hockey Ru 1",
