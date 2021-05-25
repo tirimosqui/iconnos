@@ -602,10 +602,6 @@
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts",
 "userAgent":"cp_525"
 },
-{"name":"Barca tv",
-"image":"https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png",
-"url":"http://91.126.138.142:1935/live/smil:barza.smil/playlist.m3u8"
-},
 {"name":"Goltv",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
 "url":"http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1294517591_b3128000_sleng.m3u8"
@@ -761,13 +757,13 @@
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Setanta_Sports.svg/307px-Setanta_Sports.svg.png",
 "url":"https://77-247-178-24.livesports24.online/setantaplusru.m3u8"
 },
-{"name": "BT Sport 1",
-"image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg",
-"url": "http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8"
+{"name":"BT Sport 1",
+"image":"https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg",
+"url":"http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8"
 },
-{"name": "BT Sport 2",
-"image": "https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg",
-"url": "http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8"
+{"name":"BT Sport 2",
+"image":"https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg",
+"url":"http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8"
 },
 {"name":"Premier Football HD 1",
 "image":"https://www.doomovie-hd.com/assets/img/ch_logo/doomovie-epl1.png",
