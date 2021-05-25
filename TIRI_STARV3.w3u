@@ -697,6 +697,43 @@
 "url":"http://yoursports.stream/ing/espndep",
 "embed":"true"
 },
+{"name":"ESPN SUR",
+"image":"https://1.bp.blogspot.com/-e2fhTpbgX04/X2JcZpEt_NI/AAAAAAAAAEE/EJYU5Pyr7gYQBarOdWWBOXmo09tHl9AsQCLcBGAsYHQ/s320/1.png",
+"url":"http://yrsprts.stream/live?v=espnsur",
+"isHost": "true"
+},
+{"name":"ESPN SUR 2",
+"image":"https://1.bp.blogspot.com/-e2fhTpbgX04/X2JcZpEt_NI/AAAAAAAAAEE/EJYU5Pyr7gYQBarOdWWBOXmo09tHl9AsQCLcBGAsYHQ/s320/1.png",
+"url":"http://yrsprts.stream/live?v=espn2sur",
+"isHost": "true"
+},
+{"name":"ESPN SUR 3",
+"image":"https://1.bp.blogspot.com/-e2fhTpbgX04/X2JcZpEt_NI/AAAAAAAAAEE/EJYU5Pyr7gYQBarOdWWBOXmo09tHl9AsQCLcBGAsYHQ/s320/1.png",
+"url":"http://yrsprts.stream/live?v=espn3sur",
+"isHost": "true"
+},
+{"name":"FOX Deportes",
+"image":"https://lh5.googleusercontent.com/proxy/yMFXz0NnH1ACdt_uTDxlDMp4yZC4gRlcdrGFlaDo0pE7uHEy8suAy0dxOPAE8IQh693UGj08Gml4ZRShFktFK8-TxnSJYkNwNfq9KLk1bw=s0-d",
+"url":"http://yrsprts.stream/live?v=fsdeportes",
+"isHost": "true"
+},
+{"name":"Fox Spots 1",
+"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
+"url":"http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8"
+},
+{"name":"Fox Spots 2",
+"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
+"url":"http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8"
+},
+{"name":"FOX Sport 2 MotoGP eventos",
+"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
+"url":"https://www.doomovie-hd.com/?r=tv_view&id=29",
+"isHost": "true"
+},
+{"name":"Fox Spots 3",
+"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
+"url":"http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8"
+},
 {"name":"МАТЧ! Fotball",
 "image":"https://img-tv.vl.ru/fhd/6e6f96e2223a842c46aef46c9a44506519012c.jpg",
 "url":"https://77-247-178-24.livesports24.online/ooomatch.m3u8"
@@ -733,23 +770,6 @@
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/nba-tv-logo.png",
 "url":"http://123tv.live/watch/nba-tv-04192021/",
 "embed": "true"
-},
-{"name":"Fox Spots 1",
-"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
-"url":"http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8"
-},
-{"name":"Fox Spots 2",
-"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
-"url":"http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8"
-},
-{"name":"FOX Sport 2 MotoGP eventos",
-"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
-"url":"https://www.doomovie-hd.com/?r=tv_view&id=29",
-"isHost": "true"
-},
-{"name":"Fox Spots 3",
-"image":"https://www.dropbox.com/s/7vvba69ufvc1iwc/fox%20esp.jpg?dl=1",
-"url":"http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8"
 },
 {"name":"Canal+ Sport",
 "image":"http://kineskop.tv/icon_cache/canalplus_pl_sport.png",
