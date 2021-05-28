@@ -994,22 +994,22 @@
 {"name":"Sky Racing World",
 "image":"http://www.asoturf.com/gallery/favicon%20bueno-ts1542707852.png",
 "url":"https://www.skyracingworld.com/horse-racing-videos?stream=saracing_mbr",
-"isHost": "true"
+"embed": "true"
 },
 {"name":"Kincsem Park",
 "image":"http://www.asoturf.com/gallery/favicon%20bueno-ts1542707852.png",
 "url":"https://kincsempark.hu/elo-verseny-kozvetites/",
-"isHost": "true"
+"embed": "true"
 },
 {"name":"Vera TV",
 "image":"http://www.asoturf.com/gallery/favicon%20bueno-ts1542707852.png",
 "url":"https://tv.vera.com.uy/canal/6056",
-"isHost": "true"
+"embed": "true"
 },
 {"name":"Hipódromo tv",
 "image":"http://www.asoturf.com/gallery/favicon%20bueno-ts1542707852.png",
 "url":"https://hipodromo.tv/vivo/soelvi2.php",
-"isHost": "true"
+"embed": "true"
 },
 ]},
 {"name": "DEPORTES WEB",
