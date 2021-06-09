@@ -186,48 +186,32 @@
 "stations":[
 {"name": "Nickelodeon",
 "image":"https://latelegratis.com/logos/nick.png",
-"url": "http://200.54.19.131:8500/play/a0h8"
-},
-{"name": "Nickelodeon",
-"image":"https://latelegratis.com/logos/nick.png",
-"url": "http://200.54.51.206:3000/play/a02l"
-},
-{"name": "Nick JR",
+"url": "https://latelegratis.com/TV/infantiles/nick/",
+"isHost": true },
+{"name": "Nick toms",
 "image":"https://www.dropbox.com/s/dahup8chsedyg21/1_0_1_7697_41E_1_C00000_0_0_0.png?dl=1",
-"url": "http://200.54.19.131:8500/play/a0ea"
-},
-{"name": "Nick JR",
-"image":"https://www.dropbox.com/s/dahup8chsedyg21/1_0_1_7697_41E_1_C00000_0_0_0.png?dl=1",
-"url": "http://200.54.51.206:3000/play/a02k"
-},
+"url": "https://latelegratis.com/nicktoons-en-vivo/",
+"isHost": true },
 {"name": "Cartoon network",
 "image":"https://latamnoticias.com/wp-content/uploads/2018/02/descarga-1.jpg",
-"url": "http://200.54.19.131:8500/play/a0m1"
-},
-{"name": "Cartoon network",
-"image":"https://latamnoticias.com/wp-content/uploads/2018/02/descarga-1.jpg",
-"url": "http://200.54.51.206:3000/play/a02d"
-},
+"url": "https://latelegratis.com/cartoon-network-en-vivo/",
+"isHost": true },
 {"name": "DISNEY JR",
 "image":"https://latelegratis.com/logos/disneyjunior.png",
-"url": "http://200.54.19.131:8500/play/a0g5"
-},
+"url": "https://latelegratis.com/disney-junior-en-vivo/",
+"isHost": true },
 {"name": "Clan tv",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BE_40A_1_C00000_0_0_0.png",
 "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8"
 },
 {"name": "BABY",
 "image":"https://latelegratis.com/logos/babyfirst.png",
-"url": "http://200.54.19.131:8500/play/a0kf"
-},
+"url": "https://latelegratis.com/babyfirst-en-vivo/",
+"isHost": true },
 {"name": "Disney Channel",
 "image":"https://latelegratis.com/logos/disneychannel.png",
-"url": "http://200.54.19.131:8500/play/a0jr"
-},
-{"name": "Disney Channel",
-"image":"https://latelegratis.com/logos/disneychannel.png",
-"url": "http://200.54.51.206:3000/play/a02f"
-},
+"url": "https://latelegratis.com/disney-channel-en-vivo/",
+"isHost": true },
 {"name": "Locomocion tv",
 "image":"https://www.dropbox.com/s/hbcl3jdmuxrh7xl/locomotion-television-channel-cable-television-pay-television-aquatic-locomotion.jpg?dl=1",
 "url": "http://locomotiontv.com/envivo/loco_ch/stream.m3u8",
@@ -235,8 +219,8 @@
 },
 {"name": "Toomcast",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",
-"url": "http://200.54.19.131:8500/play/a0l2"
-},
+"url": "https://latelegratis.com/tooncast-en-vivo/",
+"isHost": true },
 {"name": "Pequeradio",
 "image":"https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
 "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
@@ -247,20 +231,16 @@
 },
 {"name": "Disney Xd",
 "image":"https://www.dropbox.com/s/zokmvk8pqdpryb2/1_0_1_772A_416_1_C00000_0_0_0.png?dl=1",
-"url": "http://200.54.19.131:8500/play/a0js"
-},
+"url": "https://latelegratis.com/disney-xd-en-vivo/",
+"isHost": true },
 {"name": "Boomerang ",
 "image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
-"url": "http://200.54.19.131:8500/play/a0h9"
-},
-{"name": "Nat Geo Kids",
-"image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
-"url": "http://200.54.19.131:8500/play/a0j3"
-},
+"https://latelegratis.com/boomerang-en-vivo/",
+"isHost": true },
 {"name": "Discovery Kids",
 "image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
-"url": "http://200.54.19.131:8500/play/a0j1"
-},
+"url": "https://latelegratis.com/discovery-kids-en-vivo/",
+"isHost": true },
 {"name": "Danimados online",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/510EZNFsh5L._AC_SY450_.jpg",
 "url": "https://danimados.com/genero/series-clasicas/",
@@ -560,12 +540,12 @@
 {"name": "Vamos",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/vamos.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/33.ts",
-"userAgent":"cp_525"
+"userAgent":"cp_san"
 },
-{"name": "La Liga bein",
+{"name": "La Liga",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/liga.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/36.ts",
-"userAgent":"cp_525"
+"userAgent":"cp_san"
 },
 {"name": "Liga",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/liga.png",
@@ -575,7 +555,7 @@
 {"name": "Liga tv",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/laligatv.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/37.ts",
-"userAgent":"cp_525"
+"userAgent":"cp_san"
 },
 {"name": "Liga tv",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/laligatv.png",
@@ -585,7 +565,7 @@
 {"name":"M+ Liga.Campeones",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/ligadecampeones.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/38.ts",
-"userAgent":"cp_525"
+"userAgent":"cp_san"
 },
 {"name":"M+ Liga.Campeones",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/ligadecampeones.png",
@@ -595,12 +575,12 @@
 {"name":"M+ Deportes",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/mdeportes.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/34.ts",
-"userAgent":"cp_525"
+"userAgent":"cp_san"
 },
 {"name":"M+ Golf",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/640px-Movistar_Golf.svg.png",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/28.ts",
-"userAgent":"cp_525"
+"userAgent":"cp_san"
 },
 {"name":"Goltv",
 "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/1200px-Gol.svg.png",
@@ -625,12 +605,12 @@
 {"name": "F1 MOVISTAR",
 "image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts",
-"userAgent":"cp_525"
+"userAgent":"cp_san"
 },
 {"name": "F1 MOVISTAR",
 "image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
 "url": "http://51.210.33.224:8000/live/iOSnopCadr988h/tosoNoSuppotersaA127/30.ts",
-"userAgent":"cp_525"
+"userAgent":"cp_san"
 },
 {"name": "F1 MOVISTAR",
 "image":"https://www.dropbox.com/s/ih15dxb62u3zkbg/infiniti-formula-1.png?dl=1",
