@@ -187,19 +187,23 @@
 {"name": "Nickelodeon",
 "image":"https://latelegratis.com/logos/nick.png",
 "url": "https://latelegratis.com/TV/infantiles/nick/",
-"isHost": true },
+"isHost": true 
+},
 {"name": "Nick toms",
 "image":"https://www.dropbox.com/s/dahup8chsedyg21/1_0_1_7697_41E_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/nicktoons-en-vivo/",
-"isHost": true },
+"isHost": true 
+},
 {"name": "Cartoon network",
 "image":"https://latamnoticias.com/wp-content/uploads/2018/02/descarga-1.jpg",
 "url": "https://latelegratis.com/cartoon-network-en-vivo/",
-"isHost": true },
+"isHost": true
+},
 {"name": "DISNEY JR",
 "image":"https://latelegratis.com/logos/disneyjunior.png",
 "url": "https://latelegratis.com/disney-junior-en-vivo/",
-"isHost": true },
+"isHost": true
+},
 {"name": "Clan tv",
 "image":"https://raw.githubusercontent.com/jungla-team/picon-movistar/master/movistar-art/1_0_1_77BE_40A_1_C00000_0_0_0.png",
 "url": "https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/master.m3u8"
@@ -207,11 +211,13 @@
 {"name": "BABY",
 "image":"https://latelegratis.com/logos/babyfirst.png",
 "url": "https://latelegratis.com/babyfirst-en-vivo/",
-"isHost": true },
+"isHost": true 
+},
 {"name": "Disney Channel",
 "image":"https://latelegratis.com/logos/disneychannel.png",
 "url": "https://latelegratis.com/disney-channel-en-vivo/",
-"isHost": true },
+"isHost": true 
+},
 {"name": "Locomocion tv",
 "image":"https://www.dropbox.com/s/hbcl3jdmuxrh7xl/locomotion-television-channel-cable-television-pay-television-aquatic-locomotion.jpg?dl=1",
 "url": "http://locomotiontv.com/envivo/loco_ch/stream.m3u8",
@@ -220,7 +226,8 @@
 {"name": "Toomcast",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",
 "url": "https://latelegratis.com/tooncast-en-vivo/",
-"isHost": true },
+"isHost": true 
+},
 {"name": "Pequeradio",
 "image":"https://graph.facebook.com/Pequeradio/picture?width=200&height=200",
 "url": "https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8"
@@ -232,38 +239,46 @@
 {"name": "Disney Xd",
 "image":"https://www.dropbox.com/s/zokmvk8pqdpryb2/1_0_1_772A_416_1_C00000_0_0_0.png?dl=1",
 "url": "https://latelegratis.com/disney-xd-en-vivo/",
-"isHost": true },
+"isHost": true
+},
 {"name": "Boomerang ",
 "image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
 "https://latelegratis.com/boomerang-en-vivo/",
-"isHost": true },
+"isHost": true
+},
 {"name": "Discovery Kids",
 "image":"https://unagallega.files.wordpress.com/2020/03/debujos-animados-famosos.jpg",
 "url": "https://latelegratis.com/discovery-kids-en-vivo/",
-"isHost": true },
+"isHost": true 
+},
 {"name": "Danimados online",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/510EZNFsh5L._AC_SY450_.jpg",
 "url": "https://danimados.com/genero/series-clasicas/",
-"embed": "true" },
+"embed": "true" 
+},
 {"name": "seodiv online",
 "image":"https://raw.githubusercontent.com/tirimosqui/iconnos/main/510EZNFsh5L._AC_SY450_.jpg",
 "url": "https://seodiv.com/",
-"embed": "true" },
+"embed": "true"
+},
 {"name": "bob esponja",
 "image": "https://image.flaticon.com/icons/png/512/1045/1045642.png",
 "url": "http://directostv.teleame.com/bobesponjaendirecto/",
 "playInNatPlayer": "true",
-"embed": "true" },
+"embed": "true" 
+},
 {"name": "dib warner",
 "image": "https://image.flaticon.com/icons/png/512/1045/1045642.png",
 "url": "http://directostv.teleame.com/wbkidsendirecto/",
 "playInNatPlayer": "true",
-"embed": "true" },
+"embed": "true" 
+},
 {"name": "pocoyo",
 "image": "https://image.flaticon.com/icons/png/512/1045/1045642.png",
 "url": "http://directostv.teleame.com/pocoyoendirecto/",
 "playInNatPlayer": "true",
-"embed": "true" },
+"embed": "true" 
+},
 {"name": "Erase una Vez Cuerpo H",
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",
 "url": "https://www.youtube.com/embed?v=zAvKlfXE4S8&list=PLlE4Xc7KvdwwqfwJjQxClEwOFuL6fSJ37",
